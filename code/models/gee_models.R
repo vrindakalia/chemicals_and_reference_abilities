@@ -6,8 +6,14 @@ source("code/packages/packages_to_load.R")
 
 # Call in the data
 outcome_meta <- read_tsv("data/outcome_and_meta_data.txt")
+
 chemical_data <- read_tsv("data/chemicals_replaced_filtered_transformed.txt") %>% 
     clean_names(.)
+chemical_names_original <- read_tsv("data/chemicals_replaced_filtered_transformed.txt") %>% 
+    names(.) %>% .[-1]
+chemical_names_clean <- names(chemical_data)[-1]
+chemical_names_key <- cbind(chemical_names_original, chemical_names_clean)
+chemical_names_key %>% data.frame() %>% write_tsv("data/chemical_names_key.txt")
 chemical_meta_data <- read_tsv("data/targeted_assay_meta_data.txt") %>% 
     clean_names(.)
 

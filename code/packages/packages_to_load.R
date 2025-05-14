@@ -3,7 +3,7 @@
 
 packages_needed <- c("tidyverse", "bkmr", "openxlsx", "cowplot", "table1", "ggcorrplot", "lme4",
                      "haven", "corrplot", "here", "purrr", "readxl", "janitor", "gee", "performance",
-                     "cowplot")
+                     "cowplot", "table1")
 
 # install only those packages not currently installed
 packages_unavailable <- packages_needed[!(packages_needed %in% installed.packages()[,"Package"])]

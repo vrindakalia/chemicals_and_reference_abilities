@@ -73,53 +73,14 @@ detection_tally <- gather(chemicals_detection, key = "chemical", value = "detect
     group_by(chemical, detection) %>%
     tally %>% 
     spread(detection, n, fill = 0) %>% 
-    mutate(proportion_detected = `3`/dim(chemicals_detection)[1])
+    mutate(proportion_detected = `3`/dim(chemicals_detection)[1]) %>% 
+    select(chemical, missing = `1`, belowLOD = `2`, detected = `3`, proportion_detected)
+
+detection_tally %>% write_tsv("code/output/detection_all_samples.txt")
 
 # Chemicals detected in at least 50% of the samples ----
 detection_in_atl_50perc <- detection_tally %>% 
     filter(proportion_detected >= 0.5)
-
-# Detection by visit ----
-detection_tally_by_visit <- chemicals_detection_meta_data %>% 
-    select(YSAD, BL0FU1, all_of(chemical_names)) %>% 
-    gather(., key = "chemical", value = "detection", -YSAD, -BL0FU1) %>%
-    group_by(chemical, detection, BL0FU1) %>%
-    tally() 
-
-# Detection tally in samples from visit 1
-number_of_n_visit0 <- chemicals_detection_meta_data %>% 
-    filter(BL0FU1 == 0) %>% 
-    dim() %>% .[1]
-
-detection_tally_visit0 <- detection_tally_by_visit %>% 
-    filter(BL0FU1 == 0) %>% 
-    spread(detection, n, fill = 0) %>% 
-    mutate(proportion_detected_visit0 = `3`/number_of_n_visit0) %>% 
-    select(chemical, proportion_detected_visit0)
-
-# Detection tally in samples from visit 2
-number_of_n_visit1 <- chemicals_detection_meta_data %>% 
-    filter(BL0FU1 == 1) %>% 
-    dim(.) %>% .[1]
-
-detection_tally_visit1 <- detection_tally_by_visit %>% 
-    filter(BL0FU1 == 1) %>% 
-    spread(detection, n, fill = 0) %>% 
-    mutate(proportion_detected_visit1 = `3`/number_of_n_visit1) %>% 
-    select(chemical, proportion_detected_visit1)
-
-tally_both_visits <- merge(detection_tally_visit0, detection_tally_visit1, by = "chemical") %>% 
-    mutate(in_prev = case_when(chemical %in% detection_in_atl_50perc$chemical ~ 1,
-                               !chemical %in% detection_in_atl_50perc$chemical ~ 0))
-
-plot_detection_by_visits <- tally_both_visits %>% 
-    ggplot(aes(x = proportion_detected_visit0, y = proportion_detected_visit1, color = factor(in_prev))) +
-    geom_point() +
-    geom_hline(yintercept = 0.5) +
-    geom_vline(xintercept = 0.5) + 
-    scale_color_manual(values = c("grey56", "orange"), labels = c("<50%", "≥50%")) +
-    theme_bw() +
-    labs(x = "Detectionin Visit 1", y = "Detection in Visit 2", color = "Detection overall")
 
 # Replace N/F with NA, and LOD and NA with half minimum value  ----
 chemicals_replaced <- chemical_concentrations %>% 
@@ -196,6 +157,7 @@ cqv_gt_06 <- chemicals_cqv_all %>%
     filter(cqv_1 > 0.6) 
 
 cqv_gt_06 %>% select(chemical) %>% write_tsv("data/chemical_names_filtered.txt")
+
 # Filter based on variability ----
 chemicals_replaced_filtered <- chemicals_replaced %>% 
     select("YSAD", cqv_gt_06$chemical) 

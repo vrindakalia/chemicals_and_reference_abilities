@@ -23,7 +23,6 @@ chemicals_long <- chemicals %>%
 concentration_boxplot <- chemicals_long %>% 
     filter(!is.na(concentration)) %>% 
     ggplot(aes(y = chemical, x = log2(concentration), fill = factor(bl0fu1), color = factor(bl0fu1))) +
-    #annotate(geom = "rect", xmin = 0.85, xmax = 0.9, ymin = 0.03, ymax = 0.05, colour = "white", fill = "white") +
     geom_boxplot(alpha = 0.25, width = 0.7) +
     facet_grid(source_updated~., scales = "free", space = "free") +
     theme_bw(base_size = 18) +
@@ -35,11 +34,11 @@ concentration_boxplot <- chemicals_long %>%
           panel.border = element_rect(colour = "black", size=0.7),
           strip.text.y = element_blank() , 
           strip.background = element_blank()) +
-    scale_fill_manual(values = c("maroon", "darkgreen")) +
-    scale_color_manual(values = c("maroon", "darkgreen")) +
+    scale_fill_manual(values = c("black", "darkgreen")) +
+    scale_color_manual(values = c("black", "darkgreen")) +
     labs(y = "", x = "Log2(Concentration (ppb))", fill = "Visit", color = "Visit")
 
 png("figures/chemical_concentration_boxplots.png", res = 300, units = "in",
-    h = 14, w = 6)
+    h = 14, w = 7)
 concentration_boxplot
 dev.off()

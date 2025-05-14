@@ -23,31 +23,33 @@ chemical_groups <- read_tsv("data/chemical_groups.txt") %>%
 overall_risk <- ggplot(risks.overall, aes(quantile, est, ymin = est - 1.96*sd, ymax = est + 1.96*sd)) +  
     geom_hline(yintercept = 00, linetype="dashed", color = "gray")+ 
     geom_pointrange() + 
-    scale_y_continuous(name = "Estimate") + 
-    scale_x_continuous(name = "Quantile") + 
+    scale_y_continuous(name = "Relative % \nChange in Estimate") + 
+    scale_x_continuous(name = "Total Chemical Exposure Quantile") + 
     theme_bw()
 
 
 response <- pred.resp.univar %>% 
-          merge(., chemical_groups, by = "variable") %>% 
-          arrange(source) %>% 
-          mutate(label = case_when(source == "agricultural" ~ "Farming/\nGreen space",
+    merge(., chemical_groups, by = "variable") %>% 
+    arrange(source) %>% 
+    mutate(label = case_when(source == "agricultural" ~ "Farming/\nGreen space",
                                    source == "food" ~ "Food",
                                    source == "household dust" ~ "Indoor dust",
                                    source == "industrial" ~ "Industrial use",
                                    source == "legacy" ~ "Legacy",
                                    source == "legacy PCB" ~ "Legacy PCBs")) %>% 
-          ggplot(aes(z, est, ymin = est - 1.96*se, ymax = est + 1.96*se, color = label)) + 
-          geom_smooth(stat = "identity") + ylab("Estimate") + facet_wrap(~ chemical_plot_labels, ncol = 6) +
-          geom_hline(yintercept=00, linetype="dashed", color="black") +
-          theme_bw()+
-          theme(legend.position = "right",
-                panel.border = element_rect(colour = "black", size=0.7),
-                strip.placement = "outside", 
-                strip.background = element_rect(fill = "white")) +
+    ggplot(aes(z, est, ymin = est - 1.96*se, ymax = est + 1.96*se, color = label)) + 
+    geom_smooth(stat = "identity") + 
+    labs(x = "Log2 Chemical Concentration Z-score", y = "Estimate") + 
+    facet_wrap(~ chemical_plot_labels, ncol = 6) +
+    geom_hline(yintercept=00, linetype="dashed", color="black") +
+    theme_bw()+
+    theme(legend.position = "right",
+          panel.border = element_rect(colour = "black", size=0.7),
+          strip.placement = "outside", 
+          strip.background = element_rect(fill = "white")) +
           labs(color = "") +
-          scale_color_manual(values = c("#4363d8", "#f58231", "#808000",
-                                        "#800000", "#469990", "#000075"))
+    scale_color_manual(values = c("#4363d8", "#f58231", "#808000",
+                                  "#800000", "#469990", "#000075"))
 
 
 # Change labels for conditional PIPs plot
