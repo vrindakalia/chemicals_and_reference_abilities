@@ -23,7 +23,7 @@ chemical_groups <- read_tsv("data/chemical_groups.txt") %>%
 overall_risk <- ggplot(risks.overall, aes(quantile, est, ymin = est - 1.96*sd, ymax = est + 1.96*sd)) +  
     geom_hline(yintercept = 00, linetype="dashed", color = "gray")+ 
     geom_pointrange() + 
-    scale_y_continuous(name = "Relative % \nChange in Estimate") + 
+    scale_y_continuous(name = "Estimate") + 
     scale_x_continuous(name = "Total Chemical Exposure Quantile") + 
     theme_bw()
 
@@ -76,6 +76,7 @@ global_score_cond_pips <- pips_labels %>%
     facet_grid(rows = vars(label_gpip), scales = "free", space = "free") +
     labs(x = "Conditional Posterior Inclusion Probability (PIP)", y = "") +
     scale_color_manual(values = c("#4363d8", "#f58231", "#808000",
-                                  "#800000", "#469990", "#000075"))
+                                  "#800000", "#469990", "#000075")) +
+    xlim(0,1)
 
 

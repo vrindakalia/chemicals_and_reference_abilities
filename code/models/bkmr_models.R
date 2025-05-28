@@ -80,7 +80,6 @@ y <- all_data$global_score
 global_bkmr <- run_bkmr(outcome = y, covariates = x, chemicals = z, ID = id, 
                        chemical_groups = groups, iter_num = num, outcome_name = "global_score")
 
-
 # Save data for plots
 bkmr_get_data_for_plots(outcome_name = "memory", iter_num = num)
 bkmr_get_data_for_plots(outcome_name = "vocabulary", iter_num = num)

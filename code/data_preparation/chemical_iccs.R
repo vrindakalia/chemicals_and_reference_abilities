@@ -36,14 +36,5 @@ icc_adjusted <- sapply(icc_chemical,"[[", 1) %>%
     rename(icc_adjusted = 1) %>% 
     mutate(chemical = chemicals_df_names)
 
-icc_adjusted %>% 
-    ggplot(aes(x = icc_adjusted, y = reorder(chemical, icc_adjusted))) +
-    geom_point() +
-    theme_bw()
 
-chemicals_for_icc %>% 
-    select(pcb_194, bl0fu1, id) %>% 
-    spread(key = "bl0fu1", value = pcb_194) %>% 
-    ggplot(aes(x = `0`, y =`1`)) +
-    geom_point()
     

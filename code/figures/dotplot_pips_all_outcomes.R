@@ -91,7 +91,7 @@ pips_graph <- pip_plot %>%
           strip.background = element_rect(fill = "white")) +
     guides(alpha = "none") +
     scale_color_manual(values = c("#0B8EF8FF", "orange", "#681A15FF",  "#DC5750FF"),
-                       labels = c(c("Memory", "Reasoning", "Speed", "Vocabulary"))) +
+                       labels = c(c("Episodic memory", "Fluid reasoning", "Perceptual speed", "Vocabulary"))) +
     scale_alpha_manual(values = c(0.6, 0.8)) +
     scale_shape_manual(values = c(20, 15), labels = c("Conditional PIP", "Group PIP")) +
     guides(color = guide_legend(ncol = 2),

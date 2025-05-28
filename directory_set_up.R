@@ -1,5 +1,5 @@
 # script to create directories and folders needed for analysis
-# last updated: 04/23/3035
+# last updated: 05/15/2025
 
 # install packages ----
 source("code/packages/packages_to_load.R")
@@ -15,6 +15,7 @@ functions_folder <- here("code","functions")
 models_folder <- here("code","models")
 output_folder <- here("code","output")
 figures_folder <- here("code","figures")
+summaries_folder <- here("code","summaries")
 
 # all paths in one vector ----
 folder_names <- grep("_folder", names(.GlobalEnv), value = TRUE)

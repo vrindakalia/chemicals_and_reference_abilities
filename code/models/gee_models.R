@@ -22,7 +22,8 @@ covariate_names <- c("age_eval", "female", "edu_min", "race", "gc_batch", "sub_i
 
 # Data combined 
 all_data <- merge(outcome_meta, chemical_data, by = "ysad") %>% 
-    merge(., chemical_meta_data, by = "ysad")
+    merge(., chemical_meta_data, by = "ysad") %>% 
+    filter(!is.na(apoe_e4))
 
 # Set up to run GEEs
 chemicals <- select(all_data, all_of(chemical_names))

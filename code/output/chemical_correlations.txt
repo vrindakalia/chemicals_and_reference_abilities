@@ -1,0 +1,2402 @@
+Var1	Var2	correlation	pvalue	source_var1	source_var2
+1,2-Dichlorbenzene	1,2-Dichlorbenzene	1	0	Industrial use	Industrial use
+1,2-Dichlorbenzene	1,2,3,7,8-Pentachlorodibenzodioxin	0.13	0.10530870758912614	Industrial use	Food
+1,2-Dichlorbenzene	1,2,4-Trichlorobenzene	0.19	0.1605084946705309	Industrial use	Industrial use
+1,2-Dichlorbenzene	1,2,4,5-Tetrachlorobenzene	-0.02	0.40236392746868166	Industrial use	Industrial use
+1,2-Dichlorbenzene	2,3,7,8-Tetrachlorodibenzofuran	0.12	0.012201860100535106	Industrial use	Food
+1,2-Dichlorbenzene	2,4,5-Trichlorophenol	0.08	0.001784456064979676	Industrial use	Industrial use
+1,2-Dichlorbenzene	Acenaphthene	-0.04	0.14094585722690853	Industrial use	Food
+1,2-Dichlorbenzene	Anthracene	-0.12	0.006628963944407134	Industrial use	Food
+1,2-Dichlorbenzene	b-Hexachlorocyclohexane	0.23	2.5919446898865232e-6	Industrial use	Legacy
+1,2-Dichlorbenzene	Benz[a]anthracene	0.09	0.026229599807155616	Industrial use	Food
+1,2-Dichlorbenzene	Benzo[b]fluoranthene	-0.03	0.944262524444033	Industrial use	Food
+1,2-Dichlorbenzene	Bromacil	-0.03	0.6434841388202002	Industrial use	Farming/Green space
+1,2-Dichlorbenzene	Bromoform	-0.06	0.44183450147386283	Industrial use	other
+1,2-Dichlorbenzene	Chrysene	0.03	0.8517645332920316	Industrial use	Food
+1,2-Dichlorbenzene	cis-Permethrin	-0.06	0.03359773500956383	Industrial use	Indoor dust
+1,2-Dichlorbenzene	d-Lindane	0.32	2.760568450734226e-9	Industrial use	Legacy
+1,2-Dichlorbenzene	DEET	-0.05	0.11760954515693682	Industrial use	Indoor dust
+1,2-Dichlorbenzene	Diethyl Phthalate	-0	0.4945505151618179	Industrial use	Indoor dust
+1,2-Dichlorbenzene	Endrin	-0.25	5.496210393238323e-8	Industrial use	Legacy
+1,2-Dichlorbenzene	Ethion	-0.03	0.9375486123104776	Industrial use	Legacy
+1,2-Dichlorbenzene	Etridiazole	0.16	0.24007597983869403	Industrial use	Farming/Green space
+1,2-Dichlorbenzene	Fluoranthene	0.14	1.1594062020477047e-4	Industrial use	Food
+1,2-Dichlorbenzene	Fonofos	0.05	0.543803514529043	Industrial use	Legacy
+1,2-Dichlorbenzene	Hexachlorbutadiene	0.18	3.276211498967869e-6	Industrial use	Industrial use
+1,2-Dichlorbenzene	Isosafrole	0.19	0.2488633794353377	Industrial use	Legacy
+1,2-Dichlorbenzene	Lindane	0.23	7.98606221873761e-10	Industrial use	Legacy
+1,2-Dichlorbenzene	Malathion	0.15	0.01640502292201001	Industrial use	Indoor dust
+1,2-Dichlorbenzene	Mirex	-0.02	0.32390841133972936	Industrial use	Legacy
+1,2-Dichlorbenzene	p,p'-DDD	0.04	0.5244748391545986	Industrial use	Legacy
+1,2-Dichlorbenzene	p,p'-DDE	0.11	0.076087050135618	Industrial use	Legacy
+1,2-Dichlorbenzene	Parathion	-0.13	1.6410587171517013e-4	Industrial use	Legacy
+1,2-Dichlorbenzene	PCB 128	0.45	7.235091584254126e-15	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 18	0.13	0.12690588697311844	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 203	-0.05	0.17031976389443437	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 33	-0.14	0.01723590855891373	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 44	0.2	9.422655749370135e-4	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 49	0.22	0.0026090932245921264	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 52	-0.1	0.1125408850959965	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 60	-0.15	2.0639531260547358e-4	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 77	-0.05	0.5219548300364389	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	PCB 81	0.03	0.18394729549207423	Industrial use	Legacy PCB
+1,2-Dichlorbenzene	Phenacetin	-0.08	0.026379604066971315	Industrial use	other
+1,2-Dichlorbenzene	Phenanthrene	0.03	5.140474518381528e-4	Industrial use	Food
+1,2-Dichlorbenzene	Pyrene	0.1	0.0013009343379011833	Industrial use	Food
+1,2-Dichlorbenzene	Safrole	0.16	0.8075730954232417	Industrial use	Legacy
+1,2-Dichlorbenzene	Simazine	0.5	1.0223694742466927e-29	Industrial use	Farming/Green space
+1,2-Dichlorbenzene	trans-Permethrin	-0.2	2.2726630815733848e-7	Industrial use	Indoor dust
+1,2-Dichlorbenzene	Tri(2-chloroethyl) phosphate	-0.06	0.3061673856748961	Industrial use	Indoor dust
+1,2-Dichlorbenzene	Triadimefon	0.3	9.037484915347025e-7	Industrial use	Farming/Green space
+1,2,3,7,8-Pentachlorodibenzodioxin	1,2-Dichlorbenzene	0.13	0.10530870758912614	Food	Industrial use
+1,2,3,7,8-Pentachlorodibenzodioxin	1,2,3,7,8-Pentachlorodibenzodioxin	1	0	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	1,2,4-Trichlorobenzene	0.18	0.01581477383663616	Food	Industrial use
+1,2,3,7,8-Pentachlorodibenzodioxin	1,2,4,5-Tetrachlorobenzene	0.08	0.3794942907640696	Food	Industrial use
+1,2,3,7,8-Pentachlorodibenzodioxin	2,3,7,8-Tetrachlorodibenzofuran	0.26	7.560026206175685e-5	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	2,4,5-Trichlorophenol	0.18	0.010790769510285179	Food	Industrial use
+1,2,3,7,8-Pentachlorodibenzodioxin	Acenaphthene	-0.02	0.8468152809638747	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Anthracene	-0.03	0.07258855594679546	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	b-Hexachlorocyclohexane	0.24	4.2603269410450355e-4	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Benz[a]anthracene	0.04	0.6682074592690461	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Benzo[b]fluoranthene	0.13	0.8803022126741098	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Bromacil	0.14	0.10701523203438265	Food	Farming/Green space
+1,2,3,7,8-Pentachlorodibenzodioxin	Bromoform	0.08	0.4180530048799699	Food	other
+1,2,3,7,8-Pentachlorodibenzodioxin	Chrysene	0	0.5691830042438818	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	cis-Permethrin	0.22	0.01713154360007918	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	d-Lindane	0.12	0.16057607277664895	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	DEET	0.05	0.3125790044371682	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	Diethyl Phthalate	0.24	6.257207772967122e-5	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	Endrin	0.19	0.0011111185477635267	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Ethion	0.1	0.014320486800906399	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Etridiazole	-0.04	0.3640470449785296	Food	Farming/Green space
+1,2,3,7,8-Pentachlorodibenzodioxin	Fluoranthene	-0.18	0.17608274489921663	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Fonofos	0.24	0.002175094634987906	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Hexachlorbutadiene	0.14	0.07357031446064745	Food	Industrial use
+1,2,3,7,8-Pentachlorodibenzodioxin	Isosafrole	0.2	0.004499880458614516	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Lindane	0.18	0.013187070952398273	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Malathion	0.22	0.001045283974209258	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	Mirex	0.17	0.024616961017465595	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	p,p'-DDD	0.25	0.005811776390433484	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	p,p'-DDE	0.27	5.532955166647355e-5	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Parathion	0.2	0.003704970426131489	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 128	0.16	0.03532729638387284	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 18	-0.15	0.009865523197730139	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 203	0.29	7.375668884904107e-8	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 33	0.11	0.0958208974116963	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 44	-0.06	0.18818010913370437	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 49	-0.01	0.8283116476657567	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 52	0.09	0.6115114275512242	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 60	0.04	0.4558263317333392	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 77	0.18	0.016093392811944465	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	PCB 81	0.22	0.08784206882686063	Food	Legacy PCB
+1,2,3,7,8-Pentachlorodibenzodioxin	Phenacetin	0.25	4.6836219588135934e-5	Food	other
+1,2,3,7,8-Pentachlorodibenzodioxin	Phenanthrene	0.09	0.005168810466017489	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Pyrene	-0.13	0.6702044148697274	Food	Food
+1,2,3,7,8-Pentachlorodibenzodioxin	Safrole	-0.08	0.05917854397750828	Food	Legacy
+1,2,3,7,8-Pentachlorodibenzodioxin	Simazine	0.15	0.4084579887025762	Food	Farming/Green space
+1,2,3,7,8-Pentachlorodibenzodioxin	trans-Permethrin	0.14	0.09847218806616435	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	Tri(2-chloroethyl) phosphate	0.27	9.677985514742183e-6	Food	Indoor dust
+1,2,3,7,8-Pentachlorodibenzodioxin	Triadimefon	0.06	0.12962208206341394	Food	Farming/Green space
+1,2,4-Trichlorobenzene	1,2-Dichlorbenzene	0.19	0.1605084946705309	Industrial use	Industrial use
+1,2,4-Trichlorobenzene	1,2,3,7,8-Pentachlorodibenzodioxin	0.18	0.01581477383663616	Industrial use	Food
+1,2,4-Trichlorobenzene	1,2,4-Trichlorobenzene	1	0	Industrial use	Industrial use
+1,2,4-Trichlorobenzene	1,2,4,5-Tetrachlorobenzene	0.35	1.2258427754915587e-20	Industrial use	Industrial use
+1,2,4-Trichlorobenzene	2,3,7,8-Tetrachlorodibenzofuran	0.22	8.544014901027938e-4	Industrial use	Food
+1,2,4-Trichlorobenzene	2,4,5-Trichlorophenol	0.28	2.726475747023831e-9	Industrial use	Industrial use
+1,2,4-Trichlorobenzene	Acenaphthene	0.12	9.971334035795956e-5	Industrial use	Food
+1,2,4-Trichlorobenzene	Anthracene	0.17	7.979777655112649e-6	Industrial use	Food
+1,2,4-Trichlorobenzene	b-Hexachlorocyclohexane	0.25	3.251469765932375e-5	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Benz[a]anthracene	0.09	0.38307252754282284	Industrial use	Food
+1,2,4-Trichlorobenzene	Benzo[b]fluoranthene	0.06	0.6173585424842213	Industrial use	Food
+1,2,4-Trichlorobenzene	Bromacil	0.2	9.65199008775574e-5	Industrial use	Farming/Green space
+1,2,4-Trichlorobenzene	Bromoform	0.16	0.001570747256477876	Industrial use	other
+1,2,4-Trichlorobenzene	Chrysene	0.06	0.7308440085470264	Industrial use	Food
+1,2,4-Trichlorobenzene	cis-Permethrin	0.18	0.009318874397309145	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	d-Lindane	0.02	0.1797329020255461	Industrial use	Legacy
+1,2,4-Trichlorobenzene	DEET	0	0.33512814125251034	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	Diethyl Phthalate	0.16	0.0075267576627724726	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	Endrin	0.1	0.158261645545768	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Ethion	0.08	0.011707648781379825	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Etridiazole	0.12	2.5234962858940835e-6	Industrial use	Farming/Green space
+1,2,4-Trichlorobenzene	Fluoranthene	-0.04	0.6560934062346204	Industrial use	Food
+1,2,4-Trichlorobenzene	Fonofos	0.32	3.566713065955259e-7	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Hexachlorbutadiene	0.24	7.4391792944792634e-6	Industrial use	Industrial use
+1,2,4-Trichlorobenzene	Isosafrole	0.31	1.3484255088294162e-6	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Lindane	0.07	0.13163315982199988	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Malathion	0.14	0.22252491195672383	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	Mirex	0.23	3.63026352450631e-4	Industrial use	Legacy
+1,2,4-Trichlorobenzene	p,p'-DDD	0.15	8.112019405806817e-4	Industrial use	Legacy
+1,2,4-Trichlorobenzene	p,p'-DDE	0.27	3.0374869045348194e-4	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Parathion	0.21	3.5430695664907883e-4	Industrial use	Legacy
+1,2,4-Trichlorobenzene	PCB 128	0.16	0.0023709854692806984	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 18	0.12	4.689410290523955e-6	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 203	0.16	0.0019253887027536759	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 33	0.11	0.005388748177489042	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 44	0.06	6.006335013868791e-4	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 49	-0.04	0.0013857436117292096	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 52	0.11	1.394274136659656e-4	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 60	0.08	0.23773864988452065	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 77	0.08	0.8944201304479096	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	PCB 81	0.24	1.953396900264063e-6	Industrial use	Legacy PCB
+1,2,4-Trichlorobenzene	Phenacetin	0.25	9.220437638879162e-5	Industrial use	other
+1,2,4-Trichlorobenzene	Phenanthrene	0.25	6.989803703820634e-7	Industrial use	Food
+1,2,4-Trichlorobenzene	Pyrene	0.04	0.13590430579378496	Industrial use	Food
+1,2,4-Trichlorobenzene	Safrole	0.25	2.945246471837708e-11	Industrial use	Legacy
+1,2,4-Trichlorobenzene	Simazine	0.05	0.42902567687743365	Industrial use	Farming/Green space
+1,2,4-Trichlorobenzene	trans-Permethrin	0.07	0.2859641597702337	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	Tri(2-chloroethyl) phosphate	0.19	1.0226912632787189e-4	Industrial use	Indoor dust
+1,2,4-Trichlorobenzene	Triadimefon	-0.01	0.16668148352798604	Industrial use	Farming/Green space
+1,2,4,5-Tetrachlorobenzene	1,2-Dichlorbenzene	-0.02	0.40236392746868166	Industrial use	Industrial use
+1,2,4,5-Tetrachlorobenzene	1,2,3,7,8-Pentachlorodibenzodioxin	0.08	0.3794942907640696	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	1,2,4-Trichlorobenzene	0.35	1.2258427754915587e-20	Industrial use	Industrial use
+1,2,4,5-Tetrachlorobenzene	1,2,4,5-Tetrachlorobenzene	1	0	Industrial use	Industrial use
+1,2,4,5-Tetrachlorobenzene	2,3,7,8-Tetrachlorodibenzofuran	0.25	0.020099352001622335	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	2,4,5-Trichlorophenol	0.17	0.012803384501840006	Industrial use	Industrial use
+1,2,4,5-Tetrachlorobenzene	Acenaphthene	0.24	2.9283367091936006e-8	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Anthracene	0.24	1.4742664817913468e-6	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	b-Hexachlorocyclohexane	0.19	1.776657015328024e-4	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Benz[a]anthracene	0.03	0.7793627545223415	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Benzo[b]fluoranthene	0.08	0.34250969945021026	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Bromacil	0.24	3.95651156167719e-5	Industrial use	Farming/Green space
+1,2,4,5-Tetrachlorobenzene	Bromoform	0.18	0.010523379066504801	Industrial use	other
+1,2,4,5-Tetrachlorobenzene	Chrysene	-0.03	0.4490991165285432	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	cis-Permethrin	0.34	2.7970251572425387e-6	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	d-Lindane	-0.17	4.290562307674148e-4	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	DEET	0.16	0.19539451490123474	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	Diethyl Phthalate	0.29	1.7368962107477487e-4	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	Endrin	0.34	9.84646729024883e-4	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Ethion	0.11	8.137477318236107e-4	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Etridiazole	-0.04	0.22860364333292593	Industrial use	Farming/Green space
+1,2,4,5-Tetrachlorobenzene	Fluoranthene	-0.19	0.5026547556542369	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Fonofos	0.32	5.858759296741139e-7	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Hexachlorbutadiene	0.14	0.06501650706360854	Industrial use	Industrial use
+1,2,4,5-Tetrachlorobenzene	Isosafrole	0.13	0.020514487984265296	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Lindane	-0.04	0.01680277291526569	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Malathion	0.18	0.05002134578783934	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	Mirex	0.32	1.7883956164331625e-4	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	p,p'-DDD	0.23	0.01092462513706475	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	p,p'-DDE	0.23	0.002994397382564276	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Parathion	0.37	1.1713592970758197e-8	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	PCB 128	0.03	0.07959457405539279	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 18	-0.02	0.0010076889613061496	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 203	0.35	1.6134633884446158e-8	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 33	0.22	1.1854760145576983e-4	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 44	-0.02	0.04984084601002678	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 49	-0.1	0.019821304811170816	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 52	0.18	0.002616341063638403	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 60	0.22	0.01549161794357999	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 77	0.25	0.10715109262501472	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	PCB 81	0.28	4.5482527419379264e-5	Industrial use	Legacy PCB
+1,2,4,5-Tetrachlorobenzene	Phenacetin	0.33	1.9622443379456064e-5	Industrial use	other
+1,2,4,5-Tetrachlorobenzene	Phenanthrene	0.18	6.55769486305967e-6	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Pyrene	-0.11	0.7088285639603433	Industrial use	Food
+1,2,4,5-Tetrachlorobenzene	Safrole	0.09	7.801011693497659e-8	Industrial use	Legacy
+1,2,4,5-Tetrachlorobenzene	Simazine	-0.07	0.3979703384921448	Industrial use	Farming/Green space
+1,2,4,5-Tetrachlorobenzene	trans-Permethrin	0.29	1.606063139469331e-5	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	Tri(2-chloroethyl) phosphate	0.26	9.64774040964062e-4	Industrial use	Indoor dust
+1,2,4,5-Tetrachlorobenzene	Triadimefon	-0.13	0.06704861060717142	Industrial use	Farming/Green space
+2,3,7,8-Tetrachlorodibenzofuran	1,2-Dichlorbenzene	0.12	0.012201860100535106	Food	Industrial use
+2,3,7,8-Tetrachlorodibenzofuran	1,2,3,7,8-Pentachlorodibenzodioxin	0.26	7.560026206175685e-5	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	1,2,4-Trichlorobenzene	0.22	8.544014901027938e-4	Food	Industrial use
+2,3,7,8-Tetrachlorodibenzofuran	1,2,4,5-Tetrachlorobenzene	0.25	0.020099352001622335	Food	Industrial use
+2,3,7,8-Tetrachlorodibenzofuran	2,3,7,8-Tetrachlorodibenzofuran	1	0	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	2,4,5-Trichlorophenol	0.17	0.1897505324470388	Food	Industrial use
+2,3,7,8-Tetrachlorodibenzofuran	Acenaphthene	0.08	0.1628825856720573	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Anthracene	0.01	0.31127057706014266	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	b-Hexachlorocyclohexane	0.3	2.1925554328945008e-8	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Benz[a]anthracene	0.07	0.5800249896523715	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Benzo[b]fluoranthene	0.14	0.5361283745930343	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Bromacil	0.22	6.025397067355268e-4	Food	Farming/Green space
+2,3,7,8-Tetrachlorodibenzofuran	Bromoform	0.2	0.03915426547509416	Food	other
+2,3,7,8-Tetrachlorodibenzofuran	Chrysene	0.07	0.1325606046514866	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	cis-Permethrin	0.31	1.2676698491947976e-7	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	d-Lindane	0.05	0.6720867863702088	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	DEET	0.05	0.9700448531393396	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	Diethyl Phthalate	0.29	4.526571739164591e-9	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	Endrin	0.36	2.1432820629676898e-13	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Ethion	0.12	0.004015169395083116	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Etridiazole	-0.05	0.06579279443343629	Food	Farming/Green space
+2,3,7,8-Tetrachlorodibenzofuran	Fluoranthene	-0.4	2.294091371476734e-13	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Fonofos	0.25	6.756891468393997e-5	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Hexachlorbutadiene	0.08	0.9735230973250977	Food	Industrial use
+2,3,7,8-Tetrachlorodibenzofuran	Isosafrole	0.21	4.620095042339802e-5	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Lindane	0.2	0.0030615032987890626	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Malathion	0.24	1.0749703897533763e-5	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	Mirex	0.32	5.049294155231126e-8	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	p,p'-DDD	0.33	4.5622244928639895e-8	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	p,p'-DDE	0.28	5.325133037122318e-6	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Parathion	0.3	4.02509260961235e-8	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	PCB 128	0.11	0.0021248371012351675	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 18	-0.16	5.287142232563513e-4	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 203	0.26	1.5514832513972615e-7	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 33	0.31	5.4936701378552595e-8	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 44	-0.1	0.0038814988295509966	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 49	0	0.6361643347983081	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 52	0.13	0.8709356584401424	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 60	0.15	0.5799295669577672	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 77	0.29	3.419444106955616e-4	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	PCB 81	0.27	0.010016110268804926	Food	Legacy PCB
+2,3,7,8-Tetrachlorodibenzofuran	Phenacetin	0.37	7.869518336809546e-15	Food	other
+2,3,7,8-Tetrachlorodibenzofuran	Phenanthrene	-0.04	0.3626524869208213	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Pyrene	-0.31	5.104744426879261e-8	Food	Food
+2,3,7,8-Tetrachlorodibenzofuran	Safrole	-0.05	0.02008389050210121	Food	Legacy
+2,3,7,8-Tetrachlorodibenzofuran	Simazine	0.14	0.03772690782742964	Food	Farming/Green space
+2,3,7,8-Tetrachlorodibenzofuran	trans-Permethrin	0.32	4.905269941308834e-5	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	Tri(2-chloroethyl) phosphate	0.37	6.31757378870704e-17	Food	Indoor dust
+2,3,7,8-Tetrachlorodibenzofuran	Triadimefon	-0.13	0.021129720188707953	Food	Farming/Green space
+2,4,5-Trichlorophenol	1,2-Dichlorbenzene	0.08	0.001784456064979676	Industrial use	Industrial use
+2,4,5-Trichlorophenol	1,2,3,7,8-Pentachlorodibenzodioxin	0.18	0.010790769510285179	Industrial use	Food
+2,4,5-Trichlorophenol	1,2,4-Trichlorobenzene	0.28	2.726475747023831e-9	Industrial use	Industrial use
+2,4,5-Trichlorophenol	1,2,4,5-Tetrachlorobenzene	0.17	0.012803384501840006	Industrial use	Industrial use
+2,4,5-Trichlorophenol	2,3,7,8-Tetrachlorodibenzofuran	0.17	0.1897505324470388	Industrial use	Food
+2,4,5-Trichlorophenol	2,4,5-Trichlorophenol	1	0	Industrial use	Industrial use
+2,4,5-Trichlorophenol	Acenaphthene	0.23	5.520068919584668e-6	Industrial use	Food
+2,4,5-Trichlorophenol	Anthracene	0.21	0.0029122402359608385	Industrial use	Food
+2,4,5-Trichlorophenol	b-Hexachlorocyclohexane	0.22	7.095421198887328e-4	Industrial use	Legacy
+2,4,5-Trichlorophenol	Benz[a]anthracene	0.05	0.15466554513563405	Industrial use	Food
+2,4,5-Trichlorophenol	Benzo[b]fluoranthene	0.1	0.25042784803439744	Industrial use	Food
+2,4,5-Trichlorophenol	Bromacil	0.22	4.839940993457132e-4	Industrial use	Farming/Green space
+2,4,5-Trichlorophenol	Bromoform	0.18	0.006127122303103224	Industrial use	other
+2,4,5-Trichlorophenol	Chrysene	0.07	0.19792804771694006	Industrial use	Food
+2,4,5-Trichlorophenol	cis-Permethrin	0.27	0.03468243051240004	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	d-Lindane	0.01	0.10144063453309697	Industrial use	Legacy
+2,4,5-Trichlorophenol	DEET	0.06	0.5093478527972267	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	Diethyl Phthalate	0.19	0.009231600606939826	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	Endrin	0.11	0.08574694948155749	Industrial use	Legacy
+2,4,5-Trichlorophenol	Ethion	0.12	0.0017379717510531856	Industrial use	Legacy
+2,4,5-Trichlorophenol	Etridiazole	0.04	0.003209724358980789	Industrial use	Farming/Green space
+2,4,5-Trichlorophenol	Fluoranthene	-0.1	0.13162735740961795	Industrial use	Food
+2,4,5-Trichlorophenol	Fonofos	0.21	0.10445061257544049	Industrial use	Legacy
+2,4,5-Trichlorophenol	Hexachlorbutadiene	0.32	1.5395316629314516e-11	Industrial use	Industrial use
+2,4,5-Trichlorophenol	Isosafrole	0.2	0.10497994078155919	Industrial use	Legacy
+2,4,5-Trichlorophenol	Lindane	0.04	0.13428887761884573	Industrial use	Legacy
+2,4,5-Trichlorophenol	Malathion	0.13	0.34361296883945636	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	Mirex	0.16	0.8369629228752957	Industrial use	Legacy
+2,4,5-Trichlorophenol	p,p'-DDD	0.11	0.5053393891646409	Industrial use	Legacy
+2,4,5-Trichlorophenol	p,p'-DDE	0.17	0.08325452534451576	Industrial use	Legacy
+2,4,5-Trichlorophenol	Parathion	0.22	0.15639071216143097	Industrial use	Legacy
+2,4,5-Trichlorophenol	PCB 128	0.05	0.018270050392502152	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 18	0.11	1.3852104120064722e-7	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 203	0.21	0.15886848751920193	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 33	0.15	0.3178200063856669	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 44	0.11	6.339240769234502e-7	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 49	-0.14	0.03418775230553732	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 52	0.09	0.23471870325896046	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 60	0.09	0.5704865859764161	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 77	0.08	0.20379798767546814	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	PCB 81	0.25	3.5180279824889826e-4	Industrial use	Legacy PCB
+2,4,5-Trichlorophenol	Phenacetin	0.2	0.8464870202446587	Industrial use	other
+2,4,5-Trichlorophenol	Phenanthrene	0.16	0.001221829831860881	Industrial use	Food
+2,4,5-Trichlorophenol	Pyrene	-0.01	0.02894060158128747	Industrial use	Food
+2,4,5-Trichlorophenol	Safrole	0.05	0.002002777702442248	Industrial use	Legacy
+2,4,5-Trichlorophenol	Simazine	0.09	1.652065701307859e-5	Industrial use	Farming/Green space
+2,4,5-Trichlorophenol	trans-Permethrin	0.21	0.21451350800228053	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	Tri(2-chloroethyl) phosphate	0.18	0.41523103670905626	Industrial use	Indoor dust
+2,4,5-Trichlorophenol	Triadimefon	-0.11	0.5851584622741774	Industrial use	Farming/Green space
+Acenaphthene	1,2-Dichlorbenzene	-0.04	0.14094585722690853	Food	Industrial use
+Acenaphthene	1,2,3,7,8-Pentachlorodibenzodioxin	-0.02	0.8468152809638747	Food	Food
+Acenaphthene	1,2,4-Trichlorobenzene	0.12	9.971334035795956e-5	Food	Industrial use
+Acenaphthene	1,2,4,5-Tetrachlorobenzene	0.24	2.9283367091936006e-8	Food	Industrial use
+Acenaphthene	2,3,7,8-Tetrachlorodibenzofuran	0.08	0.1628825856720573	Food	Food
+Acenaphthene	2,4,5-Trichlorophenol	0.23	5.520068919584668e-6	Food	Industrial use
+Acenaphthene	Acenaphthene	1	0	Food	Food
+Acenaphthene	Anthracene	0.6	1.8093821303158525e-26	Food	Food
+Acenaphthene	b-Hexachlorocyclohexane	-0.11	0.336074038213371	Food	Legacy
+Acenaphthene	Benz[a]anthracene	0.15	0.032362959612015754	Food	Food
+Acenaphthene	Benzo[b]fluoranthene	0.05	0.7385559978337644	Food	Food
+Acenaphthene	Bromacil	0.19	4.1905653347577805e-4	Food	Farming/Green space
+Acenaphthene	Bromoform	0.17	0.0024561555277470945	Food	other
+Acenaphthene	Chrysene	0.04	0.257251994615378	Food	Food
+Acenaphthene	cis-Permethrin	0.29	3.2273692072483624e-9	Food	Indoor dust
+Acenaphthene	d-Lindane	-0.25	7.969042177669898e-7	Food	Legacy
+Acenaphthene	DEET	0.02	0.38003815171896116	Food	Indoor dust
+Acenaphthene	Diethyl Phthalate	0.32	2.2800546740080464e-16	Food	Indoor dust
+Acenaphthene	Endrin	0.11	0.041483836321295105	Food	Legacy
+Acenaphthene	Ethion	0.17	9.433717015039267e-7	Food	Legacy
+Acenaphthene	Etridiazole	0.31	6.589735950511943e-12	Food	Farming/Green space
+Acenaphthene	Fluoranthene	-0.05	0.5410209525685192	Food	Food
+Acenaphthene	Fonofos	0.02	0.7622360180833039	Food	Legacy
+Acenaphthene	Hexachlorbutadiene	0.19	3.984967889716122e-4	Food	Industrial use
+Acenaphthene	Isosafrole	-0.02	0.3299287176161101	Food	Legacy
+Acenaphthene	Lindane	-0.18	0.001782293280597983	Food	Legacy
+Acenaphthene	Malathion	0.25	7.004155961144393e-7	Food	Indoor dust
+Acenaphthene	Mirex	0.13	0.04867945301480519	Food	Legacy
+Acenaphthene	p,p'-DDD	0.09	0.002585165793896743	Food	Legacy
+Acenaphthene	p,p'-DDE	0.15	0.021845379237260463	Food	Legacy
+Acenaphthene	Parathion	0.25	8.669422078278052e-8	Food	Legacy
+Acenaphthene	PCB 128	0.17	2.271409545068154e-5	Food	Legacy PCB
+Acenaphthene	PCB 18	0.34	2.98939500551577e-15	Food	Legacy PCB
+Acenaphthene	PCB 203	0.23	2.572922238383751e-6	Food	Legacy PCB
+Acenaphthene	PCB 33	0.34	1.1345154033995969e-11	Food	Legacy PCB
+Acenaphthene	PCB 44	0.51	4.840113975786611e-23	Food	Legacy PCB
+Acenaphthene	PCB 49	-0.23	2.3814423831504356e-5	Food	Legacy PCB
+Acenaphthene	PCB 52	0.15	3.60519608160151e-5	Food	Legacy PCB
+Acenaphthene	PCB 60	0.12	0.4580131555630351	Food	Legacy PCB
+Acenaphthene	PCB 77	0.22	1.1171259875464536e-4	Food	Legacy PCB
+Acenaphthene	PCB 81	0.2	9.089703734188694e-6	Food	Legacy PCB
+Acenaphthene	Phenacetin	0.19	5.967817410235741e-5	Food	other
+Acenaphthene	Phenanthrene	0.26	3.616316718618758e-4	Food	Food
+Acenaphthene	Pyrene	0.1	0.0678511173378866	Food	Food
+Acenaphthene	Safrole	0.18	3.302998508177908e-8	Food	Legacy
+Acenaphthene	Simazine	0.19	5.654646693771066e-5	Food	Farming/Green space
+Acenaphthene	trans-Permethrin	0.28	6.329088746608721e-13	Food	Indoor dust
+Acenaphthene	Tri(2-chloroethyl) phosphate	0.13	0.0016298794220295783	Food	Indoor dust
+Acenaphthene	Triadimefon	-0.34	1.2373750085324572e-13	Food	Farming/Green space
+Anthracene	1,2-Dichlorbenzene	-0.12	0.006628963944407134	Food	Industrial use
+Anthracene	1,2,3,7,8-Pentachlorodibenzodioxin	-0.03	0.07258855594679546	Food	Food
+Anthracene	1,2,4-Trichlorobenzene	0.17	7.979777655112649e-6	Food	Industrial use
+Anthracene	1,2,4,5-Tetrachlorobenzene	0.24	1.4742664817913468e-6	Food	Industrial use
+Anthracene	2,3,7,8-Tetrachlorodibenzofuran	0.01	0.31127057706014266	Food	Food
+Anthracene	2,4,5-Trichlorophenol	0.21	0.0029122402359608385	Food	Industrial use
+Anthracene	Acenaphthene	0.6	1.8093821303158525e-26	Food	Food
+Anthracene	Anthracene	1	0	Food	Food
+Anthracene	b-Hexachlorocyclohexane	-0.21	0.03825957819808344	Food	Legacy
+Anthracene	Benz[a]anthracene	0.07	0.34218148152735317	Food	Food
+Anthracene	Benzo[b]fluoranthene	-0.01	0.1988209187419573	Food	Food
+Anthracene	Bromacil	0.14	0.07850914072896442	Food	Farming/Green space
+Anthracene	Bromoform	0.14	0.017609011017586763	Food	other
+Anthracene	Chrysene	0	0.4944394848919904	Food	Food
+Anthracene	cis-Permethrin	0.31	1.0319261004865273e-9	Food	Indoor dust
+Anthracene	d-Lindane	-0.38	1.344566971438385e-11	Food	Legacy
+Anthracene	DEET	0.13	0.003817095321317708	Food	Indoor dust
+Anthracene	Diethyl Phthalate	0.31	2.4845199404907224e-11	Food	Indoor dust
+Anthracene	Endrin	0.07	0.611136871227754	Food	Legacy
+Anthracene	Ethion	0.1	0.07827005901038452	Food	Legacy
+Anthracene	Etridiazole	0.24	6.36302740633067e-7	Food	Farming/Green space
+Anthracene	Fluoranthene	0.1	0.018267697349773807	Food	Food
+Anthracene	Fonofos	0.08	0.44241179779558115	Food	Legacy
+Anthracene	Hexachlorbutadiene	0.14	0.15728340088458734	Food	Industrial use
+Anthracene	Isosafrole	-0.03	0.4781317062913283	Food	Legacy
+Anthracene	Lindane	-0.36	1.5826351602124612e-14	Food	Legacy
+Anthracene	Malathion	0.24	1.1704041249646274e-6	Food	Indoor dust
+Anthracene	Mirex	0.19	5.300226386902963e-4	Food	Legacy
+Anthracene	p,p'-DDD	0.05	0.10343199809618206	Food	Legacy
+Anthracene	p,p'-DDE	0.15	0.033434067206015265	Food	Legacy
+Anthracene	Parathion	0.41	4.2913674891815814e-17	Food	Legacy
+Anthracene	PCB 128	0.13	9.399990488197969e-4	Food	Legacy PCB
+Anthracene	PCB 18	0.35	2.0919430504453372e-10	Food	Legacy PCB
+Anthracene	PCB 203	0.26	1.2822381920057508e-6	Food	Legacy PCB
+Anthracene	PCB 33	0.27	1.6749713906767246e-4	Food	Legacy PCB
+Anthracene	PCB 44	0.37	1.449474287020174e-7	Food	Legacy PCB
+Anthracene	PCB 49	-0.22	0.024077198871852754	Food	Legacy PCB
+Anthracene	PCB 52	0.11	0.30381702032984065	Food	Legacy PCB
+Anthracene	PCB 60	0.15	0.2554437073932943	Food	Legacy PCB
+Anthracene	PCB 77	0.3	4.105688405818467e-8	Food	Legacy PCB
+Anthracene	PCB 81	0.23	7.835378295322844e-6	Food	Legacy PCB
+Anthracene	Phenacetin	0.23	3.6362526706046946e-6	Food	other
+Anthracene	Phenanthrene	0.48	3.024190329622239e-13	Food	Food
+Anthracene	Pyrene	0.25	5.485006172552688e-5	Food	Food
+Anthracene	Safrole	0.15	7.1343711815749204e-6	Food	Legacy
+Anthracene	Simazine	-0.04	0.2371230330671587	Food	Farming/Green space
+Anthracene	trans-Permethrin	0.29	4.937814314875945e-8	Food	Indoor dust
+Anthracene	Tri(2-chloroethyl) phosphate	0.13	0.06851595231053642	Food	Indoor dust
+Anthracene	Triadimefon	-0.25	0.00898235081804682	Food	Farming/Green space
+b-Hexachlorocyclohexane	1,2-Dichlorbenzene	0.23	2.5919446898865232e-6	Legacy	Industrial use
+b-Hexachlorocyclohexane	1,2,3,7,8-Pentachlorodibenzodioxin	0.24	4.2603269410450355e-4	Legacy	Food
+b-Hexachlorocyclohexane	1,2,4-Trichlorobenzene	0.25	3.251469765932375e-5	Legacy	Industrial use
+b-Hexachlorocyclohexane	1,2,4,5-Tetrachlorobenzene	0.19	1.776657015328024e-4	Legacy	Industrial use
+b-Hexachlorocyclohexane	2,3,7,8-Tetrachlorodibenzofuran	0.3	2.1925554328945008e-8	Legacy	Food
+b-Hexachlorocyclohexane	2,4,5-Trichlorophenol	0.22	7.095421198887328e-4	Legacy	Industrial use
+b-Hexachlorocyclohexane	Acenaphthene	-0.11	0.336074038213371	Legacy	Food
+b-Hexachlorocyclohexane	Anthracene	-0.21	0.03825957819808344	Legacy	Food
+b-Hexachlorocyclohexane	b-Hexachlorocyclohexane	1	0	Legacy	Legacy
+b-Hexachlorocyclohexane	Benz[a]anthracene	0.1	0.801069363124641	Legacy	Food
+b-Hexachlorocyclohexane	Benzo[b]fluoranthene	0.15	0.9703123062211788	Legacy	Food
+b-Hexachlorocyclohexane	Bromacil	0.16	0.0018650517460271669	Legacy	Farming/Green space
+b-Hexachlorocyclohexane	Bromoform	0.06	0.37924452985883594	Legacy	other
+b-Hexachlorocyclohexane	Chrysene	0.12	0.930728828298739	Legacy	Food
+b-Hexachlorocyclohexane	cis-Permethrin	0.24	3.289697033136771e-6	Legacy	Indoor dust
+b-Hexachlorocyclohexane	d-Lindane	0.35	5.266958626621688e-5	Legacy	Legacy
+b-Hexachlorocyclohexane	DEET	0.16	0.020736725943761795	Legacy	Indoor dust
+b-Hexachlorocyclohexane	Diethyl Phthalate	-0.01	0.572031821660627	Legacy	Indoor dust
+b-Hexachlorocyclohexane	Endrin	0.17	0.04274992041227466	Legacy	Legacy
+b-Hexachlorocyclohexane	Ethion	-0.09	0.4870798718532364	Legacy	Legacy
+b-Hexachlorocyclohexane	Etridiazole	-0.1	0.044854607675767114	Legacy	Farming/Green space
+b-Hexachlorocyclohexane	Fluoranthene	-0.19	0.00740059419465615	Legacy	Food
+b-Hexachlorocyclohexane	Fonofos	0.33	2.0543593633436043e-13	Legacy	Legacy
+b-Hexachlorocyclohexane	Hexachlorbutadiene	0.14	0.07207175672012496	Legacy	Industrial use
+b-Hexachlorocyclohexane	Isosafrole	0.41	5.611645761649895e-12	Legacy	Legacy
+b-Hexachlorocyclohexane	Lindane	0.59	7.208129465319757e-13	Legacy	Legacy
+b-Hexachlorocyclohexane	Malathion	0.08	0.1418124335957075	Legacy	Indoor dust
+b-Hexachlorocyclohexane	Mirex	0.24	1.0069016621674862e-4	Legacy	Legacy
+b-Hexachlorocyclohexane	p,p'-DDD	0.17	0.02086284363157442	Legacy	Legacy
+b-Hexachlorocyclohexane	p,p'-DDE	0.22	7.265880715553464e-7	Legacy	Legacy
+b-Hexachlorocyclohexane	Parathion	0.15	0.0014663512507610875	Legacy	Legacy
+b-Hexachlorocyclohexane	PCB 128	0.05	0.01598396340631409	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 18	-0.28	5.910740607048495e-5	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 203	0.2	2.2491674710989532e-4	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 33	-0.03	0.8096193005395396	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 44	-0.21	9.753495553797412e-5	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 49	0.13	0.014030823091365986	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 52	0.07	0.5106105759667621	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 60	0.03	0.4448788953097921	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 77	0.07	0.7001087364990345	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	PCB 81	0.24	0.013536567664581056	Legacy	Legacy PCB
+b-Hexachlorocyclohexane	Phenacetin	0.21	2.00342282948677e-6	Legacy	other
+b-Hexachlorocyclohexane	Phenanthrene	0.03	0.0012877708457270467	Legacy	Food
+b-Hexachlorocyclohexane	Pyrene	-0.19	0.01994810427476191	Legacy	Food
+b-Hexachlorocyclohexane	Safrole	0.03	0.3178584957994092	Legacy	Legacy
+b-Hexachlorocyclohexane	Simazine	0.04	0.15872394316490263	Legacy	Farming/Green space
+b-Hexachlorocyclohexane	trans-Permethrin	0.07	0.5864463004934242	Legacy	Indoor dust
+b-Hexachlorocyclohexane	Tri(2-chloroethyl) phosphate	0.12	0.009824584840654283	Legacy	Indoor dust
+b-Hexachlorocyclohexane	Triadimefon	0.07	0.06085361976246441	Legacy	Farming/Green space
+Benz[a]anthracene	1,2-Dichlorbenzene	0.09	0.026229599807155616	Food	Industrial use
+Benz[a]anthracene	1,2,3,7,8-Pentachlorodibenzodioxin	0.04	0.6682074592690461	Food	Food
+Benz[a]anthracene	1,2,4-Trichlorobenzene	0.09	0.38307252754282284	Food	Industrial use
+Benz[a]anthracene	1,2,4,5-Tetrachlorobenzene	0.03	0.7793627545223415	Food	Industrial use
+Benz[a]anthracene	2,3,7,8-Tetrachlorodibenzofuran	0.07	0.5800249896523715	Food	Food
+Benz[a]anthracene	2,4,5-Trichlorophenol	0.05	0.15466554513563405	Food	Industrial use
+Benz[a]anthracene	Acenaphthene	0.15	0.032362959612015754	Food	Food
+Benz[a]anthracene	Anthracene	0.07	0.34218148152735317	Food	Food
+Benz[a]anthracene	b-Hexachlorocyclohexane	0.1	0.801069363124641	Food	Legacy
+Benz[a]anthracene	Benz[a]anthracene	1	0	Food	Food
+Benz[a]anthracene	Benzo[b]fluoranthene	0.11	0.09866099976212206	Food	Food
+Benz[a]anthracene	Bromacil	0	0.5239804002574338	Food	Farming/Green space
+Benz[a]anthracene	Bromoform	0.01	0.7285086964214429	Food	other
+Benz[a]anthracene	Chrysene	0.48	3.879667084806762e-22	Food	Food
+Benz[a]anthracene	cis-Permethrin	0.04	0.054453098581032984	Food	Indoor dust
+Benz[a]anthracene	d-Lindane	0.01	0.9833061315462396	Food	Legacy
+Benz[a]anthracene	DEET	-0.05	0.069064183277882	Food	Indoor dust
+Benz[a]anthracene	Diethyl Phthalate	0.08	0.7101097131016201	Food	Indoor dust
+Benz[a]anthracene	Endrin	-0	4.6784442702334857e-4	Food	Legacy
+Benz[a]anthracene	Ethion	0.1	0.04943772233276636	Food	Legacy
+Benz[a]anthracene	Etridiazole	0.02	0.1286858007820253	Food	Farming/Green space
+Benz[a]anthracene	Fluoranthene	0.04	6.286175213627966e-7	Food	Food
+Benz[a]anthracene	Fonofos	-0.07	0.0016443877741998305	Food	Legacy
+Benz[a]anthracene	Hexachlorbutadiene	0.11	0.04078897788128997	Food	Industrial use
+Benz[a]anthracene	Isosafrole	0.02	0.018305913044719898	Food	Legacy
+Benz[a]anthracene	Lindane	0.13	0.040707291775939125	Food	Legacy
+Benz[a]anthracene	Malathion	-0.03	0.009549129509723588	Food	Indoor dust
+Benz[a]anthracene	Mirex	0.03	0.11946999476700683	Food	Legacy
+Benz[a]anthracene	p,p'-DDD	-0.01	0.06643763476402101	Food	Legacy
+Benz[a]anthracene	p,p'-DDE	0.08	0.9820661815322129	Food	Legacy
+Benz[a]anthracene	Parathion	-0.02	0.002000322333146749	Food	Legacy
+Benz[a]anthracene	PCB 128	0.05	0.24036965109807262	Food	Legacy PCB
+Benz[a]anthracene	PCB 18	0.13	2.208127180848968e-5	Food	Legacy PCB
+Benz[a]anthracene	PCB 203	0.02	0.10400466552094369	Food	Legacy PCB
+Benz[a]anthracene	PCB 33	-0.03	0.04337083660960432	Food	Legacy PCB
+Benz[a]anthracene	PCB 44	0.14	2.8003142465203615e-6	Food	Legacy PCB
+Benz[a]anthracene	PCB 49	-0.03	0.5681292266381038	Food	Legacy PCB
+Benz[a]anthracene	PCB 52	0.05	0.05357360348942446	Food	Legacy PCB
+Benz[a]anthracene	PCB 60	0.01	0.12722056927880238	Food	Legacy PCB
+Benz[a]anthracene	PCB 77	-0.05	0.017270343954043553	Food	Legacy PCB
+Benz[a]anthracene	PCB 81	0.03	0.4856447176740174	Food	Legacy PCB
+Benz[a]anthracene	Phenacetin	-0.03	4.220622319864981e-4	Food	other
+Benz[a]anthracene	Phenanthrene	0.09	0.015551401792868883	Food	Food
+Benz[a]anthracene	Pyrene	0.08	9.652868116348844e-7	Food	Food
+Benz[a]anthracene	Safrole	0.1	0.0019932400261915523	Food	Legacy
+Benz[a]anthracene	Simazine	0.16	7.877643043384032e-5	Food	Farming/Green space
+Benz[a]anthracene	trans-Permethrin	0.05	0.20885499839032762	Food	Indoor dust
+Benz[a]anthracene	Tri(2-chloroethyl) phosphate	-0.01	0.0328085160462203	Food	Indoor dust
+Benz[a]anthracene	Triadimefon	-0.03	0.9501512631836286	Food	Farming/Green space
+Benzo[b]fluoranthene	1,2-Dichlorbenzene	-0.03	0.944262524444033	Food	Industrial use
+Benzo[b]fluoranthene	1,2,3,7,8-Pentachlorodibenzodioxin	0.13	0.8803022126741098	Food	Food
+Benzo[b]fluoranthene	1,2,4-Trichlorobenzene	0.06	0.6173585424842213	Food	Industrial use
+Benzo[b]fluoranthene	1,2,4,5-Tetrachlorobenzene	0.08	0.34250969945021026	Food	Industrial use
+Benzo[b]fluoranthene	2,3,7,8-Tetrachlorodibenzofuran	0.14	0.5361283745930343	Food	Food
+Benzo[b]fluoranthene	2,4,5-Trichlorophenol	0.1	0.25042784803439744	Food	Industrial use
+Benzo[b]fluoranthene	Acenaphthene	0.05	0.7385559978337644	Food	Food
+Benzo[b]fluoranthene	Anthracene	-0.01	0.1988209187419573	Food	Food
+Benzo[b]fluoranthene	b-Hexachlorocyclohexane	0.15	0.9703123062211788	Food	Legacy
+Benzo[b]fluoranthene	Benz[a]anthracene	0.11	0.09866099976212206	Food	Food
+Benzo[b]fluoranthene	Benzo[b]fluoranthene	1	0	Food	Food
+Benzo[b]fluoranthene	Bromacil	-0.02	0.048110762884745306	Food	Farming/Green space
+Benzo[b]fluoranthene	Bromoform	0.08	0.9000930874666035	Food	other
+Benzo[b]fluoranthene	Chrysene	0.06	0.30368625351827694	Food	Food
+Benzo[b]fluoranthene	cis-Permethrin	0.17	0.17576361108942912	Food	Indoor dust
+Benzo[b]fluoranthene	d-Lindane	-0.01	0.06167628455072541	Food	Legacy
+Benzo[b]fluoranthene	DEET	-0.02	0.006669971099787125	Food	Indoor dust
+Benzo[b]fluoranthene	Diethyl Phthalate	0.16	0.9262989760644476	Food	Indoor dust
+Benzo[b]fluoranthene	Endrin	0.13	0.12957465202495116	Food	Legacy
+Benzo[b]fluoranthene	Ethion	0.09	0.08438894607603048	Food	Legacy
+Benzo[b]fluoranthene	Etridiazole	0.03	0.06892590650932501	Food	Farming/Green space
+Benzo[b]fluoranthene	Fluoranthene	-0.16	0.21063185835027173	Food	Food
+Benzo[b]fluoranthene	Fonofos	0.09	0.10760527534199339	Food	Legacy
+Benzo[b]fluoranthene	Hexachlorbutadiene	0.06	0.11814088753850749	Food	Industrial use
+Benzo[b]fluoranthene	Isosafrole	0.09	0.6950176839258851	Food	Legacy
+Benzo[b]fluoranthene	Lindane	0.05	0.09635279518616117	Food	Legacy
+Benzo[b]fluoranthene	Malathion	0.13	0.7490626565453656	Food	Indoor dust
+Benzo[b]fluoranthene	Mirex	0.14	0.10795824116525796	Food	Legacy
+Benzo[b]fluoranthene	p,p'-DDD	0.19	0.2865594316664824	Food	Legacy
+Benzo[b]fluoranthene	p,p'-DDE	0.17	0.6208072166256269	Food	Legacy
+Benzo[b]fluoranthene	Parathion	0.11	0.020225125112889902	Food	Legacy
+Benzo[b]fluoranthene	PCB 128	0.05	0.11164857501003025	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 18	-0.09	0.11006663399708529	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 203	0.17	0.919315942912287	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 33	0.17	0.6209831269635837	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 44	-0.03	0.01527525364529363	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 49	0.05	0.1607535087152889	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 52	-0.03	0.4695906340979843	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 60	0.13	0.1019971310204467	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 77	0.06	0.0029513251467307403	Food	Legacy PCB
+Benzo[b]fluoranthene	PCB 81	0.05	0.0660644364819181	Food	Legacy PCB
+Benzo[b]fluoranthene	Phenacetin	0.08	0.0074234461129894435	Food	other
+Benzo[b]fluoranthene	Phenanthrene	-0.02	0.2947801271661297	Food	Food
+Benzo[b]fluoranthene	Pyrene	-0.11	0.3403749176271811	Food	Food
+Benzo[b]fluoranthene	Safrole	-0.08	0.4750925246825406	Food	Legacy
+Benzo[b]fluoranthene	Simazine	0.06	0.00881769865706877	Food	Farming/Green space
+Benzo[b]fluoranthene	trans-Permethrin	0.15	0.3263336982316013	Food	Indoor dust
+Benzo[b]fluoranthene	Tri(2-chloroethyl) phosphate	0.11	0.0843889025613665	Food	Indoor dust
+Benzo[b]fluoranthene	Triadimefon	-0.09	0.619502080091642	Food	Farming/Green space
+Bromacil	1,2-Dichlorbenzene	-0.03	0.6434841388202002	Farming/Green space	Industrial use
+Bromacil	1,2,3,7,8-Pentachlorodibenzodioxin	0.14	0.10701523203438265	Farming/Green space	Food
+Bromacil	1,2,4-Trichlorobenzene	0.2	9.65199008775574e-5	Farming/Green space	Industrial use
+Bromacil	1,2,4,5-Tetrachlorobenzene	0.24	3.95651156167719e-5	Farming/Green space	Industrial use
+Bromacil	2,3,7,8-Tetrachlorodibenzofuran	0.22	6.025397067355268e-4	Farming/Green space	Food
+Bromacil	2,4,5-Trichlorophenol	0.22	4.839940993457132e-4	Farming/Green space	Industrial use
+Bromacil	Acenaphthene	0.19	4.1905653347577805e-4	Farming/Green space	Food
+Bromacil	Anthracene	0.14	0.07850914072896442	Farming/Green space	Food
+Bromacil	b-Hexachlorocyclohexane	0.16	0.0018650517460271669	Farming/Green space	Legacy
+Bromacil	Benz[a]anthracene	0	0.5239804002574338	Farming/Green space	Food
+Bromacil	Benzo[b]fluoranthene	-0.02	0.048110762884745306	Farming/Green space	Food
+Bromacil	Bromacil	1	0	Farming/Green space	Farming/Green space
+Bromacil	Bromoform	0.1	0.1789798519041335	Farming/Green space	other
+Bromacil	Chrysene	0.1	0.1296770901768656	Farming/Green space	Food
+Bromacil	cis-Permethrin	0.26	0.005365157279719996	Farming/Green space	Indoor dust
+Bromacil	d-Lindane	-0.03	0.9876926279297806	Farming/Green space	Legacy
+Bromacil	DEET	0.1	0.4246009506738101	Farming/Green space	Indoor dust
+Bromacil	Diethyl Phthalate	0.26	4.325546265541101e-5	Farming/Green space	Indoor dust
+Bromacil	Endrin	0.23	0.09036442992538182	Farming/Green space	Legacy
+Bromacil	Ethion	0.2	5.5960218438890646e-5	Farming/Green space	Legacy
+Bromacil	Etridiazole	0.11	0.0020911343382158626	Farming/Green space	Farming/Green space
+Bromacil	Fluoranthene	-0.21	0.16180179025871846	Farming/Green space	Food
+Bromacil	Fonofos	0.28	3.85103820187066e-6	Farming/Green space	Legacy
+Bromacil	Hexachlorbutadiene	0.09	0.14019240746182907	Farming/Green space	Industrial use
+Bromacil	Isosafrole	0.09	0.10087723458577269	Farming/Green space	Legacy
+Bromacil	Lindane	0.04	0.20540588018503783	Farming/Green space	Legacy
+Bromacil	Malathion	0.23	0.005661016201939665	Farming/Green space	Indoor dust
+Bromacil	Mirex	0.25	0.009884327006003545	Farming/Green space	Legacy
+Bromacil	p,p'-DDD	0.21	0.015399892588490914	Farming/Green space	Legacy
+Bromacil	p,p'-DDE	0.23	4.46727851885684e-4	Farming/Green space	Legacy
+Bromacil	Parathion	0.25	0.0024533160165897323	Farming/Green space	Legacy
+Bromacil	PCB 128	0.13	3.030306966314434e-4	Farming/Green space	Legacy PCB
+Bromacil	PCB 18	-0.04	0.075067450701947	Farming/Green space	Legacy PCB
+Bromacil	PCB 203	0.23	0.0028413460660904914	Farming/Green space	Legacy PCB
+Bromacil	PCB 33	0.35	2.0483898253999966e-7	Farming/Green space	Legacy PCB
+Bromacil	PCB 44	0.05	0.013686630214092494	Farming/Green space	Legacy PCB
+Bromacil	PCB 49	-0.07	0.17847967087789093	Farming/Green space	Legacy PCB
+Bromacil	PCB 52	0.12	0.05240329096398911	Farming/Green space	Legacy PCB
+Bromacil	PCB 60	0.17	0.13358311557814653	Farming/Green space	Legacy PCB
+Bromacil	PCB 77	0.15	0.7683879437913674	Farming/Green space	Legacy PCB
+Bromacil	PCB 81	0.25	0.0012896479063908243	Farming/Green space	Legacy PCB
+Bromacil	Phenacetin	0.33	1.2039243964166986e-5	Farming/Green space	other
+Bromacil	Phenanthrene	0.14	5.099155390716469e-4	Farming/Green space	Food
+Bromacil	Pyrene	-0.18	0.20648564606711814	Farming/Green space	Food
+Bromacil	Safrole	0.05	0.003934348396809217	Farming/Green space	Legacy
+Bromacil	Simazine	0.12	0.0010588621429400162	Farming/Green space	Farming/Green space
+Bromacil	trans-Permethrin	0.23	0.09780851088849583	Farming/Green space	Indoor dust
+Bromacil	Tri(2-chloroethyl) phosphate	0.32	1.3940997584508302e-6	Farming/Green space	Indoor dust
+Bromacil	Triadimefon	-0.12	0.18757753305539943	Farming/Green space	Farming/Green space
+Bromoform	1,2-Dichlorbenzene	-0.06	0.44183450147386283	other	Industrial use
+Bromoform	1,2,3,7,8-Pentachlorodibenzodioxin	0.08	0.4180530048799699	other	Food
+Bromoform	1,2,4-Trichlorobenzene	0.16	0.001570747256477876	other	Industrial use
+Bromoform	1,2,4,5-Tetrachlorobenzene	0.18	0.010523379066504801	other	Industrial use
+Bromoform	2,3,7,8-Tetrachlorodibenzofuran	0.2	0.03915426547509416	other	Food
+Bromoform	2,4,5-Trichlorophenol	0.18	0.006127122303103224	other	Industrial use
+Bromoform	Acenaphthene	0.17	0.0024561555277470945	other	Food
+Bromoform	Anthracene	0.14	0.017609011017586763	other	Food
+Bromoform	b-Hexachlorocyclohexane	0.06	0.37924452985883594	other	Legacy
+Bromoform	Benz[a]anthracene	0.01	0.7285086964214429	other	Food
+Bromoform	Benzo[b]fluoranthene	0.08	0.9000930874666035	other	Food
+Bromoform	Bromacil	0.1	0.1789798519041335	other	Farming/Green space
+Bromoform	Bromoform	1	0	other	other
+Bromoform	Chrysene	-0.01	0.10300805685900866	other	Food
+Bromoform	cis-Permethrin	0.26	6.912453874943878e-5	other	Indoor dust
+Bromoform	d-Lindane	-0.07	0.09373009472977066	other	Legacy
+Bromoform	DEET	0.18	4.6021201521546045e-4	other	Indoor dust
+Bromoform	Diethyl Phthalate	0.2	4.90215164660677e-4	other	Indoor dust
+Bromoform	Endrin	0.13	0.4363288467134159	other	Legacy
+Bromoform	Ethion	-0.03	0.4422275913061672	other	Legacy
+Bromoform	Etridiazole	0.04	0.15091397490030758	other	Farming/Green space
+Bromoform	Fluoranthene	-0.14	0.18793003995334684	other	Food
+Bromoform	Fonofos	0.19	0.0013825231039181292	other	Legacy
+Bromoform	Hexachlorbutadiene	0.11	0.07170635279275286	other	Industrial use
+Bromoform	Isosafrole	0.05	0.3341631659002571	other	Legacy
+Bromoform	Lindane	0.03	0.7995147945139477	other	Legacy
+Bromoform	Malathion	0.12	0.21494840029338372	other	Indoor dust
+Bromoform	Mirex	0.12	0.3807880885798598	other	Legacy
+Bromoform	p,p'-DDD	0.12	0.1377082705995584	other	Legacy
+Bromoform	p,p'-DDE	0.15	0.007353230049890231	other	Legacy
+Bromoform	Parathion	0.19	0.0013020797105499737	other	Legacy
+Bromoform	PCB 128	0	0.498177800561579	other	Legacy PCB
+Bromoform	PCB 18	-0.02	0.33644520588232063	other	Legacy PCB
+Bromoform	PCB 203	0.14	0.07651837605424568	other	Legacy PCB
+Bromoform	PCB 33	0.18	0.010983006560838414	other	Legacy PCB
+Bromoform	PCB 44	0	0.3991406190912916	other	Legacy PCB
+Bromoform	PCB 49	-0.1	0.23541446040562553	other	Legacy PCB
+Bromoform	PCB 52	0.18	0.018411694746782892	other	Legacy PCB
+Bromoform	PCB 60	0.15	0.2743850186214644	other	Legacy PCB
+Bromoform	PCB 77	0.11	0.46697115693066493	other	Legacy PCB
+Bromoform	PCB 81	0.17	0.043960644002261115	other	Legacy PCB
+Bromoform	Phenacetin	0.22	0.003949662726588115	other	other
+Bromoform	Phenanthrene	0.02	0.8623847031669384	other	Food
+Bromoform	Pyrene	-0.12	0.3725764705668987	other	Food
+Bromoform	Safrole	0.06	0.025600777685120146	other	Legacy
+Bromoform	Simazine	-0.01	0.5695614368555058	other	Farming/Green space
+Bromoform	trans-Permethrin	0.21	0.0040805303520285	other	Indoor dust
+Bromoform	Tri(2-chloroethyl) phosphate	0.08	0.8531325027840494	other	Indoor dust
+Bromoform	Triadimefon	-0.14	0.0460396144309906	other	Farming/Green space
+Chrysene	1,2-Dichlorbenzene	0.03	0.8517645332920316	Food	Industrial use
+Chrysene	1,2,3,7,8-Pentachlorodibenzodioxin	0	0.5691830042438818	Food	Food
+Chrysene	1,2,4-Trichlorobenzene	0.06	0.7308440085470264	Food	Industrial use
+Chrysene	1,2,4,5-Tetrachlorobenzene	-0.03	0.4490991165285432	Food	Industrial use
+Chrysene	2,3,7,8-Tetrachlorodibenzofuran	0.07	0.1325606046514866	Food	Food
+Chrysene	2,4,5-Trichlorophenol	0.07	0.19792804771694006	Food	Industrial use
+Chrysene	Acenaphthene	0.04	0.257251994615378	Food	Food
+Chrysene	Anthracene	0	0.4944394848919904	Food	Food
+Chrysene	b-Hexachlorocyclohexane	0.12	0.930728828298739	Food	Legacy
+Chrysene	Benz[a]anthracene	0.48	3.879667084806762e-22	Food	Food
+Chrysene	Benzo[b]fluoranthene	0.06	0.30368625351827694	Food	Food
+Chrysene	Bromacil	0.1	0.1296770901768656	Food	Farming/Green space
+Chrysene	Bromoform	-0.01	0.10300805685900866	Food	other
+Chrysene	Chrysene	1	0	Food	Food
+Chrysene	cis-Permethrin	0.07	0.03499151331944567	Food	Indoor dust
+Chrysene	d-Lindane	0.06	0.9189013700313168	Food	Legacy
+Chrysene	DEET	-0.03	0.00882608759252017	Food	Indoor dust
+Chrysene	Diethyl Phthalate	0.07	0.7870529198550081	Food	Indoor dust
+Chrysene	Endrin	0.07	0.012055391588963337	Food	Legacy
+Chrysene	Ethion	0.09	0.005851347981400487	Food	Legacy
+Chrysene	Etridiazole	0.07	0.0010971119510209066	Food	Farming/Green space
+Chrysene	Fluoranthene	-0.05	5.098386485191833e-4	Food	Food
+Chrysene	Fonofos	-0.03	0.019672704478657092	Food	Legacy
+Chrysene	Hexachlorbutadiene	0.08	0.20624130931474144	Food	Industrial use
+Chrysene	Isosafrole	0.12	0.7256345351891114	Food	Legacy
+Chrysene	Lindane	0.07	0.5565123275679962	Food	Legacy
+Chrysene	Malathion	0.04	0.06264612175540064	Food	Indoor dust
+Chrysene	Mirex	0.08	0.10437488465656222	Food	Legacy
+Chrysene	p,p'-DDD	0.04	0.14608474248365078	Food	Legacy
+Chrysene	p,p'-DDE	0.08	0.4903398478302212	Food	Legacy
+Chrysene	Parathion	0.05	0.0671348787649465	Food	Legacy
+Chrysene	PCB 128	-0.01	0.9306857052670989	Food	Legacy PCB
+Chrysene	PCB 18	0.03	2.1345814670051185e-4	Food	Legacy PCB
+Chrysene	PCB 203	0.08	0.4194303458122588	Food	Legacy PCB
+Chrysene	PCB 33	0	0.07995390608235929	Food	Legacy PCB
+Chrysene	PCB 44	0.01	4.3520269563542e-4	Food	Legacy PCB
+Chrysene	PCB 49	0.04	0.18639141990993469	Food	Legacy PCB
+Chrysene	PCB 52	0.06	0.009673329703053294	Food	Legacy PCB
+Chrysene	PCB 60	0.06	0.12091089100283162	Food	Legacy PCB
+Chrysene	PCB 77	-0.04	4.191301396477779e-4	Food	Legacy PCB
+Chrysene	PCB 81	0.11	0.0953531491688613	Food	Legacy PCB
+Chrysene	Phenacetin	0.1	0.08810349227272252	Food	other
+Chrysene	Phenanthrene	0.01	0.1884435576983035	Food	Food
+Chrysene	Pyrene	-0.03	0.0017818919319250687	Food	Food
+Chrysene	Safrole	0.05	8.281422081957588e-5	Food	Legacy
+Chrysene	Simazine	0.06	0.10592892545641436	Food	Farming/Green space
+Chrysene	trans-Permethrin	0.16	0.27346821181723424	Food	Indoor dust
+Chrysene	Tri(2-chloroethyl) phosphate	0.07	0.14371959054603184	Food	Indoor dust
+Chrysene	Triadimefon	-0.03	0.8725202424988875	Food	Farming/Green space
+cis-Permethrin	1,2-Dichlorbenzene	-0.06	0.03359773500956383	Indoor dust	Industrial use
+cis-Permethrin	1,2,3,7,8-Pentachlorodibenzodioxin	0.22	0.01713154360007918	Indoor dust	Food
+cis-Permethrin	1,2,4-Trichlorobenzene	0.18	0.009318874397309145	Indoor dust	Industrial use
+cis-Permethrin	1,2,4,5-Tetrachlorobenzene	0.34	2.7970251572425387e-6	Indoor dust	Industrial use
+cis-Permethrin	2,3,7,8-Tetrachlorodibenzofuran	0.31	1.2676698491947976e-7	Indoor dust	Food
+cis-Permethrin	2,4,5-Trichlorophenol	0.27	0.03468243051240004	Indoor dust	Industrial use
+cis-Permethrin	Acenaphthene	0.29	3.2273692072483624e-9	Indoor dust	Food
+cis-Permethrin	Anthracene	0.31	1.0319261004865273e-9	Indoor dust	Food
+cis-Permethrin	b-Hexachlorocyclohexane	0.24	3.289697033136771e-6	Indoor dust	Legacy
+cis-Permethrin	Benz[a]anthracene	0.04	0.054453098581032984	Indoor dust	Food
+cis-Permethrin	Benzo[b]fluoranthene	0.17	0.17576361108942912	Indoor dust	Food
+cis-Permethrin	Bromacil	0.26	0.005365157279719996	Indoor dust	Farming/Green space
+cis-Permethrin	Bromoform	0.26	6.912453874943878e-5	Indoor dust	other
+cis-Permethrin	Chrysene	0.07	0.03499151331944567	Indoor dust	Food
+cis-Permethrin	cis-Permethrin	1	0	Indoor dust	Indoor dust
+cis-Permethrin	d-Lindane	-0.06	0.0031366913176657557	Indoor dust	Legacy
+cis-Permethrin	DEET	0.27	7.578179150584849e-11	Indoor dust	Indoor dust
+cis-Permethrin	Diethyl Phthalate	0.4	1.4658901025320867e-15	Indoor dust	Indoor dust
+cis-Permethrin	Endrin	0.38	1.1913514708692455e-11	Indoor dust	Legacy
+cis-Permethrin	Ethion	0.02	0.9813936636906297	Indoor dust	Legacy
+cis-Permethrin	Etridiazole	-0.01	0.0579629585646513	Indoor dust	Farming/Green space
+cis-Permethrin	Fluoranthene	-0.51	2.834669042906521e-24	Indoor dust	Food
+cis-Permethrin	Fonofos	0.39	5.5835147829934335e-9	Indoor dust	Legacy
+cis-Permethrin	Hexachlorbutadiene	0.1	0.4002863145932518	Indoor dust	Industrial use
+cis-Permethrin	Isosafrole	0.29	7.263308073837847e-10	Indoor dust	Legacy
+cis-Permethrin	Lindane	0.02	0.11503052234472895	Indoor dust	Legacy
+cis-Permethrin	Malathion	0.46	8.594359701409227e-13	Indoor dust	Indoor dust
+cis-Permethrin	Mirex	0.44	7.852612108583136e-16	Indoor dust	Legacy
+cis-Permethrin	p,p'-DDD	0.36	2.3286015052148922e-8	Indoor dust	Legacy
+cis-Permethrin	p,p'-DDE	0.24	5.868719550441509e-5	Indoor dust	Legacy
+cis-Permethrin	Parathion	0.52	3.3817771160815816e-32	Indoor dust	Legacy
+cis-Permethrin	PCB 128	0.05	0.1160698035388732	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 18	-0.19	7.365534547637807e-5	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 203	0.42	9.656142521050871e-18	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 33	0.34	9.449849859235984e-9	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 44	-0.1	7.830307146328414e-5	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 49	-0.07	0.6048252430069501	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 52	0.17	0.797231370916815	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 60	0.23	0.7761181036004662	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 77	0.42	2.1556635258522263e-9	Indoor dust	Legacy PCB
+cis-Permethrin	PCB 81	0.36	5.514395487286048e-4	Indoor dust	Legacy PCB
+cis-Permethrin	Phenacetin	0.56	1.8613245392289808e-29	Indoor dust	other
+cis-Permethrin	Phenanthrene	0.15	0.007020046754804896	Indoor dust	Food
+cis-Permethrin	Pyrene	-0.37	1.0998791808444233e-12	Indoor dust	Food
+cis-Permethrin	Safrole	-0.08	0.06059189543371383	Indoor dust	Legacy
+cis-Permethrin	Simazine	-0.07	0.041598149627562114	Indoor dust	Farming/Green space
+cis-Permethrin	trans-Permethrin	0.54	1.1453948616719014e-18	Indoor dust	Indoor dust
+cis-Permethrin	Tri(2-chloroethyl) phosphate	0.37	1.7338171780477335e-10	Indoor dust	Indoor dust
+cis-Permethrin	Triadimefon	-0.28	1.7079632765789055e-7	Indoor dust	Farming/Green space
+d-Lindane	1,2-Dichlorbenzene	0.32	2.760568450734226e-9	Legacy	Industrial use
+d-Lindane	1,2,3,7,8-Pentachlorodibenzodioxin	0.12	0.16057607277664895	Legacy	Food
+d-Lindane	1,2,4-Trichlorobenzene	0.02	0.1797329020255461	Legacy	Industrial use
+d-Lindane	1,2,4,5-Tetrachlorobenzene	-0.17	4.290562307674148e-4	Legacy	Industrial use
+d-Lindane	2,3,7,8-Tetrachlorodibenzofuran	0.05	0.6720867863702088	Legacy	Food
+d-Lindane	2,4,5-Trichlorophenol	0.01	0.10144063453309697	Legacy	Industrial use
+d-Lindane	Acenaphthene	-0.25	7.969042177669898e-7	Legacy	Food
+d-Lindane	Anthracene	-0.38	1.344566971438385e-11	Legacy	Food
+d-Lindane	b-Hexachlorocyclohexane	0.35	5.266958626621688e-5	Legacy	Legacy
+d-Lindane	Benz[a]anthracene	0.01	0.9833061315462396	Legacy	Food
+d-Lindane	Benzo[b]fluoranthene	-0.01	0.06167628455072541	Legacy	Food
+d-Lindane	Bromacil	-0.03	0.9876926279297806	Legacy	Farming/Green space
+d-Lindane	Bromoform	-0.07	0.09373009472977066	Legacy	other
+d-Lindane	Chrysene	0.06	0.9189013700313168	Legacy	Food
+d-Lindane	cis-Permethrin	-0.06	0.0031366913176657557	Legacy	Indoor dust
+d-Lindane	d-Lindane	1	0	Legacy	Legacy
+d-Lindane	DEET	0.03	0.5475518900313754	Legacy	Indoor dust
+d-Lindane	Diethyl Phthalate	-0.18	0.047529231774839094	Legacy	Indoor dust
+d-Lindane	Endrin	-0.1	0.0016921702710051357	Legacy	Legacy
+d-Lindane	Ethion	-0.15	0.031226512815136668	Legacy	Legacy
+d-Lindane	Etridiazole	0.07	0.3845697865954013	Legacy	Farming/Green space
+d-Lindane	Fluoranthene	-0.14	0.13221202758148248	Legacy	Food
+d-Lindane	Fonofos	-0.04	0.21226908949876022	Legacy	Legacy
+d-Lindane	Hexachlorbutadiene	0.11	1.5643361839889032e-4	Legacy	Industrial use
+d-Lindane	Isosafrole	0.22	0.001915061752552138	Legacy	Legacy
+d-Lindane	Lindane	0.49	5.131078191362513e-34	Legacy	Legacy
+d-Lindane	Malathion	0.1	0.15506380751145657	Legacy	Indoor dust
+d-Lindane	Mirex	-0.06	0.015778762797279793	Legacy	Legacy
+d-Lindane	p,p'-DDD	-0.01	0.2212909949237843	Legacy	Legacy
+d-Lindane	p,p'-DDE	-0.01	0.4798407746942991	Legacy	Legacy
+d-Lindane	Parathion	-0.17	8.284960869417128e-7	Legacy	Legacy
+d-Lindane	PCB 128	0.17	3.2661917153893236e-4	Legacy	Legacy PCB
+d-Lindane	PCB 18	-0.09	0.3762992158556746	Legacy	Legacy PCB
+d-Lindane	PCB 203	-0.14	1.0542784619732519e-4	Legacy	Legacy PCB
+d-Lindane	PCB 33	-0.22	2.0318764591342305e-4	Legacy	Legacy PCB
+d-Lindane	PCB 44	-0.03	0.4021014255431218	Legacy	Legacy PCB
+d-Lindane	PCB 49	0.29	2.0765848652317235e-5	Legacy	Legacy PCB
+d-Lindane	PCB 52	-0.2	0.003671847284213736	Legacy	Legacy PCB
+d-Lindane	PCB 60	-0.06	0.43109739411018777	Legacy	Legacy PCB
+d-Lindane	PCB 77	-0.11	0.02377410261105749	Legacy	Legacy PCB
+d-Lindane	PCB 81	-0.16	1.945435462061e-5	Legacy	Legacy PCB
+d-Lindane	Phenacetin	-0.03	0.06727901524920595	Legacy	other
+d-Lindane	Phenanthrene	-0.27	1.1024230003169925e-5	Legacy	Food
+d-Lindane	Pyrene	-0.21	0.0015208367264392688	Legacy	Food
+d-Lindane	Safrole	0.01	0.13186488496339474	Legacy	Legacy
+d-Lindane	Simazine	0.22	2.5040037608989196e-7	Legacy	Farming/Green space
+d-Lindane	trans-Permethrin	-0.23	2.1003335854898006e-9	Legacy	Indoor dust
+d-Lindane	Tri(2-chloroethyl) phosphate	-0.18	3.785230143486698e-5	Legacy	Indoor dust
+d-Lindane	Triadimefon	0.32	1.377775814452719e-9	Legacy	Farming/Green space
+DEET	1,2-Dichlorbenzene	-0.05	0.11760954515693682	Indoor dust	Industrial use
+DEET	1,2,3,7,8-Pentachlorodibenzodioxin	0.05	0.3125790044371682	Indoor dust	Food
+DEET	1,2,4-Trichlorobenzene	0	0.33512814125251034	Indoor dust	Industrial use
+DEET	1,2,4,5-Tetrachlorobenzene	0.16	0.19539451490123474	Indoor dust	Industrial use
+DEET	2,3,7,8-Tetrachlorodibenzofuran	0.05	0.9700448531393396	Indoor dust	Food
+DEET	2,4,5-Trichlorophenol	0.06	0.5093478527972267	Indoor dust	Industrial use
+DEET	Acenaphthene	0.02	0.38003815171896116	Indoor dust	Food
+DEET	Anthracene	0.13	0.003817095321317708	Indoor dust	Food
+DEET	b-Hexachlorocyclohexane	0.16	0.020736725943761795	Indoor dust	Legacy
+DEET	Benz[a]anthracene	-0.05	0.069064183277882	Indoor dust	Food
+DEET	Benzo[b]fluoranthene	-0.02	0.006669971099787125	Indoor dust	Food
+DEET	Bromacil	0.1	0.4246009506738101	Indoor dust	Farming/Green space
+DEET	Bromoform	0.18	4.6021201521546045e-4	Indoor dust	other
+DEET	Chrysene	-0.03	0.00882608759252017	Indoor dust	Food
+DEET	cis-Permethrin	0.27	7.578179150584849e-11	Indoor dust	Indoor dust
+DEET	d-Lindane	0.03	0.5475518900313754	Indoor dust	Legacy
+DEET	DEET	1	0	Indoor dust	Indoor dust
+DEET	Diethyl Phthalate	0.12	0.00694530397239827	Indoor dust	Indoor dust
+DEET	Endrin	0.07	0.26705397503439215	Indoor dust	Legacy
+DEET	Ethion	-0.16	2.7261187084481344e-4	Indoor dust	Legacy
+DEET	Etridiazole	-0.1	0.005588986172110966	Indoor dust	Farming/Green space
+DEET	Fluoranthene	-0.21	6.711099160854522e-7	Indoor dust	Food
+DEET	Fonofos	0.25	0.008135158533423061	Indoor dust	Legacy
+DEET	Hexachlorbutadiene	0.02	0.41081724685298415	Indoor dust	Industrial use
+DEET	Isosafrole	0.11	0.05188841533900891	Indoor dust	Legacy
+DEET	Lindane	0.07	0.6409054902482825	Indoor dust	Legacy
+DEET	Malathion	0.16	0.0030345425617107516	Indoor dust	Indoor dust
+DEET	Mirex	0.15	2.9193212561977555e-4	Indoor dust	Legacy
+DEET	p,p'-DDD	0.11	0.18345530626891718	Indoor dust	Legacy
+DEET	p,p'-DDE	0.23	4.724957164323932e-6	Indoor dust	Legacy
+DEET	Parathion	0.28	5.882745303654135e-10	Indoor dust	Legacy
+DEET	PCB 128	-0.05	0.7812418622094316	Indoor dust	Legacy PCB
+DEET	PCB 18	-0.14	0.0023458947123273306	Indoor dust	Legacy PCB
+DEET	PCB 203	0.19	1.869363459611253e-4	Indoor dust	Legacy PCB
+DEET	PCB 33	0	0.5891079096212548	Indoor dust	Legacy PCB
+DEET	PCB 44	-0.12	3.0479640972012407e-4	Indoor dust	Legacy PCB
+DEET	PCB 49	-0.04	0.5978475846619336	Indoor dust	Legacy PCB
+DEET	PCB 52	0.11	0.5360126668286087	Indoor dust	Legacy PCB
+DEET	PCB 60	0.13	0.8723060370275821	Indoor dust	Legacy PCB
+DEET	PCB 77	0.22	7.564753973101807e-5	Indoor dust	Legacy PCB
+DEET	PCB 81	0.18	0.04564964146301131	Indoor dust	Legacy PCB
+DEET	Phenacetin	0.24	1.2541483431530481e-5	Indoor dust	other
+DEET	Phenanthrene	-0.11	0.14337395845982254	Indoor dust	Food
+DEET	Pyrene	-0.21	1.1726956316351164e-5	Indoor dust	Food
+DEET	Safrole	0.08	0.8990382836648882	Indoor dust	Legacy
+DEET	Simazine	-0.14	0.006665033102449458	Indoor dust	Farming/Green space
+DEET	trans-Permethrin	0.17	0.002746708397149284	Indoor dust	Indoor dust
+DEET	Tri(2-chloroethyl) phosphate	0.02	0.5072471858355843	Indoor dust	Indoor dust
+DEET	Triadimefon	-0.05	0.30813069833632356	Indoor dust	Farming/Green space
+Diethyl Phthalate	1,2-Dichlorbenzene	-0	0.4945505151618179	Indoor dust	Industrial use
+Diethyl Phthalate	1,2,3,7,8-Pentachlorodibenzodioxin	0.24	6.257207772967122e-5	Indoor dust	Food
+Diethyl Phthalate	1,2,4-Trichlorobenzene	0.16	0.0075267576627724726	Indoor dust	Industrial use
+Diethyl Phthalate	1,2,4,5-Tetrachlorobenzene	0.29	1.7368962107477487e-4	Indoor dust	Industrial use
+Diethyl Phthalate	2,3,7,8-Tetrachlorodibenzofuran	0.29	4.526571739164591e-9	Indoor dust	Food
+Diethyl Phthalate	2,4,5-Trichlorophenol	0.19	0.009231600606939826	Indoor dust	Industrial use
+Diethyl Phthalate	Acenaphthene	0.32	2.2800546740080464e-16	Indoor dust	Food
+Diethyl Phthalate	Anthracene	0.31	2.4845199404907224e-11	Indoor dust	Food
+Diethyl Phthalate	b-Hexachlorocyclohexane	-0.01	0.572031821660627	Indoor dust	Legacy
+Diethyl Phthalate	Benz[a]anthracene	0.08	0.7101097131016201	Indoor dust	Food
+Diethyl Phthalate	Benzo[b]fluoranthene	0.16	0.9262989760644476	Indoor dust	Food
+Diethyl Phthalate	Bromacil	0.26	4.325546265541101e-5	Indoor dust	Farming/Green space
+Diethyl Phthalate	Bromoform	0.2	4.90215164660677e-4	Indoor dust	other
+Diethyl Phthalate	Chrysene	0.07	0.7870529198550081	Indoor dust	Food
+Diethyl Phthalate	cis-Permethrin	0.4	1.4658901025320867e-15	Indoor dust	Indoor dust
+Diethyl Phthalate	d-Lindane	-0.18	0.047529231774839094	Indoor dust	Legacy
+Diethyl Phthalate	DEET	0.12	0.00694530397239827	Indoor dust	Indoor dust
+Diethyl Phthalate	Diethyl Phthalate	1	0	Indoor dust	Indoor dust
+Diethyl Phthalate	Endrin	0.21	0.005014525551749935	Indoor dust	Legacy
+Diethyl Phthalate	Ethion	0.2	1.4505748042151587e-6	Indoor dust	Legacy
+Diethyl Phthalate	Etridiazole	0.05	0.0374591852926235	Indoor dust	Farming/Green space
+Diethyl Phthalate	Fluoranthene	-0.3	2.3241067853566144e-7	Indoor dust	Food
+Diethyl Phthalate	Fonofos	0.22	0.011642718448678391	Indoor dust	Legacy
+Diethyl Phthalate	Hexachlorbutadiene	0.1	0.08205682336846849	Indoor dust	Industrial use
+Diethyl Phthalate	Isosafrole	0.07	0.018738237152750577	Indoor dust	Legacy
+Diethyl Phthalate	Lindane	-0.08	0.4444264349893169	Indoor dust	Legacy
+Diethyl Phthalate	Malathion	0.35	1.5605879812370705e-14	Indoor dust	Indoor dust
+Diethyl Phthalate	Mirex	0.3	1.0348081622132725e-5	Indoor dust	Legacy
+Diethyl Phthalate	p,p'-DDD	0.29	6.275891357298371e-8	Indoor dust	Legacy
+Diethyl Phthalate	p,p'-DDE	0.21	1.3771825876475555e-4	Indoor dust	Legacy
+Diethyl Phthalate	Parathion	0.38	1.2916723159126633e-14	Indoor dust	Legacy
+Diethyl Phthalate	PCB 128	0.12	1.329811688219426e-9	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 18	0.03	0.046552682445156666	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 203	0.38	1.2879990416522623e-12	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 33	0.36	2.0370212638835124e-9	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 44	0.08	0.0022206447324854537	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 49	-0.12	0.09834617981876288	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 52	0.17	0.21015735581912065	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 60	0.08	0.04174789356685749	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 77	0.38	1.6413569625452783e-9	Indoor dust	Legacy PCB
+Diethyl Phthalate	PCB 81	0.2	0.009464354022354484	Indoor dust	Legacy PCB
+Diethyl Phthalate	Phenacetin	0.45	3.0578417160674866e-23	Indoor dust	other
+Diethyl Phthalate	Phenanthrene	0.14	8.512024357572674e-5	Indoor dust	Food
+Diethyl Phthalate	Pyrene	-0.2	4.119417676074352e-4	Indoor dust	Food
+Diethyl Phthalate	Safrole	-0.11	0.8607142963120941	Indoor dust	Legacy
+Diethyl Phthalate	Simazine	0.08	0.002664836462326795	Indoor dust	Farming/Green space
+Diethyl Phthalate	trans-Permethrin	0.36	5.364195986042789e-11	Indoor dust	Indoor dust
+Diethyl Phthalate	Tri(2-chloroethyl) phosphate	0.43	2.072948642930845e-14	Indoor dust	Indoor dust
+Diethyl Phthalate	Triadimefon	-0.24	1.2281406795545705e-6	Indoor dust	Farming/Green space
+Endrin	1,2-Dichlorbenzene	-0.25	5.496210393238323e-8	Legacy	Industrial use
+Endrin	1,2,3,7,8-Pentachlorodibenzodioxin	0.19	0.0011111185477635267	Legacy	Food
+Endrin	1,2,4-Trichlorobenzene	0.1	0.158261645545768	Legacy	Industrial use
+Endrin	1,2,4,5-Tetrachlorobenzene	0.34	9.84646729024883e-4	Legacy	Industrial use
+Endrin	2,3,7,8-Tetrachlorodibenzofuran	0.36	2.1432820629676898e-13	Legacy	Food
+Endrin	2,4,5-Trichlorophenol	0.11	0.08574694948155749	Legacy	Industrial use
+Endrin	Acenaphthene	0.11	0.041483836321295105	Legacy	Food
+Endrin	Anthracene	0.07	0.611136871227754	Legacy	Food
+Endrin	b-Hexachlorocyclohexane	0.17	0.04274992041227466	Legacy	Legacy
+Endrin	Benz[a]anthracene	-0	4.6784442702334857e-4	Legacy	Food
+Endrin	Benzo[b]fluoranthene	0.13	0.12957465202495116	Legacy	Food
+Endrin	Bromacil	0.23	0.09036442992538182	Legacy	Farming/Green space
+Endrin	Bromoform	0.13	0.4363288467134159	Legacy	other
+Endrin	Chrysene	0.07	0.012055391588963337	Legacy	Food
+Endrin	cis-Permethrin	0.38	1.1913514708692455e-11	Legacy	Indoor dust
+Endrin	d-Lindane	-0.1	0.0016921702710051357	Legacy	Legacy
+Endrin	DEET	0.07	0.26705397503439215	Legacy	Indoor dust
+Endrin	Diethyl Phthalate	0.21	0.005014525551749935	Legacy	Indoor dust
+Endrin	Endrin	1	0	Legacy	Legacy
+Endrin	Ethion	0.06	0.08305284971025946	Legacy	Legacy
+Endrin	Etridiazole	-0.16	2.3570562973453227e-6	Legacy	Farming/Green space
+Endrin	Fluoranthene	-0.57	1.927590266254021e-39	Legacy	Food
+Endrin	Fonofos	0.26	1.8811280429959114e-5	Legacy	Legacy
+Endrin	Hexachlorbutadiene	0.04	0.013444960883844692	Legacy	Industrial use
+Endrin	Isosafrole	0.13	3.1933181414930115e-4	Legacy	Legacy
+Endrin	Lindane	-0.03	7.884755021172856e-4	Legacy	Legacy
+Endrin	Malathion	0.31	3.954393770584848e-6	Legacy	Indoor dust
+Endrin	Mirex	0.48	5.818379976146688e-19	Legacy	Legacy
+Endrin	p,p'-DDD	0.3	1.9362467206089835e-7	Legacy	Legacy
+Endrin	p,p'-DDE	0.17	0.00943810595463133	Legacy	Legacy
+Endrin	Parathion	0.4	2.2713687521892338e-13	Legacy	Legacy
+Endrin	PCB 128	-0.23	0.001089664008232488	Legacy	Legacy PCB
+Endrin	PCB 18	-0.36	4.910977401094056e-14	Legacy	Legacy PCB
+Endrin	PCB 203	0.31	3.1436112122878445e-9	Legacy	Legacy PCB
+Endrin	PCB 33	0.37	4.361380441212805e-16	Legacy	Legacy PCB
+Endrin	PCB 44	-0.35	3.3744580285352357e-18	Legacy	Legacy PCB
+Endrin	PCB 49	-0.06	0.8269224423109398	Legacy	Legacy PCB
+Endrin	PCB 52	0.12	0.09123257917028008	Legacy	Legacy PCB
+Endrin	PCB 60	0.41	6.756832189325583e-7	Legacy	Legacy PCB
+Endrin	PCB 77	0.39	9.913355438070259e-8	Legacy	Legacy PCB
+Endrin	PCB 81	0.38	1.644656221363557e-4	Legacy	Legacy PCB
+Endrin	Phenacetin	0.44	3.799366440235477e-22	Legacy	other
+Endrin	Phenanthrene	-0.03	4.185868215041183e-6	Legacy	Food
+Endrin	Pyrene	-0.43	5.566786417176319e-20	Legacy	Food
+Endrin	Safrole	-0.26	7.292543353580436e-8	Legacy	Legacy
+Endrin	Simazine	-0.25	3.816021367179714e-9	Legacy	Farming/Green space
+Endrin	trans-Permethrin	0.42	3.250918633705667e-14	Legacy	Indoor dust
+Endrin	Tri(2-chloroethyl) phosphate	0.44	8.563636563153027e-27	Legacy	Indoor dust
+Endrin	Triadimefon	-0.22	2.282598869147447e-5	Legacy	Farming/Green space
+Ethion	1,2-Dichlorbenzene	-0.03	0.9375486123104776	Legacy	Industrial use
+Ethion	1,2,3,7,8-Pentachlorodibenzodioxin	0.1	0.014320486800906399	Legacy	Food
+Ethion	1,2,4-Trichlorobenzene	0.08	0.011707648781379825	Legacy	Industrial use
+Ethion	1,2,4,5-Tetrachlorobenzene	0.11	8.137477318236107e-4	Legacy	Industrial use
+Ethion	2,3,7,8-Tetrachlorodibenzofuran	0.12	0.004015169395083116	Legacy	Food
+Ethion	2,4,5-Trichlorophenol	0.12	0.0017379717510531856	Legacy	Industrial use
+Ethion	Acenaphthene	0.17	9.433717015039267e-7	Legacy	Food
+Ethion	Anthracene	0.1	0.07827005901038452	Legacy	Food
+Ethion	b-Hexachlorocyclohexane	-0.09	0.4870798718532364	Legacy	Legacy
+Ethion	Benz[a]anthracene	0.1	0.04943772233276636	Legacy	Food
+Ethion	Benzo[b]fluoranthene	0.09	0.08438894607603048	Legacy	Food
+Ethion	Bromacil	0.2	5.5960218438890646e-5	Legacy	Farming/Green space
+Ethion	Bromoform	-0.03	0.4422275913061672	Legacy	other
+Ethion	Chrysene	0.09	0.005851347981400487	Legacy	Food
+Ethion	cis-Permethrin	0.02	0.9813936636906297	Legacy	Indoor dust
+Ethion	d-Lindane	-0.15	0.031226512815136668	Legacy	Legacy
+Ethion	DEET	-0.16	2.7261187084481344e-4	Legacy	Indoor dust
+Ethion	Diethyl Phthalate	0.2	1.4505748042151587e-6	Legacy	Indoor dust
+Ethion	Endrin	0.06	0.08305284971025946	Legacy	Legacy
+Ethion	Ethion	1	0	Legacy	Legacy
+Ethion	Etridiazole	0.14	4.0403004466502907e-7	Legacy	Farming/Green space
+Ethion	Fluoranthene	-0	0.6916022652450633	Legacy	Food
+Ethion	Fonofos	-0.03	0.803702215593982	Legacy	Legacy
+Ethion	Hexachlorbutadiene	0.05	0.04786835372487823	Legacy	Industrial use
+Ethion	Isosafrole	-0.02	0.3361307294726301	Legacy	Legacy
+Ethion	Lindane	-0.06	0.988673430240109	Legacy	Legacy
+Ethion	Malathion	0.03	0.1050056835596137	Legacy	Indoor dust
+Ethion	Mirex	-0.02	0.34740725171479214	Legacy	Legacy
+Ethion	p,p'-DDD	0.09	0.020203162422113057	Legacy	Legacy
+Ethion	p,p'-DDE	0.1	0.15643134025690805	Legacy	Legacy
+Ethion	Parathion	0.05	0.28494977697064805	Legacy	Legacy
+Ethion	PCB 128	0.15	1.6837256782935875e-4	Legacy	Legacy PCB
+Ethion	PCB 18	0.17	3.5512182593915574e-7	Legacy	Legacy PCB
+Ethion	PCB 203	-0	0.7568291962991516	Legacy	Legacy PCB
+Ethion	PCB 33	0.25	1.1110535951292932e-5	Legacy	Legacy PCB
+Ethion	PCB 44	0.24	2.799149272049922e-9	Legacy	Legacy PCB
+Ethion	PCB 49	-0.12	0.013646600015224148	Legacy	Legacy PCB
+Ethion	PCB 52	0.06	0.0013706802455597015	Legacy	Legacy PCB
+Ethion	PCB 60	-0.04	0.5582601334298043	Legacy	Legacy PCB
+Ethion	PCB 77	-0.03	0.19852985937559328	Legacy	Legacy PCB
+Ethion	PCB 81	0.14	3.921828712226566e-5	Legacy	Legacy PCB
+Ethion	Phenacetin	0.15	0.004268007099796592	Legacy	other
+Ethion	Phenanthrene	0.1	0.0023917769667536164	Legacy	Food
+Ethion	Pyrene	0.09	0.05405584009822967	Legacy	Food
+Ethion	Safrole	0.19	8.379732476742441e-8	Legacy	Legacy
+Ethion	Simazine	0.13	0.003355870776606937	Legacy	Farming/Green space
+Ethion	trans-Permethrin	0.18	0.0011420332385347113	Legacy	Indoor dust
+Ethion	Tri(2-chloroethyl) phosphate	0.23	2.102463655656507e-7	Legacy	Indoor dust
+Ethion	Triadimefon	-0.21	1.2628843205888518e-4	Legacy	Farming/Green space
+Etridiazole	1,2-Dichlorbenzene	0.16	0.24007597983869403	Farming/Green space	Industrial use
+Etridiazole	1,2,3,7,8-Pentachlorodibenzodioxin	-0.04	0.3640470449785296	Farming/Green space	Food
+Etridiazole	1,2,4-Trichlorobenzene	0.12	2.5234962858940835e-6	Farming/Green space	Industrial use
+Etridiazole	1,2,4,5-Tetrachlorobenzene	-0.04	0.22860364333292593	Farming/Green space	Industrial use
+Etridiazole	2,3,7,8-Tetrachlorodibenzofuran	-0.05	0.06579279443343629	Farming/Green space	Food
+Etridiazole	2,4,5-Trichlorophenol	0.04	0.003209724358980789	Farming/Green space	Industrial use
+Etridiazole	Acenaphthene	0.31	6.589735950511943e-12	Farming/Green space	Food
+Etridiazole	Anthracene	0.24	6.36302740633067e-7	Farming/Green space	Food
+Etridiazole	b-Hexachlorocyclohexane	-0.1	0.044854607675767114	Farming/Green space	Legacy
+Etridiazole	Benz[a]anthracene	0.02	0.1286858007820253	Farming/Green space	Food
+Etridiazole	Benzo[b]fluoranthene	0.03	0.06892590650932501	Farming/Green space	Food
+Etridiazole	Bromacil	0.11	0.0020911343382158626	Farming/Green space	Farming/Green space
+Etridiazole	Bromoform	0.04	0.15091397490030758	Farming/Green space	other
+Etridiazole	Chrysene	0.07	0.0010971119510209066	Farming/Green space	Food
+Etridiazole	cis-Permethrin	-0.01	0.0579629585646513	Farming/Green space	Indoor dust
+Etridiazole	d-Lindane	0.07	0.3845697865954013	Farming/Green space	Legacy
+Etridiazole	DEET	-0.1	0.005588986172110966	Farming/Green space	Indoor dust
+Etridiazole	Diethyl Phthalate	0.05	0.0374591852926235	Farming/Green space	Indoor dust
+Etridiazole	Endrin	-0.16	2.3570562973453227e-6	Farming/Green space	Legacy
+Etridiazole	Ethion	0.14	4.0403004466502907e-7	Farming/Green space	Legacy
+Etridiazole	Etridiazole	1	0	Farming/Green space	Farming/Green space
+Etridiazole	Fluoranthene	0.06	7.480672126291856e-5	Farming/Green space	Food
+Etridiazole	Fonofos	0.02	0.36474831393056095	Farming/Green space	Legacy
+Etridiazole	Hexachlorbutadiene	0.16	1.7074555855914878e-5	Farming/Green space	Industrial use
+Etridiazole	Isosafrole	-0.05	0.05493615468505582	Farming/Green space	Legacy
+Etridiazole	Lindane	-0.06	0.585986705914207	Farming/Green space	Legacy
+Etridiazole	Malathion	0.1	0.5825875172082123	Farming/Green space	Indoor dust
+Etridiazole	Mirex	-0.08	0.001282833579249363	Farming/Green space	Legacy
+Etridiazole	p,p'-DDD	-0.04	0.8692120155150362	Farming/Green space	Legacy
+Etridiazole	p,p'-DDE	0.02	0.6354163523874055	Farming/Green space	Legacy
+Etridiazole	Parathion	-0.04	0.19473920350861587	Farming/Green space	Legacy
+Etridiazole	PCB 128	0.23	1.0418534626910028e-5	Farming/Green space	Legacy PCB
+Etridiazole	PCB 18	0.34	3.081483089763925e-23	Farming/Green space	Legacy PCB
+Etridiazole	PCB 203	-0.02	0.24317687565649765	Farming/Green space	Legacy PCB
+Etridiazole	PCB 33	0.04	0.4388548143564074	Farming/Green space	Legacy PCB
+Etridiazole	PCB 44	0.36	9.797309824614038e-28	Farming/Green space	Legacy PCB
+Etridiazole	PCB 49	-0.05	0.0028949444926717176	Farming/Green space	Legacy PCB
+Etridiazole	PCB 52	0	2.616051380410034e-5	Farming/Green space	Legacy PCB
+Etridiazole	PCB 60	0.03	0.3192760369352006	Farming/Green space	Legacy PCB
+Etridiazole	PCB 77	-0.04	0.10782762987189325	Farming/Green space	Legacy PCB
+Etridiazole	PCB 81	-0.03	0.1273324393075167	Farming/Green space	Legacy PCB
+Etridiazole	Phenacetin	0.01	0.09801248857650077	Farming/Green space	other
+Etridiazole	Phenanthrene	0.14	0.002736522409500867	Farming/Green space	Food
+Etridiazole	Pyrene	0.08	1.1267781650200462e-4	Farming/Green space	Food
+Etridiazole	Safrole	0.29	2.262271050355245e-21	Farming/Green space	Legacy
+Etridiazole	Simazine	0.21	1.3861858143652255e-6	Farming/Green space	Farming/Green space
+Etridiazole	trans-Permethrin	-0.07	0.3160822865552693	Farming/Green space	Indoor dust
+Etridiazole	Tri(2-chloroethyl) phosphate	-0.04	0.13043837440128422	Farming/Green space	Indoor dust
+Etridiazole	Triadimefon	0.01	0.1633841184725066	Farming/Green space	Farming/Green space
+Fluoranthene	1,2-Dichlorbenzene	0.14	1.1594062020477047e-4	Food	Industrial use
+Fluoranthene	1,2,3,7,8-Pentachlorodibenzodioxin	-0.18	0.17608274489921663	Food	Food
+Fluoranthene	1,2,4-Trichlorobenzene	-0.04	0.6560934062346204	Food	Industrial use
+Fluoranthene	1,2,4,5-Tetrachlorobenzene	-0.19	0.5026547556542369	Food	Industrial use
+Fluoranthene	2,3,7,8-Tetrachlorodibenzofuran	-0.4	2.294091371476734e-13	Food	Food
+Fluoranthene	2,4,5-Trichlorophenol	-0.1	0.13162735740961795	Food	Industrial use
+Fluoranthene	Acenaphthene	-0.05	0.5410209525685192	Food	Food
+Fluoranthene	Anthracene	0.1	0.018267697349773807	Food	Food
+Fluoranthene	b-Hexachlorocyclohexane	-0.19	0.00740059419465615	Food	Legacy
+Fluoranthene	Benz[a]anthracene	0.04	6.286175213627966e-7	Food	Food
+Fluoranthene	Benzo[b]fluoranthene	-0.16	0.21063185835027173	Food	Food
+Fluoranthene	Bromacil	-0.21	0.16180179025871846	Food	Farming/Green space
+Fluoranthene	Bromoform	-0.14	0.18793003995334684	Food	other
+Fluoranthene	Chrysene	-0.05	5.098386485191833e-4	Food	Food
+Fluoranthene	cis-Permethrin	-0.51	2.834669042906521e-24	Food	Indoor dust
+Fluoranthene	d-Lindane	-0.14	0.13221202758148248	Food	Legacy
+Fluoranthene	DEET	-0.21	6.711099160854522e-7	Food	Indoor dust
+Fluoranthene	Diethyl Phthalate	-0.3	2.3241067853566144e-7	Food	Indoor dust
+Fluoranthene	Endrin	-0.57	1.927590266254021e-39	Food	Legacy
+Fluoranthene	Ethion	-0	0.6916022652450633	Food	Legacy
+Fluoranthene	Etridiazole	0.06	7.480672126291856e-5	Food	Farming/Green space
+Fluoranthene	Fluoranthene	1	0	Food	Food
+Fluoranthene	Fonofos	-0.33	8.970388059041459e-9	Food	Legacy
+Fluoranthene	Hexachlorbutadiene	-0.09	0.15176695142059446	Food	Industrial use
+Fluoranthene	Isosafrole	-0.26	1.0025228144070255e-13	Food	Legacy
+Fluoranthene	Lindane	-0.07	0.985084636222903	Food	Legacy
+Fluoranthene	Malathion	-0.46	5.007473598358933e-13	Food	Indoor dust
+Fluoranthene	Mirex	-0.37	8.45984346719546e-12	Food	Legacy
+Fluoranthene	p,p'-DDD	-0.35	1.8330377530160997e-6	Food	Legacy
+Fluoranthene	p,p'-DDE	-0.27	7.379691749944654e-6	Food	Legacy
+Fluoranthene	Parathion	-0.45	1.1506377788107415e-19	Food	Legacy
+Fluoranthene	PCB 128	0.13	0.061757514814177836	Food	Legacy PCB
+Fluoranthene	PCB 18	0.4	6.010022678132128e-20	Food	Legacy PCB
+Fluoranthene	PCB 203	-0.31	4.546510892114445e-9	Food	Legacy PCB
+Fluoranthene	PCB 33	-0.35	1.6680767664392987e-9	Food	Legacy PCB
+Fluoranthene	PCB 44	0.35	1.770995886802029e-22	Food	Legacy PCB
+Fluoranthene	PCB 49	0.03	0.8490350538733619	Food	Legacy PCB
+Fluoranthene	PCB 52	-0.06	0.0025323507507496617	Food	Legacy PCB
+Fluoranthene	PCB 60	-0.36	1.1384286469869868e-5	Food	Legacy PCB
+Fluoranthene	PCB 77	-0.38	4.731145223216104e-6	Food	Legacy PCB
+Fluoranthene	PCB 81	-0.26	0.17068313373437918	Food	Legacy PCB
+Fluoranthene	Phenacetin	-0.6	2.2625683350096502e-35	Food	other
+Fluoranthene	Phenanthrene	0.26	1.2578583990558725e-10	Food	Food
+Fluoranthene	Pyrene	0.78	5.839402368963026e-84	Food	Food
+Fluoranthene	Safrole	0.25	8.454514957432579e-10	Food	Legacy
+Fluoranthene	Simazine	0.18	1.479677586352577e-8	Food	Farming/Green space
+Fluoranthene	trans-Permethrin	-0.42	1.06110137807031e-10	Food	Indoor dust
+Fluoranthene	Tri(2-chloroethyl) phosphate	-0.36	1.202891544502228e-12	Food	Indoor dust
+Fluoranthene	Triadimefon	0.24	1.6684596030159003e-5	Food	Farming/Green space
+Fonofos	1,2-Dichlorbenzene	0.05	0.543803514529043	Legacy	Industrial use
+Fonofos	1,2,3,7,8-Pentachlorodibenzodioxin	0.24	0.002175094634987906	Legacy	Food
+Fonofos	1,2,4-Trichlorobenzene	0.32	3.566713065955259e-7	Legacy	Industrial use
+Fonofos	1,2,4,5-Tetrachlorobenzene	0.32	5.858759296741139e-7	Legacy	Industrial use
+Fonofos	2,3,7,8-Tetrachlorodibenzofuran	0.25	6.756891468393997e-5	Legacy	Food
+Fonofos	2,4,5-Trichlorophenol	0.21	0.10445061257544049	Legacy	Industrial use
+Fonofos	Acenaphthene	0.02	0.7622360180833039	Legacy	Food
+Fonofos	Anthracene	0.08	0.44241179779558115	Legacy	Food
+Fonofos	b-Hexachlorocyclohexane	0.33	2.0543593633436043e-13	Legacy	Legacy
+Fonofos	Benz[a]anthracene	-0.07	0.0016443877741998305	Legacy	Food
+Fonofos	Benzo[b]fluoranthene	0.09	0.10760527534199339	Legacy	Food
+Fonofos	Bromacil	0.28	3.85103820187066e-6	Legacy	Farming/Green space
+Fonofos	Bromoform	0.19	0.0013825231039181292	Legacy	other
+Fonofos	Chrysene	-0.03	0.019672704478657092	Legacy	Food
+Fonofos	cis-Permethrin	0.39	5.5835147829934335e-9	Legacy	Indoor dust
+Fonofos	d-Lindane	-0.04	0.21226908949876022	Legacy	Legacy
+Fonofos	DEET	0.25	0.008135158533423061	Legacy	Indoor dust
+Fonofos	Diethyl Phthalate	0.22	0.011642718448678391	Legacy	Indoor dust
+Fonofos	Endrin	0.26	1.8811280429959114e-5	Legacy	Legacy
+Fonofos	Ethion	-0.03	0.803702215593982	Legacy	Legacy
+Fonofos	Etridiazole	0.02	0.36474831393056095	Legacy	Farming/Green space
+Fonofos	Fluoranthene	-0.33	8.970388059041459e-9	Legacy	Food
+Fonofos	Fonofos	1	0	Legacy	Legacy
+Fonofos	Hexachlorbutadiene	0.22	0.05845804880871486	Legacy	Industrial use
+Fonofos	Isosafrole	0.34	5.46459850516767e-14	Legacy	Legacy
+Fonofos	Lindane	0.02	0.34678973519740197	Legacy	Legacy
+Fonofos	Malathion	0.32	3.1078969713926146e-6	Legacy	Indoor dust
+Fonofos	Mirex	0.27	6.140428990352531e-5	Legacy	Legacy
+Fonofos	p,p'-DDD	0.23	0.015681422765193524	Legacy	Legacy
+Fonofos	p,p'-DDE	0.29	2.2014368500741673e-5	Legacy	Legacy
+Fonofos	Parathion	0.41	1.9085964809583345e-10	Legacy	Legacy
+Fonofos	PCB 128	-0.01	0.6765427839289028	Legacy	Legacy PCB
+Fonofos	PCB 18	-0.17	9.807309420796627e-4	Legacy	Legacy PCB
+Fonofos	PCB 203	0.31	6.3697001268364e-7	Legacy	Legacy PCB
+Fonofos	PCB 33	0.21	2.3707236230438057e-4	Legacy	Legacy PCB
+Fonofos	PCB 44	-0.24	3.5500556957722767e-7	Legacy	Legacy PCB
+Fonofos	PCB 49	0.01	0.7612513719761189	Legacy	Legacy PCB
+Fonofos	PCB 52	0.15	0.6134591309255277	Legacy	Legacy PCB
+Fonofos	PCB 60	0.21	0.13262990431845353	Legacy	Legacy PCB
+Fonofos	PCB 77	0.26	0.04729602125779243	Legacy	Legacy PCB
+Fonofos	PCB 81	0.22	0.1749409117310321	Legacy	Legacy PCB
+Fonofos	Phenacetin	0.43	2.7022053710852733e-11	Legacy	other
+Fonofos	Phenanthrene	0.14	0.2605620588475004	Legacy	Food
+Fonofos	Pyrene	-0.31	1.3536207011226945e-8	Legacy	Food
+Fonofos	Safrole	0.04	0.9786308852688013	Legacy	Legacy
+Fonofos	Simazine	-0.13	0.009811673109418592	Legacy	Farming/Green space
+Fonofos	trans-Permethrin	0.32	0.001235092965893447	Legacy	Indoor dust
+Fonofos	Tri(2-chloroethyl) phosphate	0.27	7.145891564664459e-6	Legacy	Indoor dust
+Fonofos	Triadimefon	-0.04	0.7892111721835158	Legacy	Farming/Green space
+Hexachlorbutadiene	1,2-Dichlorbenzene	0.18	3.276211498967869e-6	Industrial use	Industrial use
+Hexachlorbutadiene	1,2,3,7,8-Pentachlorodibenzodioxin	0.14	0.07357031446064745	Industrial use	Food
+Hexachlorbutadiene	1,2,4-Trichlorobenzene	0.24	7.4391792944792634e-6	Industrial use	Industrial use
+Hexachlorbutadiene	1,2,4,5-Tetrachlorobenzene	0.14	0.06501650706360854	Industrial use	Industrial use
+Hexachlorbutadiene	2,3,7,8-Tetrachlorodibenzofuran	0.08	0.9735230973250977	Industrial use	Food
+Hexachlorbutadiene	2,4,5-Trichlorophenol	0.32	1.5395316629314516e-11	Industrial use	Industrial use
+Hexachlorbutadiene	Acenaphthene	0.19	3.984967889716122e-4	Industrial use	Food
+Hexachlorbutadiene	Anthracene	0.14	0.15728340088458734	Industrial use	Food
+Hexachlorbutadiene	b-Hexachlorocyclohexane	0.14	0.07207175672012496	Industrial use	Legacy
+Hexachlorbutadiene	Benz[a]anthracene	0.11	0.04078897788128997	Industrial use	Food
+Hexachlorbutadiene	Benzo[b]fluoranthene	0.06	0.11814088753850749	Industrial use	Food
+Hexachlorbutadiene	Bromacil	0.09	0.14019240746182907	Industrial use	Farming/Green space
+Hexachlorbutadiene	Bromoform	0.11	0.07170635279275286	Industrial use	other
+Hexachlorbutadiene	Chrysene	0.08	0.20624130931474144	Industrial use	Food
+Hexachlorbutadiene	cis-Permethrin	0.1	0.4002863145932518	Industrial use	Indoor dust
+Hexachlorbutadiene	d-Lindane	0.11	1.5643361839889032e-4	Industrial use	Legacy
+Hexachlorbutadiene	DEET	0.02	0.41081724685298415	Industrial use	Indoor dust
+Hexachlorbutadiene	Diethyl Phthalate	0.1	0.08205682336846849	Industrial use	Indoor dust
+Hexachlorbutadiene	Endrin	0.04	0.013444960883844692	Industrial use	Legacy
+Hexachlorbutadiene	Ethion	0.05	0.04786835372487823	Industrial use	Legacy
+Hexachlorbutadiene	Etridiazole	0.16	1.7074555855914878e-5	Industrial use	Farming/Green space
+Hexachlorbutadiene	Fluoranthene	-0.09	0.15176695142059446	Industrial use	Food
+Hexachlorbutadiene	Fonofos	0.22	0.05845804880871486	Industrial use	Legacy
+Hexachlorbutadiene	Hexachlorbutadiene	1	0	Industrial use	Industrial use
+Hexachlorbutadiene	Isosafrole	0.18	0.5377309325946864	Industrial use	Legacy
+Hexachlorbutadiene	Lindane	0.08	0.0035127526612844457	Industrial use	Legacy
+Hexachlorbutadiene	Malathion	0.09	0.7222350662500705	Industrial use	Indoor dust
+Hexachlorbutadiene	Mirex	0.12	0.33179485249814167	Industrial use	Legacy
+Hexachlorbutadiene	p,p'-DDD	0.11	0.5143181197447342	Industrial use	Legacy
+Hexachlorbutadiene	p,p'-DDE	0.1	0.83506401016658	Industrial use	Legacy
+Hexachlorbutadiene	Parathion	0.13	0.5138441894427894	Industrial use	Legacy
+Hexachlorbutadiene	PCB 128	0.13	1.524991751435246e-4	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 18	0.1	8.171029562817892e-7	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 203	0.11	0.9432659415006606	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 33	0.15	0.05904220732374659	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 44	0.14	2.491940554674607e-8	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 49	-0.05	0.5770564559568465	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 52	0.11	0.00693644850904621	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 60	0.1	0.36299646820305986	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 77	0.03	0.2863677955897166	Industrial use	Legacy PCB
+Hexachlorbutadiene	PCB 81	0.01	0.6999325818257485	Industrial use	Legacy PCB
+Hexachlorbutadiene	Phenacetin	0.03	0.06764195836091941	Industrial use	other
+Hexachlorbutadiene	Phenanthrene	0.07	0.2634490400357531	Industrial use	Food
+Hexachlorbutadiene	Pyrene	-0.01	0.045587239756883606	Industrial use	Food
+Hexachlorbutadiene	Safrole	0.14	3.700895494966027e-5	Industrial use	Legacy
+Hexachlorbutadiene	Simazine	0.18	7.555405686235939e-9	Industrial use	Farming/Green space
+Hexachlorbutadiene	trans-Permethrin	0.11	0.8662593626365512	Industrial use	Indoor dust
+Hexachlorbutadiene	Tri(2-chloroethyl) phosphate	0.13	0.8120739943201717	Industrial use	Indoor dust
+Hexachlorbutadiene	Triadimefon	-0.04	0.8046713402563672	Industrial use	Farming/Green space
+Isosafrole	1,2-Dichlorbenzene	0.19	0.2488633794353377	Legacy	Industrial use
+Isosafrole	1,2,3,7,8-Pentachlorodibenzodioxin	0.2	0.004499880458614516	Legacy	Food
+Isosafrole	1,2,4-Trichlorobenzene	0.31	1.3484255088294162e-6	Legacy	Industrial use
+Isosafrole	1,2,4,5-Tetrachlorobenzene	0.13	0.020514487984265296	Legacy	Industrial use
+Isosafrole	2,3,7,8-Tetrachlorodibenzofuran	0.21	4.620095042339802e-5	Legacy	Food
+Isosafrole	2,4,5-Trichlorophenol	0.2	0.10497994078155919	Legacy	Industrial use
+Isosafrole	Acenaphthene	-0.02	0.3299287176161101	Legacy	Food
+Isosafrole	Anthracene	-0.03	0.4781317062913283	Legacy	Food
+Isosafrole	b-Hexachlorocyclohexane	0.41	5.611645761649895e-12	Legacy	Legacy
+Isosafrole	Benz[a]anthracene	0.02	0.018305913044719898	Legacy	Food
+Isosafrole	Benzo[b]fluoranthene	0.09	0.6950176839258851	Legacy	Food
+Isosafrole	Bromacil	0.09	0.10087723458577269	Legacy	Farming/Green space
+Isosafrole	Bromoform	0.05	0.3341631659002571	Legacy	other
+Isosafrole	Chrysene	0.12	0.7256345351891114	Legacy	Food
+Isosafrole	cis-Permethrin	0.29	7.263308073837847e-10	Legacy	Indoor dust
+Isosafrole	d-Lindane	0.22	0.001915061752552138	Legacy	Legacy
+Isosafrole	DEET	0.11	0.05188841533900891	Legacy	Indoor dust
+Isosafrole	Diethyl Phthalate	0.07	0.018738237152750577	Legacy	Indoor dust
+Isosafrole	Endrin	0.13	3.1933181414930115e-4	Legacy	Legacy
+Isosafrole	Ethion	-0.02	0.3361307294726301	Legacy	Legacy
+Isosafrole	Etridiazole	-0.05	0.05493615468505582	Legacy	Farming/Green space
+Isosafrole	Fluoranthene	-0.26	1.0025228144070255e-13	Legacy	Food
+Isosafrole	Fonofos	0.34	5.46459850516767e-14	Legacy	Legacy
+Isosafrole	Hexachlorbutadiene	0.18	0.5377309325946864	Legacy	Industrial use
+Isosafrole	Isosafrole	1	0	Legacy	Legacy
+Isosafrole	Lindane	0.18	0.35885952867585635	Legacy	Legacy
+Isosafrole	Malathion	0.27	2.065699091821332e-8	Legacy	Indoor dust
+Isosafrole	Mirex	0.23	7.701040460099526e-6	Legacy	Legacy
+Isosafrole	p,p'-DDD	0.14	0.05933843332659272	Legacy	Legacy
+Isosafrole	p,p'-DDE	0.25	2.027744279673447e-4	Legacy	Legacy
+Isosafrole	Parathion	0.21	5.3763531177856885e-8	Legacy	Legacy
+Isosafrole	PCB 128	0.11	0.08222219832918373	Legacy	Legacy PCB
+Isosafrole	PCB 18	-0.11	1.4273712625399146e-5	Legacy	Legacy PCB
+Isosafrole	PCB 203	0.19	1.8920079557962572e-5	Legacy	Legacy PCB
+Isosafrole	PCB 33	0.05	0.599024705941329	Legacy	Legacy PCB
+Isosafrole	PCB 44	-0.14	6.468834261561479e-9	Legacy	Legacy PCB
+Isosafrole	PCB 49	0.07	0.07047674501050555	Legacy	Legacy PCB
+Isosafrole	PCB 52	-0.03	0.08503519767675372	Legacy	Legacy PCB
+Isosafrole	PCB 60	0.08	0.01793043681852132	Legacy	Legacy PCB
+Isosafrole	PCB 77	0.09	0.45156207397280756	Legacy	Legacy PCB
+Isosafrole	PCB 81	0.12	0.5129708248900043	Legacy	Legacy PCB
+Isosafrole	Phenacetin	0.3	1.23800105738225e-15	Legacy	other
+Isosafrole	Phenanthrene	0.07	0.29890680023045385	Legacy	Food
+Isosafrole	Pyrene	-0.23	1.5585790432106637e-13	Legacy	Food
+Isosafrole	Safrole	0.11	0.3664124445628387	Legacy	Legacy
+Isosafrole	Simazine	0.01	0.0016085056706673952	Legacy	Farming/Green space
+Isosafrole	trans-Permethrin	0.19	0.026503152840212183	Legacy	Indoor dust
+Isosafrole	Tri(2-chloroethyl) phosphate	0.15	0.015346054657074773	Legacy	Indoor dust
+Isosafrole	Triadimefon	0.07	0.09053609803824815	Legacy	Farming/Green space
+Lindane	1,2-Dichlorbenzene	0.23	7.98606221873761e-10	Legacy	Industrial use
+Lindane	1,2,3,7,8-Pentachlorodibenzodioxin	0.18	0.013187070952398273	Legacy	Food
+Lindane	1,2,4-Trichlorobenzene	0.07	0.13163315982199988	Legacy	Industrial use
+Lindane	1,2,4,5-Tetrachlorobenzene	-0.04	0.01680277291526569	Legacy	Industrial use
+Lindane	2,3,7,8-Tetrachlorodibenzofuran	0.2	0.0030615032987890626	Legacy	Food
+Lindane	2,4,5-Trichlorophenol	0.04	0.13428887761884573	Legacy	Industrial use
+Lindane	Acenaphthene	-0.18	0.001782293280597983	Legacy	Food
+Lindane	Anthracene	-0.36	1.5826351602124612e-14	Legacy	Food
+Lindane	b-Hexachlorocyclohexane	0.59	7.208129465319757e-13	Legacy	Legacy
+Lindane	Benz[a]anthracene	0.13	0.040707291775939125	Legacy	Food
+Lindane	Benzo[b]fluoranthene	0.05	0.09635279518616117	Legacy	Food
+Lindane	Bromacil	0.04	0.20540588018503783	Legacy	Farming/Green space
+Lindane	Bromoform	0.03	0.7995147945139477	Legacy	other
+Lindane	Chrysene	0.07	0.5565123275679962	Legacy	Food
+Lindane	cis-Permethrin	0.02	0.11503052234472895	Legacy	Indoor dust
+Lindane	d-Lindane	0.49	5.131078191362513e-34	Legacy	Legacy
+Lindane	DEET	0.07	0.6409054902482825	Legacy	Indoor dust
+Lindane	Diethyl Phthalate	-0.08	0.4444264349893169	Legacy	Indoor dust
+Lindane	Endrin	-0.03	7.884755021172856e-4	Legacy	Legacy
+Lindane	Ethion	-0.06	0.988673430240109	Legacy	Legacy
+Lindane	Etridiazole	-0.06	0.585986705914207	Legacy	Farming/Green space
+Lindane	Fluoranthene	-0.07	0.985084636222903	Legacy	Food
+Lindane	Fonofos	0.02	0.34678973519740197	Legacy	Legacy
+Lindane	Hexachlorbutadiene	0.08	0.0035127526612844457	Legacy	Industrial use
+Lindane	Isosafrole	0.18	0.35885952867585635	Legacy	Legacy
+Lindane	Lindane	1	0	Legacy	Legacy
+Lindane	Malathion	-0.1	0.42844153493463444	Legacy	Indoor dust
+Lindane	Mirex	-0.02	0.014052769841105624	Legacy	Legacy
+Lindane	p,p'-DDD	0.07	0.9329992413113546	Legacy	Legacy
+Lindane	p,p'-DDE	0.05	0.7903293561893646	Legacy	Legacy
+Lindane	Parathion	-0.07	8.479451471664516e-5	Legacy	Legacy
+Lindane	PCB 128	0.07	0.01082683935761726	Legacy	Legacy PCB
+Lindane	PCB 18	-0.14	0.7719113693382091	Legacy	Legacy PCB
+Lindane	PCB 203	0.03	0.10840121909796825	Legacy	Legacy PCB
+Lindane	PCB 33	-0.15	0.004047984613307475	Legacy	Legacy PCB
+Lindane	PCB 44	-0.04	0.04077400730500566	Legacy	Legacy PCB
+Lindane	PCB 49	0.08	0.03827784861441823	Legacy	Legacy PCB
+Lindane	PCB 52	0.05	0.7794668408694474	Legacy	Legacy PCB
+Lindane	PCB 60	-0.04	0.45739191727532913	Legacy	Legacy PCB
+Lindane	PCB 77	-0.09	0.0021128336690043785	Legacy	Legacy PCB
+Lindane	PCB 81	0	0.009502490639909303	Legacy	Legacy PCB
+Lindane	Phenacetin	-0.08	0.004551702445666204	Legacy	other
+Lindane	Phenanthrene	-0.15	0.15161448173335657	Legacy	Food
+Lindane	Pyrene	-0.12	0.3198118607479673	Legacy	Food
+Lindane	Safrole	0.03	0.3488131229323199	Legacy	Legacy
+Lindane	Simazine	0.25	4.0588314602767194e-13	Legacy	Farming/Green space
+Lindane	trans-Permethrin	-0.11	6.818634314056671e-6	Legacy	Indoor dust
+Lindane	Tri(2-chloroethyl) phosphate	-0.07	0.004063876383247513	Legacy	Indoor dust
+Lindane	Triadimefon	0.08	0.031248488783719233	Legacy	Farming/Green space
+Malathion	1,2-Dichlorbenzene	0.15	0.01640502292201001	Indoor dust	Industrial use
+Malathion	1,2,3,7,8-Pentachlorodibenzodioxin	0.22	0.001045283974209258	Indoor dust	Food
+Malathion	1,2,4-Trichlorobenzene	0.14	0.22252491195672383	Indoor dust	Industrial use
+Malathion	1,2,4,5-Tetrachlorobenzene	0.18	0.05002134578783934	Indoor dust	Industrial use
+Malathion	2,3,7,8-Tetrachlorodibenzofuran	0.24	1.0749703897533763e-5	Indoor dust	Food
+Malathion	2,4,5-Trichlorophenol	0.13	0.34361296883945636	Indoor dust	Industrial use
+Malathion	Acenaphthene	0.25	7.004155961144393e-7	Indoor dust	Food
+Malathion	Anthracene	0.24	1.1704041249646274e-6	Indoor dust	Food
+Malathion	b-Hexachlorocyclohexane	0.08	0.1418124335957075	Indoor dust	Legacy
+Malathion	Benz[a]anthracene	-0.03	0.009549129509723588	Indoor dust	Food
+Malathion	Benzo[b]fluoranthene	0.13	0.7490626565453656	Indoor dust	Food
+Malathion	Bromacil	0.23	0.005661016201939665	Indoor dust	Farming/Green space
+Malathion	Bromoform	0.12	0.21494840029338372	Indoor dust	other
+Malathion	Chrysene	0.04	0.06264612175540064	Indoor dust	Food
+Malathion	cis-Permethrin	0.46	8.594359701409227e-13	Indoor dust	Indoor dust
+Malathion	d-Lindane	0.1	0.15506380751145657	Indoor dust	Legacy
+Malathion	DEET	0.16	0.0030345425617107516	Indoor dust	Indoor dust
+Malathion	Diethyl Phthalate	0.35	1.5605879812370705e-14	Indoor dust	Indoor dust
+Malathion	Endrin	0.31	3.954393770584848e-6	Indoor dust	Legacy
+Malathion	Ethion	0.03	0.1050056835596137	Indoor dust	Legacy
+Malathion	Etridiazole	0.1	0.5825875172082123	Indoor dust	Farming/Green space
+Malathion	Fluoranthene	-0.46	5.007473598358933e-13	Indoor dust	Food
+Malathion	Fonofos	0.32	3.1078969713926146e-6	Indoor dust	Legacy
+Malathion	Hexachlorbutadiene	0.09	0.7222350662500705	Indoor dust	Industrial use
+Malathion	Isosafrole	0.27	2.065699091821332e-8	Indoor dust	Legacy
+Malathion	Lindane	-0.1	0.42844153493463444	Indoor dust	Legacy
+Malathion	Malathion	1	0	Indoor dust	Indoor dust
+Malathion	Mirex	0.31	1.7959791625241577e-4	Indoor dust	Legacy
+Malathion	p,p'-DDD	0.28	7.060726183222788e-5	Indoor dust	Legacy
+Malathion	p,p'-DDE	0.25	5.393351241062317e-4	Indoor dust	Legacy
+Malathion	Parathion	0.35	1.889611021802243e-9	Indoor dust	Legacy
+Malathion	PCB 128	0.17	2.7382860834039696e-7	Indoor dust	Legacy PCB
+Malathion	PCB 18	-0.1	0.2956751964876951	Indoor dust	Legacy PCB
+Malathion	PCB 203	0.34	2.3775969285016667e-11	Indoor dust	Legacy PCB
+Malathion	PCB 33	0.26	5.285693079625909e-6	Indoor dust	Legacy PCB
+Malathion	PCB 44	-0.04	0.45479836599430834	Indoor dust	Legacy PCB
+Malathion	PCB 49	0.13	0.03459384579018986	Indoor dust	Legacy PCB
+Malathion	PCB 52	-0.02	0.003334301650563529	Indoor dust	Legacy PCB
+Malathion	PCB 60	0.22	0.23645275866063964	Indoor dust	Legacy PCB
+Malathion	PCB 77	0.41	1.0528560288843682e-7	Indoor dust	Legacy PCB
+Malathion	PCB 81	0.2	0.35620130993610666	Indoor dust	Legacy PCB
+Malathion	Phenacetin	0.52	5.1551560182376585e-21	Indoor dust	other
+Malathion	Phenanthrene	0.08	0.3652637746455504	Indoor dust	Food
+Malathion	Pyrene	-0.4	2.717515720301573e-10	Indoor dust	Food
+Malathion	Safrole	-0.09	0.3569150635942081	Indoor dust	Legacy
+Malathion	Simazine	0.06	0.11156851611067425	Indoor dust	Farming/Green space
+Malathion	trans-Permethrin	0.29	9.029522414094169e-5	Indoor dust	Indoor dust
+Malathion	Tri(2-chloroethyl) phosphate	0.28	9.770078473588776e-7	Indoor dust	Indoor dust
+Malathion	Triadimefon	-0.05	0.2879838811519704	Indoor dust	Farming/Green space
+Mirex	1,2-Dichlorbenzene	-0.02	0.32390841133972936	Legacy	Industrial use
+Mirex	1,2,3,7,8-Pentachlorodibenzodioxin	0.17	0.024616961017465595	Legacy	Food
+Mirex	1,2,4-Trichlorobenzene	0.23	3.63026352450631e-4	Legacy	Industrial use
+Mirex	1,2,4,5-Tetrachlorobenzene	0.32	1.7883956164331625e-4	Legacy	Industrial use
+Mirex	2,3,7,8-Tetrachlorodibenzofuran	0.32	5.049294155231126e-8	Legacy	Food
+Mirex	2,4,5-Trichlorophenol	0.16	0.8369629228752957	Legacy	Industrial use
+Mirex	Acenaphthene	0.13	0.04867945301480519	Legacy	Food
+Mirex	Anthracene	0.19	5.300226386902963e-4	Legacy	Food
+Mirex	b-Hexachlorocyclohexane	0.24	1.0069016621674862e-4	Legacy	Legacy
+Mirex	Benz[a]anthracene	0.03	0.11946999476700683	Legacy	Food
+Mirex	Benzo[b]fluoranthene	0.14	0.10795824116525796	Legacy	Food
+Mirex	Bromacil	0.25	0.009884327006003545	Legacy	Farming/Green space
+Mirex	Bromoform	0.12	0.3807880885798598	Legacy	other
+Mirex	Chrysene	0.08	0.10437488465656222	Legacy	Food
+Mirex	cis-Permethrin	0.44	7.852612108583136e-16	Legacy	Indoor dust
+Mirex	d-Lindane	-0.06	0.015778762797279793	Legacy	Legacy
+Mirex	DEET	0.15	2.9193212561977555e-4	Legacy	Indoor dust
+Mirex	Diethyl Phthalate	0.3	1.0348081622132725e-5	Legacy	Indoor dust
+Mirex	Endrin	0.48	5.818379976146688e-19	Legacy	Legacy
+Mirex	Ethion	-0.02	0.34740725171479214	Legacy	Legacy
+Mirex	Etridiazole	-0.08	0.001282833579249363	Legacy	Farming/Green space
+Mirex	Fluoranthene	-0.37	8.45984346719546e-12	Legacy	Food
+Mirex	Fonofos	0.27	6.140428990352531e-5	Legacy	Legacy
+Mirex	Hexachlorbutadiene	0.12	0.33179485249814167	Legacy	Industrial use
+Mirex	Isosafrole	0.23	7.701040460099526e-6	Legacy	Legacy
+Mirex	Lindane	-0.02	0.014052769841105624	Legacy	Legacy
+Mirex	Malathion	0.31	1.7959791625241577e-4	Legacy	Indoor dust
+Mirex	Mirex	1	0	Legacy	Legacy
+Mirex	p,p'-DDD	0.35	3.395824512689972e-8	Legacy	Legacy
+Mirex	p,p'-DDE	0.22	9.601046820441048e-4	Legacy	Legacy
+Mirex	Parathion	0.42	8.449129676048574e-15	Legacy	Legacy
+Mirex	PCB 128	0.03	0.45496324255891496	Legacy	Legacy PCB
+Mirex	PCB 18	-0.22	1.865027978808011e-5	Legacy	Legacy PCB
+Mirex	PCB 203	0.31	3.5159829181262265e-8	Legacy	Legacy PCB
+Mirex	PCB 33	0.32	6.325853392444626e-7	Legacy	Legacy PCB
+Mirex	PCB 44	-0.16	8.829253670171405e-7	Legacy	Legacy PCB
+Mirex	PCB 49	-0.09	0.2689366290387525	Legacy	Legacy PCB
+Mirex	PCB 52	0.1	0.06451546145848941	Legacy	Legacy PCB
+Mirex	PCB 60	0.25	0.379645537162731	Legacy	Legacy PCB
+Mirex	PCB 77	0.37	5.050914387746632e-6	Legacy	Legacy PCB
+Mirex	PCB 81	0.34	0.0016289619779175537	Legacy	Legacy PCB
+Mirex	Phenacetin	0.47	9.380103933224606e-20	Legacy	other
+Mirex	Phenanthrene	0.12	0.41113896496441094	Legacy	Food
+Mirex	Pyrene	-0.26	2.5420446391983495e-6	Legacy	Food
+Mirex	Safrole	-0.11	0.016586477271350413	Legacy	Legacy
+Mirex	Simazine	-0.07	0.019467312908983448	Legacy	Farming/Green space
+Mirex	trans-Permethrin	0.39	7.475201264548285e-10	Legacy	Indoor dust
+Mirex	Tri(2-chloroethyl) phosphate	0.38	9.093281205242469e-12	Legacy	Indoor dust
+Mirex	Triadimefon	-0.18	0.003762520950129794	Legacy	Farming/Green space
+p,p'-DDD	1,2-Dichlorbenzene	0.04	0.5244748391545986	Legacy	Industrial use
+p,p'-DDD	1,2,3,7,8-Pentachlorodibenzodioxin	0.25	0.005811776390433484	Legacy	Food
+p,p'-DDD	1,2,4-Trichlorobenzene	0.15	8.112019405806817e-4	Legacy	Industrial use
+p,p'-DDD	1,2,4,5-Tetrachlorobenzene	0.23	0.01092462513706475	Legacy	Industrial use
+p,p'-DDD	2,3,7,8-Tetrachlorodibenzofuran	0.33	4.5622244928639895e-8	Legacy	Food
+p,p'-DDD	2,4,5-Trichlorophenol	0.11	0.5053393891646409	Legacy	Industrial use
+p,p'-DDD	Acenaphthene	0.09	0.002585165793896743	Legacy	Food
+p,p'-DDD	Anthracene	0.05	0.10343199809618206	Legacy	Food
+p,p'-DDD	b-Hexachlorocyclohexane	0.17	0.02086284363157442	Legacy	Legacy
+p,p'-DDD	Benz[a]anthracene	-0.01	0.06643763476402101	Legacy	Food
+p,p'-DDD	Benzo[b]fluoranthene	0.19	0.2865594316664824	Legacy	Food
+p,p'-DDD	Bromacil	0.21	0.015399892588490914	Legacy	Farming/Green space
+p,p'-DDD	Bromoform	0.12	0.1377082705995584	Legacy	other
+p,p'-DDD	Chrysene	0.04	0.14608474248365078	Legacy	Food
+p,p'-DDD	cis-Permethrin	0.36	2.3286015052148922e-8	Legacy	Indoor dust
+p,p'-DDD	d-Lindane	-0.01	0.2212909949237843	Legacy	Legacy
+p,p'-DDD	DEET	0.11	0.18345530626891718	Legacy	Indoor dust
+p,p'-DDD	Diethyl Phthalate	0.29	6.275891357298371e-8	Legacy	Indoor dust
+p,p'-DDD	Endrin	0.3	1.9362467206089835e-7	Legacy	Legacy
+p,p'-DDD	Ethion	0.09	0.020203162422113057	Legacy	Legacy
+p,p'-DDD	Etridiazole	-0.04	0.8692120155150362	Legacy	Farming/Green space
+p,p'-DDD	Fluoranthene	-0.35	1.8330377530160997e-6	Legacy	Food
+p,p'-DDD	Fonofos	0.23	0.015681422765193524	Legacy	Legacy
+p,p'-DDD	Hexachlorbutadiene	0.11	0.5143181197447342	Legacy	Industrial use
+p,p'-DDD	Isosafrole	0.14	0.05933843332659272	Legacy	Legacy
+p,p'-DDD	Lindane	0.07	0.9329992413113546	Legacy	Legacy
+p,p'-DDD	Malathion	0.28	7.060726183222788e-5	Legacy	Indoor dust
+p,p'-DDD	Mirex	0.35	3.395824512689972e-8	Legacy	Legacy
+p,p'-DDD	p,p'-DDD	1	0	Legacy	Legacy
+p,p'-DDD	p,p'-DDE	0.23	7.86589299316792e-4	Legacy	Legacy
+p,p'-DDD	Parathion	0.35	1.569955180458103e-9	Legacy	Legacy
+p,p'-DDD	PCB 128	0.04	0.04018482985671922	Legacy	Legacy PCB
+p,p'-DDD	PCB 18	-0.2	0.1467660807742063	Legacy	Legacy PCB
+p,p'-DDD	PCB 203	0.32	6.344466684722238e-8	Legacy	Legacy PCB
+p,p'-DDD	PCB 33	0.28	1.7134638814529089e-6	Legacy	Legacy PCB
+p,p'-DDD	PCB 44	-0.09	0.3832494572030889	Legacy	Legacy PCB
+p,p'-DDD	PCB 49	-0.01	0.8436950020066188	Legacy	Legacy PCB
+p,p'-DDD	PCB 52	0.1	0.7862266226404016	Legacy	Legacy PCB
+p,p'-DDD	PCB 60	0.12	0.2908032584637746	Legacy	Legacy PCB
+p,p'-DDD	PCB 77	0.3	0.001955348496878912	Legacy	Legacy PCB
+p,p'-DDD	PCB 81	0.25	0.011614194495360173	Legacy	Legacy PCB
+p,p'-DDD	Phenacetin	0.36	2.1965741271518046e-9	Legacy	other
+p,p'-DDD	Phenanthrene	0.06	0.03457548654375235	Legacy	Food
+p,p'-DDD	Pyrene	-0.24	0.006521170054687501	Legacy	Food
+p,p'-DDD	Safrole	-0.09	0.3803540502057121	Legacy	Legacy
+p,p'-DDD	Simazine	0.02	0.7897157118462768	Legacy	Farming/Green space
+p,p'-DDD	trans-Permethrin	0.3	7.856255974992646e-5	Legacy	Indoor dust
+p,p'-DDD	Tri(2-chloroethyl) phosphate	0.32	3.295995325623503e-10	Legacy	Indoor dust
+p,p'-DDD	Triadimefon	-0.16	0.0037612122428894368	Legacy	Farming/Green space
+p,p'-DDE	1,2-Dichlorbenzene	0.11	0.076087050135618	Legacy	Industrial use
+p,p'-DDE	1,2,3,7,8-Pentachlorodibenzodioxin	0.27	5.532955166647355e-5	Legacy	Food
+p,p'-DDE	1,2,4-Trichlorobenzene	0.27	3.0374869045348194e-4	Legacy	Industrial use
+p,p'-DDE	1,2,4,5-Tetrachlorobenzene	0.23	0.002994397382564276	Legacy	Industrial use
+p,p'-DDE	2,3,7,8-Tetrachlorodibenzofuran	0.28	5.325133037122318e-6	Legacy	Food
+p,p'-DDE	2,4,5-Trichlorophenol	0.17	0.08325452534451576	Legacy	Industrial use
+p,p'-DDE	Acenaphthene	0.15	0.021845379237260463	Legacy	Food
+p,p'-DDE	Anthracene	0.15	0.033434067206015265	Legacy	Food
+p,p'-DDE	b-Hexachlorocyclohexane	0.22	7.265880715553464e-7	Legacy	Legacy
+p,p'-DDE	Benz[a]anthracene	0.08	0.9820661815322129	Legacy	Food
+p,p'-DDE	Benzo[b]fluoranthene	0.17	0.6208072166256269	Legacy	Food
+p,p'-DDE	Bromacil	0.23	4.46727851885684e-4	Legacy	Farming/Green space
+p,p'-DDE	Bromoform	0.15	0.007353230049890231	Legacy	other
+p,p'-DDE	Chrysene	0.08	0.4903398478302212	Legacy	Food
+p,p'-DDE	cis-Permethrin	0.24	5.868719550441509e-5	Legacy	Indoor dust
+p,p'-DDE	d-Lindane	-0.01	0.4798407746942991	Legacy	Legacy
+p,p'-DDE	DEET	0.23	4.724957164323932e-6	Legacy	Indoor dust
+p,p'-DDE	Diethyl Phthalate	0.21	1.3771825876475555e-4	Legacy	Indoor dust
+p,p'-DDE	Endrin	0.17	0.00943810595463133	Legacy	Legacy
+p,p'-DDE	Ethion	0.1	0.15643134025690805	Legacy	Legacy
+p,p'-DDE	Etridiazole	0.02	0.6354163523874055	Legacy	Farming/Green space
+p,p'-DDE	Fluoranthene	-0.27	7.379691749944654e-6	Legacy	Food
+p,p'-DDE	Fonofos	0.29	2.2014368500741673e-5	Legacy	Legacy
+p,p'-DDE	Hexachlorbutadiene	0.1	0.83506401016658	Legacy	Industrial use
+p,p'-DDE	Isosafrole	0.25	2.027744279673447e-4	Legacy	Legacy
+p,p'-DDE	Lindane	0.05	0.7903293561893646	Legacy	Legacy
+p,p'-DDE	Malathion	0.25	5.393351241062317e-4	Legacy	Indoor dust
+p,p'-DDE	Mirex	0.22	9.601046820441048e-4	Legacy	Legacy
+p,p'-DDE	p,p'-DDD	0.23	7.86589299316792e-4	Legacy	Legacy
+p,p'-DDE	p,p'-DDE	1	0	Legacy	Legacy
+p,p'-DDE	Parathion	0.33	1.3864863885116571e-9	Legacy	Legacy
+p,p'-DDE	PCB 128	0.22	7.474593971489494e-6	Legacy	Legacy PCB
+p,p'-DDE	PCB 18	-0	0.629864033705845	Legacy	Legacy PCB
+p,p'-DDE	PCB 203	0.24	2.9442533706284147e-5	Legacy	Legacy PCB
+p,p'-DDE	PCB 33	0.23	2.460313637451062e-4	Legacy	Legacy PCB
+p,p'-DDE	PCB 44	-0.02	0.20124350578485622	Legacy	Legacy PCB
+p,p'-DDE	PCB 49	0.02	0.5380764177801622	Legacy	Legacy PCB
+p,p'-DDE	PCB 52	0.07	0.9448047953598615	Legacy	Legacy PCB
+p,p'-DDE	PCB 60	0.13	0.8480530806034594	Legacy	Legacy PCB
+p,p'-DDE	PCB 77	0.24	0.0021315151800875114	Legacy	Legacy PCB
+p,p'-DDE	PCB 81	0.23	0.006856552182296937	Legacy	Legacy PCB
+p,p'-DDE	Phenacetin	0.37	5.462571582905076e-12	Legacy	other
+p,p'-DDE	Phenanthrene	0.1	0.09614085256309994	Legacy	Food
+p,p'-DDE	Pyrene	-0.2	9.474620608295536e-4	Legacy	Food
+p,p'-DDE	Safrole	0.09	0.536144595300585	Legacy	Legacy
+p,p'-DDE	Simazine	0.04	0.7927742595960094	Legacy	Farming/Green space
+p,p'-DDE	trans-Permethrin	0.23	0.01604243500854449	Legacy	Indoor dust
+p,p'-DDE	Tri(2-chloroethyl) phosphate	0.22	7.225772120452046e-4	Legacy	Indoor dust
+p,p'-DDE	Triadimefon	-0.03	0.928904196668225	Legacy	Farming/Green space
+Parathion	1,2-Dichlorbenzene	-0.13	1.6410587171517013e-4	Legacy	Industrial use
+Parathion	1,2,3,7,8-Pentachlorodibenzodioxin	0.2	0.003704970426131489	Legacy	Food
+Parathion	1,2,4-Trichlorobenzene	0.21	3.5430695664907883e-4	Legacy	Industrial use
+Parathion	1,2,4,5-Tetrachlorobenzene	0.37	1.1713592970758197e-8	Legacy	Industrial use
+Parathion	2,3,7,8-Tetrachlorodibenzofuran	0.3	4.02509260961235e-8	Legacy	Food
+Parathion	2,4,5-Trichlorophenol	0.22	0.15639071216143097	Legacy	Industrial use
+Parathion	Acenaphthene	0.25	8.669422078278052e-8	Legacy	Food
+Parathion	Anthracene	0.41	4.2913674891815814e-17	Legacy	Food
+Parathion	b-Hexachlorocyclohexane	0.15	0.0014663512507610875	Legacy	Legacy
+Parathion	Benz[a]anthracene	-0.02	0.002000322333146749	Legacy	Food
+Parathion	Benzo[b]fluoranthene	0.11	0.020225125112889902	Legacy	Food
+Parathion	Bromacil	0.25	0.0024533160165897323	Legacy	Farming/Green space
+Parathion	Bromoform	0.19	0.0013020797105499737	Legacy	other
+Parathion	Chrysene	0.05	0.0671348787649465	Legacy	Food
+Parathion	cis-Permethrin	0.52	3.3817771160815816e-32	Legacy	Indoor dust
+Parathion	d-Lindane	-0.17	8.284960869417128e-7	Legacy	Legacy
+Parathion	DEET	0.28	5.882745303654135e-10	Legacy	Indoor dust
+Parathion	Diethyl Phthalate	0.38	1.2916723159126633e-14	Legacy	Indoor dust
+Parathion	Endrin	0.4	2.2713687521892338e-13	Legacy	Legacy
+Parathion	Ethion	0.05	0.28494977697064805	Legacy	Legacy
+Parathion	Etridiazole	-0.04	0.19473920350861587	Legacy	Farming/Green space
+Parathion	Fluoranthene	-0.45	1.1506377788107415e-19	Legacy	Food
+Parathion	Fonofos	0.41	1.9085964809583345e-10	Legacy	Legacy
+Parathion	Hexachlorbutadiene	0.13	0.5138441894427894	Legacy	Industrial use
+Parathion	Isosafrole	0.21	5.3763531177856885e-8	Legacy	Legacy
+Parathion	Lindane	-0.07	8.479451471664516e-5	Legacy	Legacy
+Parathion	Malathion	0.35	1.889611021802243e-9	Legacy	Indoor dust
+Parathion	Mirex	0.42	8.449129676048574e-15	Legacy	Legacy
+Parathion	p,p'-DDD	0.35	1.569955180458103e-9	Legacy	Legacy
+Parathion	p,p'-DDE	0.33	1.3864863885116571e-9	Legacy	Legacy
+Parathion	Parathion	1	0	Legacy	Legacy
+Parathion	PCB 128	0.03	0.11943387200711668	Legacy	Legacy PCB
+Parathion	PCB 18	-0.13	0.042651042519640726	Legacy	Legacy PCB
+Parathion	PCB 203	0.46	1.749082655956341e-22	Legacy	Legacy PCB
+Parathion	PCB 33	0.37	2.5167086958605563e-10	Legacy	Legacy PCB
+Parathion	PCB 44	-0.09	0.0039421572828472595	Legacy	Legacy PCB
+Parathion	PCB 49	-0.13	0.033461010167971525	Legacy	Legacy PCB
+Parathion	PCB 52	0.16	0.7949759558114472	Legacy	Legacy PCB
+Parathion	PCB 60	0.34	0.01381933294819548	Legacy	Legacy PCB
+Parathion	PCB 77	0.43	2.1372993203562703e-8	Legacy	Legacy PCB
+Parathion	PCB 81	0.43	7.024547397232361e-11	Legacy	Legacy PCB
+Parathion	Phenacetin	0.56	3.5744918844507597e-34	Legacy	other
+Parathion	Phenanthrene	0.26	3.612756459491511e-4	Legacy	Food
+Parathion	Pyrene	-0.29	2.7708787677403245e-9	Legacy	Food
+Parathion	Safrole	-0.06	0.587175601363245	Legacy	Legacy
+Parathion	Simazine	-0.2	2.468653612483627e-6	Legacy	Farming/Green space
+Parathion	trans-Permethrin	0.49	1.0828677660665545e-16	Legacy	Indoor dust
+Parathion	Tri(2-chloroethyl) phosphate	0.33	1.4294685706343415e-10	Legacy	Indoor dust
+Parathion	Triadimefon	-0.26	2.2095134009785014e-6	Legacy	Farming/Green space
+PCB 128	1,2-Dichlorbenzene	0.45	7.235091584254126e-15	Legacy PCB	Industrial use
+PCB 128	1,2,3,7,8-Pentachlorodibenzodioxin	0.16	0.03532729638387284	Legacy PCB	Food
+PCB 128	1,2,4-Trichlorobenzene	0.16	0.0023709854692806984	Legacy PCB	Industrial use
+PCB 128	1,2,4,5-Tetrachlorobenzene	0.03	0.07959457405539279	Legacy PCB	Industrial use
+PCB 128	2,3,7,8-Tetrachlorodibenzofuran	0.11	0.0021248371012351675	Legacy PCB	Food
+PCB 128	2,4,5-Trichlorophenol	0.05	0.018270050392502152	Legacy PCB	Industrial use
+PCB 128	Acenaphthene	0.17	2.271409545068154e-5	Legacy PCB	Food
+PCB 128	Anthracene	0.13	9.399990488197969e-4	Legacy PCB	Food
+PCB 128	b-Hexachlorocyclohexane	0.05	0.01598396340631409	Legacy PCB	Legacy
+PCB 128	Benz[a]anthracene	0.05	0.24036965109807262	Legacy PCB	Food
+PCB 128	Benzo[b]fluoranthene	0.05	0.11164857501003025	Legacy PCB	Food
+PCB 128	Bromacil	0.13	3.030306966314434e-4	Legacy PCB	Farming/Green space
+PCB 128	Bromoform	0	0.498177800561579	Legacy PCB	other
+PCB 128	Chrysene	-0.01	0.9306857052670989	Legacy PCB	Food
+PCB 128	cis-Permethrin	0.05	0.1160698035388732	Legacy PCB	Indoor dust
+PCB 128	d-Lindane	0.17	3.2661917153893236e-4	Legacy PCB	Legacy
+PCB 128	DEET	-0.05	0.7812418622094316	Legacy PCB	Indoor dust
+PCB 128	Diethyl Phthalate	0.12	1.329811688219426e-9	Legacy PCB	Indoor dust
+PCB 128	Endrin	-0.23	0.001089664008232488	Legacy PCB	Legacy
+PCB 128	Ethion	0.15	1.6837256782935875e-4	Legacy PCB	Legacy
+PCB 128	Etridiazole	0.23	1.0418534626910028e-5	Legacy PCB	Farming/Green space
+PCB 128	Fluoranthene	0.13	0.061757514814177836	Legacy PCB	Food
+PCB 128	Fonofos	-0.01	0.6765427839289028	Legacy PCB	Legacy
+PCB 128	Hexachlorbutadiene	0.13	1.524991751435246e-4	Legacy PCB	Industrial use
+PCB 128	Isosafrole	0.11	0.08222219832918373	Legacy PCB	Legacy
+PCB 128	Lindane	0.07	0.01082683935761726	Legacy PCB	Legacy
+PCB 128	Malathion	0.17	2.7382860834039696e-7	Legacy PCB	Indoor dust
+PCB 128	Mirex	0.03	0.45496324255891496	Legacy PCB	Legacy
+PCB 128	p,p'-DDD	0.04	0.04018482985671922	Legacy PCB	Legacy
+PCB 128	p,p'-DDE	0.22	7.474593971489494e-6	Legacy PCB	Legacy
+PCB 128	Parathion	0.03	0.11943387200711668	Legacy PCB	Legacy
+PCB 128	PCB 128	1	0	Legacy PCB	Legacy PCB
+PCB 128	PCB 18	0.31	7.849125899658129e-8	Legacy PCB	Legacy PCB
+PCB 128	PCB 203	0.02	0.2944895198693492	Legacy PCB	Legacy PCB
+PCB 128	PCB 33	0.07	0.05048570358080972	Legacy PCB	Legacy PCB
+PCB 128	PCB 44	0.4	3.4438391607747964e-13	Legacy PCB	Legacy PCB
+PCB 128	PCB 49	0.14	0.2554920898418224	Legacy PCB	Legacy PCB
+PCB 128	PCB 52	-0.08	0.9079744469518466	Legacy PCB	Legacy PCB
+PCB 128	PCB 60	-0.14	0.033874270120578455	Legacy PCB	Legacy PCB
+PCB 128	PCB 77	-0.02	0.18263146356799057	Legacy PCB	Legacy PCB
+PCB 128	PCB 81	0.09	0.007480116053514442	Legacy PCB	Legacy PCB
+PCB 128	Phenacetin	0.1	0.00152626611062758	Legacy PCB	other
+PCB 128	Phenanthrene	0.13	6.724429062607641e-6	Legacy PCB	Food
+PCB 128	Pyrene	0.14	0.0601088588376758	Legacy PCB	Food
+PCB 128	Safrole	0.35	3.114861543171458e-9	Legacy PCB	Legacy
+PCB 128	Simazine	0.47	1.2572212310002267e-18	Legacy PCB	Farming/Green space
+PCB 128	trans-Permethrin	-0.05	0.8257095563472054	Legacy PCB	Indoor dust
+PCB 128	Tri(2-chloroethyl) phosphate	0	0.2609834337766929	Legacy PCB	Indoor dust
+PCB 128	Triadimefon	0.23	0.0016568242297076642	Legacy PCB	Farming/Green space
+PCB 18	1,2-Dichlorbenzene	0.13	0.12690588697311844	Legacy PCB	Industrial use
+PCB 18	1,2,3,7,8-Pentachlorodibenzodioxin	-0.15	0.009865523197730139	Legacy PCB	Food
+PCB 18	1,2,4-Trichlorobenzene	0.12	4.689410290523955e-6	Legacy PCB	Industrial use
+PCB 18	1,2,4,5-Tetrachlorobenzene	-0.02	0.0010076889613061496	Legacy PCB	Industrial use
+PCB 18	2,3,7,8-Tetrachlorodibenzofuran	-0.16	5.287142232563513e-4	Legacy PCB	Food
+PCB 18	2,4,5-Trichlorophenol	0.11	1.3852104120064722e-7	Legacy PCB	Industrial use
+PCB 18	Acenaphthene	0.34	2.98939500551577e-15	Legacy PCB	Food
+PCB 18	Anthracene	0.35	2.0919430504453372e-10	Legacy PCB	Food
+PCB 18	b-Hexachlorocyclohexane	-0.28	5.910740607048495e-5	Legacy PCB	Legacy
+PCB 18	Benz[a]anthracene	0.13	2.208127180848968e-5	Legacy PCB	Food
+PCB 18	Benzo[b]fluoranthene	-0.09	0.11006663399708529	Legacy PCB	Food
+PCB 18	Bromacil	-0.04	0.075067450701947	Legacy PCB	Farming/Green space
+PCB 18	Bromoform	-0.02	0.33644520588232063	Legacy PCB	other
+PCB 18	Chrysene	0.03	2.1345814670051185e-4	Legacy PCB	Food
+PCB 18	cis-Permethrin	-0.19	7.365534547637807e-5	Legacy PCB	Indoor dust
+PCB 18	d-Lindane	-0.09	0.3762992158556746	Legacy PCB	Legacy
+PCB 18	DEET	-0.14	0.0023458947123273306	Legacy PCB	Indoor dust
+PCB 18	Diethyl Phthalate	0.03	0.046552682445156666	Legacy PCB	Indoor dust
+PCB 18	Endrin	-0.36	4.910977401094056e-14	Legacy PCB	Legacy
+PCB 18	Ethion	0.17	3.5512182593915574e-7	Legacy PCB	Legacy
+PCB 18	Etridiazole	0.34	3.081483089763925e-23	Legacy PCB	Farming/Green space
+PCB 18	Fluoranthene	0.4	6.010022678132128e-20	Legacy PCB	Food
+PCB 18	Fonofos	-0.17	9.807309420796627e-4	Legacy PCB	Legacy
+PCB 18	Hexachlorbutadiene	0.1	8.171029562817892e-7	Legacy PCB	Industrial use
+PCB 18	Isosafrole	-0.11	1.4273712625399146e-5	Legacy PCB	Legacy
+PCB 18	Lindane	-0.14	0.7719113693382091	Legacy PCB	Legacy
+PCB 18	Malathion	-0.1	0.2956751964876951	Legacy PCB	Indoor dust
+PCB 18	Mirex	-0.22	1.865027978808011e-5	Legacy PCB	Legacy
+PCB 18	p,p'-DDD	-0.2	0.1467660807742063	Legacy PCB	Legacy
+PCB 18	p,p'-DDE	-0	0.629864033705845	Legacy PCB	Legacy
+PCB 18	Parathion	-0.13	0.042651042519640726	Legacy PCB	Legacy
+PCB 18	PCB 128	0.31	7.849125899658129e-8	Legacy PCB	Legacy PCB
+PCB 18	PCB 18	1	0	Legacy PCB	Legacy PCB
+PCB 18	PCB 203	-0.08	0.12022914546832134	Legacy PCB	Legacy PCB
+PCB 18	PCB 33	-0.03	0.3848505277695261	Legacy PCB	Legacy PCB
+PCB 18	PCB 44	0.67	1.2622566842866945e-83	Legacy PCB	Legacy PCB
+PCB 18	PCB 49	-0.08	6.91518593550122e-5	Legacy PCB	Legacy PCB
+PCB 18	PCB 52	0.01	7.271888934220201e-8	Legacy PCB	Legacy PCB
+PCB 18	PCB 60	-0.17	0.8809146738411413	Legacy PCB	Legacy PCB
+PCB 18	PCB 77	-0.17	0.03456716824535993	Legacy PCB	Legacy PCB
+PCB 18	PCB 81	-0.11	0.06440186095902249	Legacy PCB	Legacy PCB
+PCB 18	Phenacetin	-0.2	2.8909647059890924e-6	Legacy PCB	other
+PCB 18	Phenanthrene	0.24	4.5967170484899677e-7	Legacy PCB	Food
+PCB 18	Pyrene	0.43	1.2430116306348669e-20	Legacy PCB	Food
+PCB 18	Safrole	0.42	1.4632594063776119e-36	Legacy PCB	Legacy
+PCB 18	Simazine	0.36	4.918245975233506e-16	Legacy PCB	Farming/Green space
+PCB 18	trans-Permethrin	-0.18	0.17980492510616972	Legacy PCB	Indoor dust
+PCB 18	Tri(2-chloroethyl) phosphate	-0.13	0.015226788633405337	Legacy PCB	Indoor dust
+PCB 18	Triadimefon	0.01	0.14030118392052168	Legacy PCB	Farming/Green space
+PCB 203	1,2-Dichlorbenzene	-0.05	0.17031976389443437	Legacy PCB	Industrial use
+PCB 203	1,2,3,7,8-Pentachlorodibenzodioxin	0.29	7.375668884904107e-8	Legacy PCB	Food
+PCB 203	1,2,4-Trichlorobenzene	0.16	0.0019253887027536759	Legacy PCB	Industrial use
+PCB 203	1,2,4,5-Tetrachlorobenzene	0.35	1.6134633884446158e-8	Legacy PCB	Industrial use
+PCB 203	2,3,7,8-Tetrachlorodibenzofuran	0.26	1.5514832513972615e-7	Legacy PCB	Food
+PCB 203	2,4,5-Trichlorophenol	0.21	0.15886848751920193	Legacy PCB	Industrial use
+PCB 203	Acenaphthene	0.23	2.572922238383751e-6	Legacy PCB	Food
+PCB 203	Anthracene	0.26	1.2822381920057508e-6	Legacy PCB	Food
+PCB 203	b-Hexachlorocyclohexane	0.2	2.2491674710989532e-4	Legacy PCB	Legacy
+PCB 203	Benz[a]anthracene	0.02	0.10400466552094369	Legacy PCB	Food
+PCB 203	Benzo[b]fluoranthene	0.17	0.919315942912287	Legacy PCB	Food
+PCB 203	Bromacil	0.23	0.0028413460660904914	Legacy PCB	Farming/Green space
+PCB 203	Bromoform	0.14	0.07651837605424568	Legacy PCB	other
+PCB 203	Chrysene	0.08	0.4194303458122588	Legacy PCB	Food
+PCB 203	cis-Permethrin	0.42	9.656142521050871e-18	Legacy PCB	Indoor dust
+PCB 203	d-Lindane	-0.14	1.0542784619732519e-4	Legacy PCB	Legacy
+PCB 203	DEET	0.19	1.869363459611253e-4	Legacy PCB	Indoor dust
+PCB 203	Diethyl Phthalate	0.38	1.2879990416522623e-12	Legacy PCB	Indoor dust
+PCB 203	Endrin	0.31	3.1436112122878445e-9	Legacy PCB	Legacy
+PCB 203	Ethion	-0	0.7568291962991516	Legacy PCB	Legacy
+PCB 203	Etridiazole	-0.02	0.24317687565649765	Legacy PCB	Farming/Green space
+PCB 203	Fluoranthene	-0.31	4.546510892114445e-9	Legacy PCB	Food
+PCB 203	Fonofos	0.31	6.3697001268364e-7	Legacy PCB	Legacy
+PCB 203	Hexachlorbutadiene	0.11	0.9432659415006606	Legacy PCB	Industrial use
+PCB 203	Isosafrole	0.19	1.8920079557962572e-5	Legacy PCB	Legacy
+PCB 203	Lindane	0.03	0.10840121909796825	Legacy PCB	Legacy
+PCB 203	Malathion	0.34	2.3775969285016667e-11	Legacy PCB	Indoor dust
+PCB 203	Mirex	0.31	3.5159829181262265e-8	Legacy PCB	Legacy
+PCB 203	p,p'-DDD	0.32	6.344466684722238e-8	Legacy PCB	Legacy
+PCB 203	p,p'-DDE	0.24	2.9442533706284147e-5	Legacy PCB	Legacy
+PCB 203	Parathion	0.46	1.749082655956341e-22	Legacy PCB	Legacy
+PCB 203	PCB 128	0.02	0.2944895198693492	Legacy PCB	Legacy PCB
+PCB 203	PCB 18	-0.08	0.12022914546832134	Legacy PCB	Legacy PCB
+PCB 203	PCB 203	1	0	Legacy PCB	Legacy PCB
+PCB 203	PCB 33	0.34	2.737978311460881e-9	Legacy PCB	Legacy PCB
+PCB 203	PCB 44	-0.05	0.02411043885919372	Legacy PCB	Legacy PCB
+PCB 203	PCB 49	-0.18	0.020589749615023398	Legacy PCB	Legacy PCB
+PCB 203	PCB 52	0.2	0.31632037862793577	Legacy PCB	Legacy PCB
+PCB 203	PCB 60	0.21	0.8314189213597385	Legacy PCB	Legacy PCB
+PCB 203	PCB 77	0.35	2.0209689674664733e-6	Legacy PCB	Legacy PCB
+PCB 203	PCB 81	0.29	3.073526778331765e-4	Legacy PCB	Legacy PCB
+PCB 203	Phenacetin	0.38	1.1408213293088083e-14	Legacy PCB	other
+PCB 203	Phenanthrene	0.21	0.0010644678553114947	Legacy PCB	Food
+PCB 203	Pyrene	-0.23	5.96209784728657e-6	Legacy PCB	Food
+PCB 203	Safrole	0.01	0.9659778546585912	Legacy PCB	Legacy
+PCB 203	Simazine	-0.08	0.02876173407253694	Legacy PCB	Farming/Green space
+PCB 203	trans-Permethrin	0.32	7.693556215434454e-7	Legacy PCB	Indoor dust
+PCB 203	Tri(2-chloroethyl) phosphate	0.36	4.957137596531843e-12	Legacy PCB	Indoor dust
+PCB 203	Triadimefon	-0.16	0.006141590598273288	Legacy PCB	Farming/Green space
+PCB 33	1,2-Dichlorbenzene	-0.14	0.01723590855891373	Legacy PCB	Industrial use
+PCB 33	1,2,3,7,8-Pentachlorodibenzodioxin	0.11	0.0958208974116963	Legacy PCB	Food
+PCB 33	1,2,4-Trichlorobenzene	0.11	0.005388748177489042	Legacy PCB	Industrial use
+PCB 33	1,2,4,5-Tetrachlorobenzene	0.22	1.1854760145576983e-4	Legacy PCB	Industrial use
+PCB 33	2,3,7,8-Tetrachlorodibenzofuran	0.31	5.4936701378552595e-8	Legacy PCB	Food
+PCB 33	2,4,5-Trichlorophenol	0.15	0.3178200063856669	Legacy PCB	Industrial use
+PCB 33	Acenaphthene	0.34	1.1345154033995969e-11	Legacy PCB	Food
+PCB 33	Anthracene	0.27	1.6749713906767246e-4	Legacy PCB	Food
+PCB 33	b-Hexachlorocyclohexane	-0.03	0.8096193005395396	Legacy PCB	Legacy
+PCB 33	Benz[a]anthracene	-0.03	0.04337083660960432	Legacy PCB	Food
+PCB 33	Benzo[b]fluoranthene	0.17	0.6209831269635837	Legacy PCB	Food
+PCB 33	Bromacil	0.35	2.0483898253999966e-7	Legacy PCB	Farming/Green space
+PCB 33	Bromoform	0.18	0.010983006560838414	Legacy PCB	other
+PCB 33	Chrysene	0	0.07995390608235929	Legacy PCB	Food
+PCB 33	cis-Permethrin	0.34	9.449849859235984e-9	Legacy PCB	Indoor dust
+PCB 33	d-Lindane	-0.22	2.0318764591342305e-4	Legacy PCB	Legacy
+PCB 33	DEET	0	0.5891079096212548	Legacy PCB	Indoor dust
+PCB 33	Diethyl Phthalate	0.36	2.0370212638835124e-9	Legacy PCB	Indoor dust
+PCB 33	Endrin	0.37	4.361380441212805e-16	Legacy PCB	Legacy
+PCB 33	Ethion	0.25	1.1110535951292932e-5	Legacy PCB	Legacy
+PCB 33	Etridiazole	0.04	0.4388548143564074	Legacy PCB	Farming/Green space
+PCB 33	Fluoranthene	-0.35	1.6680767664392987e-9	Legacy PCB	Food
+PCB 33	Fonofos	0.21	2.3707236230438057e-4	Legacy PCB	Legacy
+PCB 33	Hexachlorbutadiene	0.15	0.05904220732374659	Legacy PCB	Industrial use
+PCB 33	Isosafrole	0.05	0.599024705941329	Legacy PCB	Legacy
+PCB 33	Lindane	-0.15	0.004047984613307475	Legacy PCB	Legacy
+PCB 33	Malathion	0.26	5.285693079625909e-6	Legacy PCB	Indoor dust
+PCB 33	Mirex	0.32	6.325853392444626e-7	Legacy PCB	Legacy
+PCB 33	p,p'-DDD	0.28	1.7134638814529089e-6	Legacy PCB	Legacy
+PCB 33	p,p'-DDE	0.23	2.460313637451062e-4	Legacy PCB	Legacy
+PCB 33	Parathion	0.37	2.5167086958605563e-10	Legacy PCB	Legacy
+PCB 33	PCB 128	0.07	0.05048570358080972	Legacy PCB	Legacy PCB
+PCB 33	PCB 18	-0.03	0.3848505277695261	Legacy PCB	Legacy PCB
+PCB 33	PCB 203	0.34	2.737978311460881e-9	Legacy PCB	Legacy PCB
+PCB 33	PCB 33	1	0	Legacy PCB	Legacy PCB
+PCB 33	PCB 44	0.1	0.22821273302414763	Legacy PCB	Legacy PCB
+PCB 33	PCB 49	-0.19	0.004101127367456359	Legacy PCB	Legacy PCB
+PCB 33	PCB 52	0.12	0.4802980397335249	Legacy PCB	Legacy PCB
+PCB 33	PCB 60	0.21	0.025421761574424117	Legacy PCB	Legacy PCB
+PCB 33	PCB 77	0.32	3.3230507594437435e-5	Legacy PCB	Legacy PCB
+PCB 33	PCB 81	0.28	1.55892301227569e-5	Legacy PCB	Legacy PCB
+PCB 33	Phenacetin	0.39	5.925924322441778e-12	Legacy PCB	other
+PCB 33	Phenanthrene	0.07	0.7108092321146736	Legacy PCB	Food
+PCB 33	Pyrene	-0.16	0.0035838335218718606	Legacy PCB	Food
+PCB 33	Safrole	-0.05	0.6961978017987677	Legacy PCB	Legacy
+PCB 33	Simazine	0.02	0.7870352660456145	Legacy PCB	Farming/Green space
+PCB 33	trans-Permethrin	0.47	1.3175537625726837e-15	Legacy PCB	Indoor dust
+PCB 33	Tri(2-chloroethyl) phosphate	0.55	2.2559233038367298e-26	Legacy PCB	Indoor dust
+PCB 33	Triadimefon	-0.33	3.172432288832998e-8	Legacy PCB	Farming/Green space
+PCB 44	1,2-Dichlorbenzene	0.2	9.422655749370135e-4	Legacy PCB	Industrial use
+PCB 44	1,2,3,7,8-Pentachlorodibenzodioxin	-0.06	0.18818010913370437	Legacy PCB	Food
+PCB 44	1,2,4-Trichlorobenzene	0.06	6.006335013868791e-4	Legacy PCB	Industrial use
+PCB 44	1,2,4,5-Tetrachlorobenzene	-0.02	0.04984084601002678	Legacy PCB	Industrial use
+PCB 44	2,3,7,8-Tetrachlorodibenzofuran	-0.1	0.0038814988295509966	Legacy PCB	Food
+PCB 44	2,4,5-Trichlorophenol	0.11	6.339240769234502e-7	Legacy PCB	Industrial use
+PCB 44	Acenaphthene	0.51	4.840113975786611e-23	Legacy PCB	Food
+PCB 44	Anthracene	0.37	1.449474287020174e-7	Legacy PCB	Food
+PCB 44	b-Hexachlorocyclohexane	-0.21	9.753495553797412e-5	Legacy PCB	Legacy
+PCB 44	Benz[a]anthracene	0.14	2.8003142465203615e-6	Legacy PCB	Food
+PCB 44	Benzo[b]fluoranthene	-0.03	0.01527525364529363	Legacy PCB	Food
+PCB 44	Bromacil	0.05	0.013686630214092494	Legacy PCB	Farming/Green space
+PCB 44	Bromoform	0	0.3991406190912916	Legacy PCB	other
+PCB 44	Chrysene	0.01	4.3520269563542e-4	Legacy PCB	Food
+PCB 44	cis-Permethrin	-0.1	7.830307146328414e-5	Legacy PCB	Indoor dust
+PCB 44	d-Lindane	-0.03	0.4021014255431218	Legacy PCB	Legacy
+PCB 44	DEET	-0.12	3.0479640972012407e-4	Legacy PCB	Indoor dust
+PCB 44	Diethyl Phthalate	0.08	0.0022206447324854537	Legacy PCB	Indoor dust
+PCB 44	Endrin	-0.35	3.3744580285352357e-18	Legacy PCB	Legacy
+PCB 44	Ethion	0.24	2.799149272049922e-9	Legacy PCB	Legacy
+PCB 44	Etridiazole	0.36	9.797309824614038e-28	Legacy PCB	Farming/Green space
+PCB 44	Fluoranthene	0.35	1.770995886802029e-22	Legacy PCB	Food
+PCB 44	Fonofos	-0.24	3.5500556957722767e-7	Legacy PCB	Legacy
+PCB 44	Hexachlorbutadiene	0.14	2.491940554674607e-8	Legacy PCB	Industrial use
+PCB 44	Isosafrole	-0.14	6.468834261561479e-9	Legacy PCB	Legacy
+PCB 44	Lindane	-0.04	0.04077400730500566	Legacy PCB	Legacy
+PCB 44	Malathion	-0.04	0.45479836599430834	Legacy PCB	Indoor dust
+PCB 44	Mirex	-0.16	8.829253670171405e-7	Legacy PCB	Legacy
+PCB 44	p,p'-DDD	-0.09	0.3832494572030889	Legacy PCB	Legacy
+PCB 44	p,p'-DDE	-0.02	0.20124350578485622	Legacy PCB	Legacy
+PCB 44	Parathion	-0.09	0.0039421572828472595	Legacy PCB	Legacy
+PCB 44	PCB 128	0.4	3.4438391607747964e-13	Legacy PCB	Legacy PCB
+PCB 44	PCB 18	0.67	1.2622566842866945e-83	Legacy PCB	Legacy PCB
+PCB 44	PCB 203	-0.05	0.02411043885919372	Legacy PCB	Legacy PCB
+PCB 44	PCB 33	0.1	0.22821273302414763	Legacy PCB	Legacy PCB
+PCB 44	PCB 44	1	0	Legacy PCB	Legacy PCB
+PCB 44	PCB 49	-0.16	2.5515350715688435e-6	Legacy PCB	Legacy PCB
+PCB 44	PCB 52	0.01	5.116289868571457e-7	Legacy PCB	Legacy PCB
+PCB 44	PCB 60	-0.22	0.04077870816064311	Legacy PCB	Legacy PCB
+PCB 44	PCB 77	-0.1	0.04459593229100379	Legacy PCB	Legacy PCB
+PCB 44	PCB 81	-0.04	0.020121228073643575	Legacy PCB	Legacy PCB
+PCB 44	Phenacetin	-0.2	1.3469032835690758e-8	Legacy PCB	other
+PCB 44	Phenanthrene	0.2	1.5134579179025148e-6	Legacy PCB	Food
+PCB 44	Pyrene	0.45	1.755057387247743e-26	Legacy PCB	Food
+PCB 44	Safrole	0.42	1.940322610695742e-33	Legacy PCB	Legacy
+PCB 44	Simazine	0.57	2.1116617635516586e-33	Legacy PCB	Farming/Green space
+PCB 44	trans-Permethrin	-0.12	0.1179951525000587	Legacy PCB	Indoor dust
+PCB 44	Tri(2-chloroethyl) phosphate	-0.05	0.025515561932872986	Legacy PCB	Indoor dust
+PCB 44	Triadimefon	-0.16	0.007075648667839405	Legacy PCB	Farming/Green space
+PCB 49	1,2-Dichlorbenzene	0.22	0.0026090932245921264	Legacy PCB	Industrial use
+PCB 49	1,2,3,7,8-Pentachlorodibenzodioxin	-0.01	0.8283116476657567	Legacy PCB	Food
+PCB 49	1,2,4-Trichlorobenzene	-0.04	0.0013857436117292096	Legacy PCB	Industrial use
+PCB 49	1,2,4,5-Tetrachlorobenzene	-0.1	0.019821304811170816	Legacy PCB	Industrial use
+PCB 49	2,3,7,8-Tetrachlorodibenzofuran	0	0.6361643347983081	Legacy PCB	Food
+PCB 49	2,4,5-Trichlorophenol	-0.14	0.03418775230553732	Legacy PCB	Industrial use
+PCB 49	Acenaphthene	-0.23	2.3814423831504356e-5	Legacy PCB	Food
+PCB 49	Anthracene	-0.22	0.024077198871852754	Legacy PCB	Food
+PCB 49	b-Hexachlorocyclohexane	0.13	0.014030823091365986	Legacy PCB	Legacy
+PCB 49	Benz[a]anthracene	-0.03	0.5681292266381038	Legacy PCB	Food
+PCB 49	Benzo[b]fluoranthene	0.05	0.1607535087152889	Legacy PCB	Food
+PCB 49	Bromacil	-0.07	0.17847967087789093	Legacy PCB	Farming/Green space
+PCB 49	Bromoform	-0.1	0.23541446040562553	Legacy PCB	other
+PCB 49	Chrysene	0.04	0.18639141990993469	Legacy PCB	Food
+PCB 49	cis-Permethrin	-0.07	0.6048252430069501	Legacy PCB	Indoor dust
+PCB 49	d-Lindane	0.29	2.0765848652317235e-5	Legacy PCB	Legacy
+PCB 49	DEET	-0.04	0.5978475846619336	Legacy PCB	Indoor dust
+PCB 49	Diethyl Phthalate	-0.12	0.09834617981876288	Legacy PCB	Indoor dust
+PCB 49	Endrin	-0.06	0.8269224423109398	Legacy PCB	Legacy
+PCB 49	Ethion	-0.12	0.013646600015224148	Legacy PCB	Legacy
+PCB 49	Etridiazole	-0.05	0.0028949444926717176	Legacy PCB	Farming/Green space
+PCB 49	Fluoranthene	0.03	0.8490350538733619	Legacy PCB	Food
+PCB 49	Fonofos	0.01	0.7612513719761189	Legacy PCB	Legacy
+PCB 49	Hexachlorbutadiene	-0.05	0.5770564559568465	Legacy PCB	Industrial use
+PCB 49	Isosafrole	0.07	0.07047674501050555	Legacy PCB	Legacy
+PCB 49	Lindane	0.08	0.03827784861441823	Legacy PCB	Legacy
+PCB 49	Malathion	0.13	0.03459384579018986	Legacy PCB	Indoor dust
+PCB 49	Mirex	-0.09	0.2689366290387525	Legacy PCB	Legacy
+PCB 49	p,p'-DDD	-0.01	0.8436950020066188	Legacy PCB	Legacy
+PCB 49	p,p'-DDE	0.02	0.5380764177801622	Legacy PCB	Legacy
+PCB 49	Parathion	-0.13	0.033461010167971525	Legacy PCB	Legacy
+PCB 49	PCB 128	0.14	0.2554920898418224	Legacy PCB	Legacy PCB
+PCB 49	PCB 18	-0.08	6.91518593550122e-5	Legacy PCB	Legacy PCB
+PCB 49	PCB 203	-0.18	0.020589749615023398	Legacy PCB	Legacy PCB
+PCB 49	PCB 33	-0.19	0.004101127367456359	Legacy PCB	Legacy PCB
+PCB 49	PCB 44	-0.16	2.5515350715688435e-6	Legacy PCB	Legacy PCB
+PCB 49	PCB 49	1	0	Legacy PCB	Legacy PCB
+PCB 49	PCB 52	-0.53	5.4403958254257336e-14	Legacy PCB	Legacy PCB
+PCB 49	PCB 60	-0.04	0.6572730152911339	Legacy PCB	Legacy PCB
+PCB 49	PCB 77	-0.09	0.8683486525316998	Legacy PCB	Legacy PCB
+PCB 49	PCB 81	-0.06	0.016538724890232875	Legacy PCB	Legacy PCB
+PCB 49	Phenacetin	0	0.6157849069445778	Legacy PCB	other
+PCB 49	Phenanthrene	-0.1	0.8615844807135551	Legacy PCB	Food
+PCB 49	Pyrene	-0.1	0.15878576718586213	Legacy PCB	Food
+PCB 49	Safrole	-0.03	1.505437486764648e-6	Legacy PCB	Legacy
+PCB 49	Simazine	0.08	0.5356646278379067	Legacy PCB	Farming/Green space
+PCB 49	trans-Permethrin	-0.1	0.21996842091598703	Legacy PCB	Indoor dust
+PCB 49	Tri(2-chloroethyl) phosphate	-0.1	0.23301805786017374	Legacy PCB	Indoor dust
+PCB 49	Triadimefon	0.36	2.4376486781806654e-8	Legacy PCB	Farming/Green space
+PCB 52	1,2-Dichlorbenzene	-0.1	0.1125408850959965	Legacy PCB	Industrial use
+PCB 52	1,2,3,7,8-Pentachlorodibenzodioxin	0.09	0.6115114275512242	Legacy PCB	Food
+PCB 52	1,2,4-Trichlorobenzene	0.11	1.394274136659656e-4	Legacy PCB	Industrial use
+PCB 52	1,2,4,5-Tetrachlorobenzene	0.18	0.002616341063638403	Legacy PCB	Industrial use
+PCB 52	2,3,7,8-Tetrachlorodibenzofuran	0.13	0.8709356584401424	Legacy PCB	Food
+PCB 52	2,4,5-Trichlorophenol	0.09	0.23471870325896046	Legacy PCB	Industrial use
+PCB 52	Acenaphthene	0.15	3.60519608160151e-5	Legacy PCB	Food
+PCB 52	Anthracene	0.11	0.30381702032984065	Legacy PCB	Food
+PCB 52	b-Hexachlorocyclohexane	0.07	0.5106105759667621	Legacy PCB	Legacy
+PCB 52	Benz[a]anthracene	0.05	0.05357360348942446	Legacy PCB	Food
+PCB 52	Benzo[b]fluoranthene	-0.03	0.4695906340979843	Legacy PCB	Food
+PCB 52	Bromacil	0.12	0.05240329096398911	Legacy PCB	Farming/Green space
+PCB 52	Bromoform	0.18	0.018411694746782892	Legacy PCB	other
+PCB 52	Chrysene	0.06	0.009673329703053294	Legacy PCB	Food
+PCB 52	cis-Permethrin	0.17	0.797231370916815	Legacy PCB	Indoor dust
+PCB 52	d-Lindane	-0.2	0.003671847284213736	Legacy PCB	Legacy
+PCB 52	DEET	0.11	0.5360126668286087	Legacy PCB	Indoor dust
+PCB 52	Diethyl Phthalate	0.17	0.21015735581912065	Legacy PCB	Indoor dust
+PCB 52	Endrin	0.12	0.09123257917028008	Legacy PCB	Legacy
+PCB 52	Ethion	0.06	0.0013706802455597015	Legacy PCB	Legacy
+PCB 52	Etridiazole	0	2.616051380410034e-5	Legacy PCB	Farming/Green space
+PCB 52	Fluoranthene	-0.06	0.0025323507507496617	Legacy PCB	Food
+PCB 52	Fonofos	0.15	0.6134591309255277	Legacy PCB	Legacy
+PCB 52	Hexachlorbutadiene	0.11	0.00693644850904621	Legacy PCB	Industrial use
+PCB 52	Isosafrole	-0.03	0.08503519767675372	Legacy PCB	Legacy
+PCB 52	Lindane	0.05	0.7794668408694474	Legacy PCB	Legacy
+PCB 52	Malathion	-0.02	0.003334301650563529	Legacy PCB	Indoor dust
+PCB 52	Mirex	0.1	0.06451546145848941	Legacy PCB	Legacy
+PCB 52	p,p'-DDD	0.1	0.7862266226404016	Legacy PCB	Legacy
+PCB 52	p,p'-DDE	0.07	0.9448047953598615	Legacy PCB	Legacy
+PCB 52	Parathion	0.16	0.7949759558114472	Legacy PCB	Legacy
+PCB 52	PCB 128	-0.08	0.9079744469518466	Legacy PCB	Legacy PCB
+PCB 52	PCB 18	0.01	7.271888934220201e-8	Legacy PCB	Legacy PCB
+PCB 52	PCB 203	0.2	0.31632037862793577	Legacy PCB	Legacy PCB
+PCB 52	PCB 33	0.12	0.4802980397335249	Legacy PCB	Legacy PCB
+PCB 52	PCB 44	0.01	5.116289868571457e-7	Legacy PCB	Legacy PCB
+PCB 52	PCB 49	-0.53	5.4403958254257336e-14	Legacy PCB	Legacy PCB
+PCB 52	PCB 52	1	0	Legacy PCB	Legacy PCB
+PCB 52	PCB 60	0.14	0.14815645748702186	Legacy PCB	Legacy PCB
+PCB 52	PCB 77	0.16	0.33309003102805024	Legacy PCB	Legacy PCB
+PCB 52	PCB 81	0.1	0.3454368938155409	Legacy PCB	Legacy PCB
+PCB 52	Phenacetin	0.1	0.17504230816803096	Legacy PCB	other
+PCB 52	Phenanthrene	0.16	3.057262995391776e-4	Legacy PCB	Food
+PCB 52	Pyrene	0.03	1.719715427509213e-4	Legacy PCB	Food
+PCB 52	Safrole	0.04	9.293225974808391e-8	Legacy PCB	Legacy
+PCB 52	Simazine	-0.04	0.10680199685111351	Legacy PCB	Farming/Green space
+PCB 52	trans-Permethrin	0.08	0.3633201205030221	Legacy PCB	Indoor dust
+PCB 52	Tri(2-chloroethyl) phosphate	0.1	0.2135418784418827	Legacy PCB	Indoor dust
+PCB 52	Triadimefon	-0.13	0.04395500726022691	Legacy PCB	Farming/Green space
+PCB 60	1,2-Dichlorbenzene	-0.15	2.0639531260547358e-4	Legacy PCB	Industrial use
+PCB 60	1,2,3,7,8-Pentachlorodibenzodioxin	0.04	0.4558263317333392	Legacy PCB	Food
+PCB 60	1,2,4-Trichlorobenzene	0.08	0.23773864988452065	Legacy PCB	Industrial use
+PCB 60	1,2,4,5-Tetrachlorobenzene	0.22	0.01549161794357999	Legacy PCB	Industrial use
+PCB 60	2,3,7,8-Tetrachlorodibenzofuran	0.15	0.5799295669577672	Legacy PCB	Food
+PCB 60	2,4,5-Trichlorophenol	0.09	0.5704865859764161	Legacy PCB	Industrial use
+PCB 60	Acenaphthene	0.12	0.4580131555630351	Legacy PCB	Food
+PCB 60	Anthracene	0.15	0.2554437073932943	Legacy PCB	Food
+PCB 60	b-Hexachlorocyclohexane	0.03	0.4448788953097921	Legacy PCB	Legacy
+PCB 60	Benz[a]anthracene	0.01	0.12722056927880238	Legacy PCB	Food
+PCB 60	Benzo[b]fluoranthene	0.13	0.1019971310204467	Legacy PCB	Food
+PCB 60	Bromacil	0.17	0.13358311557814653	Legacy PCB	Farming/Green space
+PCB 60	Bromoform	0.15	0.2743850186214644	Legacy PCB	other
+PCB 60	Chrysene	0.06	0.12091089100283162	Legacy PCB	Food
+PCB 60	cis-Permethrin	0.23	0.7761181036004662	Legacy PCB	Indoor dust
+PCB 60	d-Lindane	-0.06	0.43109739411018777	Legacy PCB	Legacy
+PCB 60	DEET	0.13	0.8723060370275821	Legacy PCB	Indoor dust
+PCB 60	Diethyl Phthalate	0.08	0.04174789356685749	Legacy PCB	Indoor dust
+PCB 60	Endrin	0.41	6.756832189325583e-7	Legacy PCB	Legacy
+PCB 60	Ethion	-0.04	0.5582601334298043	Legacy PCB	Legacy
+PCB 60	Etridiazole	0.03	0.3192760369352006	Legacy PCB	Farming/Green space
+PCB 60	Fluoranthene	-0.36	1.1384286469869868e-5	Legacy PCB	Food
+PCB 60	Fonofos	0.21	0.13262990431845353	Legacy PCB	Legacy
+PCB 60	Hexachlorbutadiene	0.1	0.36299646820305986	Legacy PCB	Industrial use
+PCB 60	Isosafrole	0.08	0.01793043681852132	Legacy PCB	Legacy
+PCB 60	Lindane	-0.04	0.45739191727532913	Legacy PCB	Legacy
+PCB 60	Malathion	0.22	0.23645275866063964	Legacy PCB	Indoor dust
+PCB 60	Mirex	0.25	0.379645537162731	Legacy PCB	Legacy
+PCB 60	p,p'-DDD	0.12	0.2908032584637746	Legacy PCB	Legacy
+PCB 60	p,p'-DDE	0.13	0.8480530806034594	Legacy PCB	Legacy
+PCB 60	Parathion	0.34	0.01381933294819548	Legacy PCB	Legacy
+PCB 60	PCB 128	-0.14	0.033874270120578455	Legacy PCB	Legacy PCB
+PCB 60	PCB 18	-0.17	0.8809146738411413	Legacy PCB	Legacy PCB
+PCB 60	PCB 203	0.21	0.8314189213597385	Legacy PCB	Legacy PCB
+PCB 60	PCB 33	0.21	0.025421761574424117	Legacy PCB	Legacy PCB
+PCB 60	PCB 44	-0.22	0.04077870816064311	Legacy PCB	Legacy PCB
+PCB 60	PCB 49	-0.04	0.6572730152911339	Legacy PCB	Legacy PCB
+PCB 60	PCB 52	0.14	0.14815645748702186	Legacy PCB	Legacy PCB
+PCB 60	PCB 60	1	0	Legacy PCB	Legacy PCB
+PCB 60	PCB 77	0.24	0.5848218948633799	Legacy PCB	Legacy PCB
+PCB 60	PCB 81	0.23	0.4222248033506403	Legacy PCB	Legacy PCB
+PCB 60	Phenacetin	0.28	0.1166538080718413	Legacy PCB	other
+PCB 60	Phenanthrene	0.06	1.6044633598987064e-6	Legacy PCB	Food
+PCB 60	Pyrene	-0.27	2.667998654467685e-5	Legacy PCB	Food
+PCB 60	Safrole	-0.14	0.7353208734762977	Legacy PCB	Legacy
+PCB 60	Simazine	-0.22	2.732578193768241e-4	Legacy PCB	Farming/Green space
+PCB 60	trans-Permethrin	0.23	0.34778907026026074	Legacy PCB	Indoor dust
+PCB 60	Tri(2-chloroethyl) phosphate	0.14	0.45587816058381625	Legacy PCB	Indoor dust
+PCB 60	Triadimefon	-0.02	0.11024753048250807	Legacy PCB	Farming/Green space
+PCB 77	1,2-Dichlorbenzene	-0.05	0.5219548300364389	Legacy PCB	Industrial use
+PCB 77	1,2,3,7,8-Pentachlorodibenzodioxin	0.18	0.016093392811944465	Legacy PCB	Food
+PCB 77	1,2,4-Trichlorobenzene	0.08	0.8944201304479096	Legacy PCB	Industrial use
+PCB 77	1,2,4,5-Tetrachlorobenzene	0.25	0.10715109262501472	Legacy PCB	Industrial use
+PCB 77	2,3,7,8-Tetrachlorodibenzofuran	0.29	3.419444106955616e-4	Legacy PCB	Food
+PCB 77	2,4,5-Trichlorophenol	0.08	0.20379798767546814	Legacy PCB	Industrial use
+PCB 77	Acenaphthene	0.22	1.1171259875464536e-4	Legacy PCB	Food
+PCB 77	Anthracene	0.3	4.105688405818467e-8	Legacy PCB	Food
+PCB 77	b-Hexachlorocyclohexane	0.07	0.7001087364990345	Legacy PCB	Legacy
+PCB 77	Benz[a]anthracene	-0.05	0.017270343954043553	Legacy PCB	Food
+PCB 77	Benzo[b]fluoranthene	0.06	0.0029513251467307403	Legacy PCB	Food
+PCB 77	Bromacil	0.15	0.7683879437913674	Legacy PCB	Farming/Green space
+PCB 77	Bromoform	0.11	0.46697115693066493	Legacy PCB	other
+PCB 77	Chrysene	-0.04	4.191301396477779e-4	Legacy PCB	Food
+PCB 77	cis-Permethrin	0.42	2.1556635258522263e-9	Legacy PCB	Indoor dust
+PCB 77	d-Lindane	-0.11	0.02377410261105749	Legacy PCB	Legacy
+PCB 77	DEET	0.22	7.564753973101807e-5	Legacy PCB	Indoor dust
+PCB 77	Diethyl Phthalate	0.38	1.6413569625452783e-9	Legacy PCB	Indoor dust
+PCB 77	Endrin	0.39	9.913355438070259e-8	Legacy PCB	Legacy
+PCB 77	Ethion	-0.03	0.19852985937559328	Legacy PCB	Legacy
+PCB 77	Etridiazole	-0.04	0.10782762987189325	Legacy PCB	Farming/Green space
+PCB 77	Fluoranthene	-0.38	4.731145223216104e-6	Legacy PCB	Food
+PCB 77	Fonofos	0.26	0.04729602125779243	Legacy PCB	Legacy
+PCB 77	Hexachlorbutadiene	0.03	0.2863677955897166	Legacy PCB	Industrial use
+PCB 77	Isosafrole	0.09	0.45156207397280756	Legacy PCB	Legacy
+PCB 77	Lindane	-0.09	0.0021128336690043785	Legacy PCB	Legacy
+PCB 77	Malathion	0.41	1.0528560288843682e-7	Legacy PCB	Indoor dust
+PCB 77	Mirex	0.37	5.050914387746632e-6	Legacy PCB	Legacy
+PCB 77	p,p'-DDD	0.3	0.001955348496878912	Legacy PCB	Legacy
+PCB 77	p,p'-DDE	0.24	0.0021315151800875114	Legacy PCB	Legacy
+PCB 77	Parathion	0.43	2.1372993203562703e-8	Legacy PCB	Legacy
+PCB 77	PCB 128	-0.02	0.18263146356799057	Legacy PCB	Legacy PCB
+PCB 77	PCB 18	-0.17	0.03456716824535993	Legacy PCB	Legacy PCB
+PCB 77	PCB 203	0.35	2.0209689674664733e-6	Legacy PCB	Legacy PCB
+PCB 77	PCB 33	0.32	3.3230507594437435e-5	Legacy PCB	Legacy PCB
+PCB 77	PCB 44	-0.1	0.04459593229100379	Legacy PCB	Legacy PCB
+PCB 77	PCB 49	-0.09	0.8683486525316998	Legacy PCB	Legacy PCB
+PCB 77	PCB 52	0.16	0.33309003102805024	Legacy PCB	Legacy PCB
+PCB 77	PCB 60	0.24	0.5848218948633799	Legacy PCB	Legacy PCB
+PCB 77	PCB 77	1	0	Legacy PCB	Legacy PCB
+PCB 77	PCB 81	0.3	0.05725606472499409	Legacy PCB	Legacy PCB
+PCB 77	Phenacetin	0.47	4.308135894215055e-12	Legacy PCB	other
+PCB 77	Phenanthrene	0.07	0.42030866742056217	Legacy PCB	Food
+PCB 77	Pyrene	-0.29	0.004829258330205584	Legacy PCB	Food
+PCB 77	Safrole	-0.2	8.860274885468199e-4	Legacy PCB	Legacy
+PCB 77	Simazine	-0.08	0.8664348451192486	Legacy PCB	Farming/Green space
+PCB 77	trans-Permethrin	0.32	0.001761873783613209	Legacy PCB	Indoor dust
+PCB 77	Tri(2-chloroethyl) phosphate	0.39	4.280616589936258e-9	Legacy PCB	Indoor dust
+PCB 77	Triadimefon	-0.18	0.01873805644861615	Legacy PCB	Farming/Green space
+PCB 81	1,2-Dichlorbenzene	0.03	0.18394729549207423	Legacy PCB	Industrial use
+PCB 81	1,2,3,7,8-Pentachlorodibenzodioxin	0.22	0.08784206882686063	Legacy PCB	Food
+PCB 81	1,2,4-Trichlorobenzene	0.24	1.953396900264063e-6	Legacy PCB	Industrial use
+PCB 81	1,2,4,5-Tetrachlorobenzene	0.28	4.5482527419379264e-5	Legacy PCB	Industrial use
+PCB 81	2,3,7,8-Tetrachlorodibenzofuran	0.27	0.010016110268804926	Legacy PCB	Food
+PCB 81	2,4,5-Trichlorophenol	0.25	3.5180279824889826e-4	Legacy PCB	Industrial use
+PCB 81	Acenaphthene	0.2	9.089703734188694e-6	Legacy PCB	Food
+PCB 81	Anthracene	0.23	7.835378295322844e-6	Legacy PCB	Food
+PCB 81	b-Hexachlorocyclohexane	0.24	0.013536567664581056	Legacy PCB	Legacy
+PCB 81	Benz[a]anthracene	0.03	0.4856447176740174	Legacy PCB	Food
+PCB 81	Benzo[b]fluoranthene	0.05	0.0660644364819181	Legacy PCB	Food
+PCB 81	Bromacil	0.25	0.0012896479063908243	Legacy PCB	Farming/Green space
+PCB 81	Bromoform	0.17	0.043960644002261115	Legacy PCB	other
+PCB 81	Chrysene	0.11	0.0953531491688613	Legacy PCB	Food
+PCB 81	cis-Permethrin	0.36	5.514395487286048e-4	Legacy PCB	Indoor dust
+PCB 81	d-Lindane	-0.16	1.945435462061e-5	Legacy PCB	Legacy
+PCB 81	DEET	0.18	0.04564964146301131	Legacy PCB	Indoor dust
+PCB 81	Diethyl Phthalate	0.2	0.009464354022354484	Legacy PCB	Indoor dust
+PCB 81	Endrin	0.38	1.644656221363557e-4	Legacy PCB	Legacy
+PCB 81	Ethion	0.14	3.921828712226566e-5	Legacy PCB	Legacy
+PCB 81	Etridiazole	-0.03	0.1273324393075167	Legacy PCB	Farming/Green space
+PCB 81	Fluoranthene	-0.26	0.17068313373437918	Legacy PCB	Food
+PCB 81	Fonofos	0.22	0.1749409117310321	Legacy PCB	Legacy
+PCB 81	Hexachlorbutadiene	0.01	0.6999325818257485	Legacy PCB	Industrial use
+PCB 81	Isosafrole	0.12	0.5129708248900043	Legacy PCB	Legacy
+PCB 81	Lindane	0	0.009502490639909303	Legacy PCB	Legacy
+PCB 81	Malathion	0.2	0.35620130993610666	Legacy PCB	Indoor dust
+PCB 81	Mirex	0.34	0.0016289619779175537	Legacy PCB	Legacy
+PCB 81	p,p'-DDD	0.25	0.011614194495360173	Legacy PCB	Legacy
+PCB 81	p,p'-DDE	0.23	0.006856552182296937	Legacy PCB	Legacy
+PCB 81	Parathion	0.43	7.024547397232361e-11	Legacy PCB	Legacy
+PCB 81	PCB 128	0.09	0.007480116053514442	Legacy PCB	Legacy PCB
+PCB 81	PCB 18	-0.11	0.06440186095902249	Legacy PCB	Legacy PCB
+PCB 81	PCB 203	0.29	3.073526778331765e-4	Legacy PCB	Legacy PCB
+PCB 81	PCB 33	0.28	1.55892301227569e-5	Legacy PCB	Legacy PCB
+PCB 81	PCB 44	-0.04	0.020121228073643575	Legacy PCB	Legacy PCB
+PCB 81	PCB 49	-0.06	0.016538724890232875	Legacy PCB	Legacy PCB
+PCB 81	PCB 52	0.1	0.3454368938155409	Legacy PCB	Legacy PCB
+PCB 81	PCB 60	0.23	0.4222248033506403	Legacy PCB	Legacy PCB
+PCB 81	PCB 77	0.3	0.05725606472499409	Legacy PCB	Legacy PCB
+PCB 81	PCB 81	1	0	Legacy PCB	Legacy PCB
+PCB 81	Phenacetin	0.39	2.7283674809160943e-6	Legacy PCB	other
+PCB 81	Phenanthrene	0.24	8.900355298525684e-5	Legacy PCB	Food
+PCB 81	Pyrene	-0.11	0.4271289101979352	Legacy PCB	Food
+PCB 81	Safrole	0.05	1.3634550196322448e-6	Legacy PCB	Legacy
+PCB 81	Simazine	-0.04	0.7249904996127734	Legacy PCB	Farming/Green space
+PCB 81	trans-Permethrin	0.26	0.0044685811516667635	Legacy PCB	Indoor dust
+PCB 81	Tri(2-chloroethyl) phosphate	0.33	2.711264366350979e-6	Legacy PCB	Indoor dust
+PCB 81	Triadimefon	-0.19	0.0011721829889915268	Legacy PCB	Farming/Green space
+Phenacetin	1,2-Dichlorbenzene	-0.08	0.026379604066971315	other	Industrial use
+Phenacetin	1,2,3,7,8-Pentachlorodibenzodioxin	0.25	4.6836219588135934e-5	other	Food
+Phenacetin	1,2,4-Trichlorobenzene	0.25	9.220437638879162e-5	other	Industrial use
+Phenacetin	1,2,4,5-Tetrachlorobenzene	0.33	1.9622443379456064e-5	other	Industrial use
+Phenacetin	2,3,7,8-Tetrachlorodibenzofuran	0.37	7.869518336809546e-15	other	Food
+Phenacetin	2,4,5-Trichlorophenol	0.2	0.8464870202446587	other	Industrial use
+Phenacetin	Acenaphthene	0.19	5.967817410235741e-5	other	Food
+Phenacetin	Anthracene	0.23	3.6362526706046946e-6	other	Food
+Phenacetin	b-Hexachlorocyclohexane	0.21	2.00342282948677e-6	other	Legacy
+Phenacetin	Benz[a]anthracene	-0.03	4.220622319864981e-4	other	Food
+Phenacetin	Benzo[b]fluoranthene	0.08	0.0074234461129894435	other	Food
+Phenacetin	Bromacil	0.33	1.2039243964166986e-5	other	Farming/Green space
+Phenacetin	Bromoform	0.22	0.003949662726588115	other	other
+Phenacetin	Chrysene	0.1	0.08810349227272252	other	Food
+Phenacetin	cis-Permethrin	0.56	1.8613245392289808e-29	other	Indoor dust
+Phenacetin	d-Lindane	-0.03	0.06727901524920595	other	Legacy
+Phenacetin	DEET	0.24	1.2541483431530481e-5	other	Indoor dust
+Phenacetin	Diethyl Phthalate	0.45	3.0578417160674866e-23	other	Indoor dust
+Phenacetin	Endrin	0.44	3.799366440235477e-22	other	Legacy
+Phenacetin	Ethion	0.15	0.004268007099796592	other	Legacy
+Phenacetin	Etridiazole	0.01	0.09801248857650077	other	Farming/Green space
+Phenacetin	Fluoranthene	-0.6	2.2625683350096502e-35	other	Food
+Phenacetin	Fonofos	0.43	2.7022053710852733e-11	other	Legacy
+Phenacetin	Hexachlorbutadiene	0.03	0.06764195836091941	other	Industrial use
+Phenacetin	Isosafrole	0.3	1.23800105738225e-15	other	Legacy
+Phenacetin	Lindane	-0.08	0.004551702445666204	other	Legacy
+Phenacetin	Malathion	0.52	5.1551560182376585e-21	other	Indoor dust
+Phenacetin	Mirex	0.47	9.380103933224606e-20	other	Legacy
+Phenacetin	p,p'-DDD	0.36	2.1965741271518046e-9	other	Legacy
+Phenacetin	p,p'-DDE	0.37	5.462571582905076e-12	other	Legacy
+Phenacetin	Parathion	0.56	3.5744918844507597e-34	other	Legacy
+Phenacetin	PCB 128	0.1	0.00152626611062758	other	Legacy PCB
+Phenacetin	PCB 18	-0.2	2.8909647059890924e-6	other	Legacy PCB
+Phenacetin	PCB 203	0.38	1.1408213293088083e-14	other	Legacy PCB
+Phenacetin	PCB 33	0.39	5.925924322441778e-12	other	Legacy PCB
+Phenacetin	PCB 44	-0.2	1.3469032835690758e-8	other	Legacy PCB
+Phenacetin	PCB 49	0	0.6157849069445778	other	Legacy PCB
+Phenacetin	PCB 52	0.1	0.17504230816803096	other	Legacy PCB
+Phenacetin	PCB 60	0.28	0.1166538080718413	other	Legacy PCB
+Phenacetin	PCB 77	0.47	4.308135894215055e-12	other	Legacy PCB
+Phenacetin	PCB 81	0.39	2.7283674809160943e-6	other	Legacy PCB
+Phenacetin	Phenacetin	1	0	other	other
+Phenacetin	Phenanthrene	0.12	0.03687094281089104	other	Food
+Phenacetin	Pyrene	-0.48	3.8201120024141196e-23	other	Food
+Phenacetin	Safrole	-0.04	0.0853125280663404	other	Legacy
+Phenacetin	Simazine	-0.17	2.4200023907365872e-5	other	Farming/Green space
+Phenacetin	trans-Permethrin	0.53	1.6082789856513814e-18	other	Indoor dust
+Phenacetin	Tri(2-chloroethyl) phosphate	0.46	1.799249319136485e-23	other	Indoor dust
+Phenacetin	Triadimefon	-0.22	1.6258713097013798e-4	other	Farming/Green space
+Phenanthrene	1,2-Dichlorbenzene	0.03	5.140474518381528e-4	Food	Industrial use
+Phenanthrene	1,2,3,7,8-Pentachlorodibenzodioxin	0.09	0.005168810466017489	Food	Food
+Phenanthrene	1,2,4-Trichlorobenzene	0.25	6.989803703820634e-7	Food	Industrial use
+Phenanthrene	1,2,4,5-Tetrachlorobenzene	0.18	6.55769486305967e-6	Food	Industrial use
+Phenanthrene	2,3,7,8-Tetrachlorodibenzofuran	-0.04	0.3626524869208213	Food	Food
+Phenanthrene	2,4,5-Trichlorophenol	0.16	0.001221829831860881	Food	Industrial use
+Phenanthrene	Acenaphthene	0.26	3.616316718618758e-4	Food	Food
+Phenanthrene	Anthracene	0.48	3.024190329622239e-13	Food	Food
+Phenanthrene	b-Hexachlorocyclohexane	0.03	0.0012877708457270467	Food	Legacy
+Phenanthrene	Benz[a]anthracene	0.09	0.015551401792868883	Food	Food
+Phenanthrene	Benzo[b]fluoranthene	-0.02	0.2947801271661297	Food	Food
+Phenanthrene	Bromacil	0.14	5.099155390716469e-4	Food	Farming/Green space
+Phenanthrene	Bromoform	0.02	0.8623847031669384	Food	other
+Phenanthrene	Chrysene	0.01	0.1884435576983035	Food	Food
+Phenanthrene	cis-Permethrin	0.15	0.007020046754804896	Food	Indoor dust
+Phenanthrene	d-Lindane	-0.27	1.1024230003169925e-5	Food	Legacy
+Phenanthrene	DEET	-0.11	0.14337395845982254	Food	Indoor dust
+Phenanthrene	Diethyl Phthalate	0.14	8.512024357572674e-5	Food	Indoor dust
+Phenanthrene	Endrin	-0.03	4.185868215041183e-6	Food	Legacy
+Phenanthrene	Ethion	0.1	0.0023917769667536164	Food	Legacy
+Phenanthrene	Etridiazole	0.14	0.002736522409500867	Food	Farming/Green space
+Phenanthrene	Fluoranthene	0.26	1.2578583990558725e-10	Food	Food
+Phenanthrene	Fonofos	0.14	0.2605620588475004	Food	Legacy
+Phenanthrene	Hexachlorbutadiene	0.07	0.2634490400357531	Food	Industrial use
+Phenanthrene	Isosafrole	0.07	0.29890680023045385	Food	Legacy
+Phenanthrene	Lindane	-0.15	0.15161448173335657	Food	Legacy
+Phenanthrene	Malathion	0.08	0.3652637746455504	Food	Indoor dust
+Phenanthrene	Mirex	0.12	0.41113896496441094	Food	Legacy
+Phenanthrene	p,p'-DDD	0.06	0.03457548654375235	Food	Legacy
+Phenanthrene	p,p'-DDE	0.1	0.09614085256309994	Food	Legacy
+Phenanthrene	Parathion	0.26	3.612756459491511e-4	Food	Legacy
+Phenanthrene	PCB 128	0.13	6.724429062607641e-6	Food	Legacy PCB
+Phenanthrene	PCB 18	0.24	4.5967170484899677e-7	Food	Legacy PCB
+Phenanthrene	PCB 203	0.21	0.0010644678553114947	Food	Legacy PCB
+Phenanthrene	PCB 33	0.07	0.7108092321146736	Food	Legacy PCB
+Phenanthrene	PCB 44	0.2	1.5134579179025148e-6	Food	Legacy PCB
+Phenanthrene	PCB 49	-0.1	0.8615844807135551	Food	Legacy PCB
+Phenanthrene	PCB 52	0.16	3.057262995391776e-4	Food	Legacy PCB
+Phenanthrene	PCB 60	0.06	1.6044633598987064e-6	Food	Legacy PCB
+Phenanthrene	PCB 77	0.07	0.42030866742056217	Food	Legacy PCB
+Phenanthrene	PCB 81	0.24	8.900355298525684e-5	Food	Legacy PCB
+Phenanthrene	Phenacetin	0.12	0.03687094281089104	Food	other
+Phenanthrene	Phenanthrene	1	0	Food	Food
+Phenanthrene	Pyrene	0.36	1.460987682010102e-11	Food	Food
+Phenanthrene	Safrole	0.18	5.607674667916189e-7	Food	Legacy
+Phenanthrene	Simazine	-0.02	0.006049058128832565	Food	Farming/Green space
+Phenanthrene	trans-Permethrin	0.04	0.8014589216565089	Food	Indoor dust
+Phenanthrene	Tri(2-chloroethyl) phosphate	0.08	0.08852682094935538	Food	Indoor dust
+Phenanthrene	Triadimefon	-0.02	0.6887424831390159	Food	Farming/Green space
+Pyrene	1,2-Dichlorbenzene	0.1	0.0013009343379011833	Food	Industrial use
+Pyrene	1,2,3,7,8-Pentachlorodibenzodioxin	-0.13	0.6702044148697274	Food	Food
+Pyrene	1,2,4-Trichlorobenzene	0.04	0.13590430579378496	Food	Industrial use
+Pyrene	1,2,4,5-Tetrachlorobenzene	-0.11	0.7088285639603433	Food	Industrial use
+Pyrene	2,3,7,8-Tetrachlorodibenzofuran	-0.31	5.104744426879261e-8	Food	Food
+Pyrene	2,4,5-Trichlorophenol	-0.01	0.02894060158128747	Food	Industrial use
+Pyrene	Acenaphthene	0.1	0.0678511173378866	Food	Food
+Pyrene	Anthracene	0.25	5.485006172552688e-5	Food	Food
+Pyrene	b-Hexachlorocyclohexane	-0.19	0.01994810427476191	Food	Legacy
+Pyrene	Benz[a]anthracene	0.08	9.652868116348844e-7	Food	Food
+Pyrene	Benzo[b]fluoranthene	-0.11	0.3403749176271811	Food	Food
+Pyrene	Bromacil	-0.18	0.20648564606711814	Food	Farming/Green space
+Pyrene	Bromoform	-0.12	0.3725764705668987	Food	other
+Pyrene	Chrysene	-0.03	0.0017818919319250687	Food	Food
+Pyrene	cis-Permethrin	-0.37	1.0998791808444233e-12	Food	Indoor dust
+Pyrene	d-Lindane	-0.21	0.0015208367264392688	Food	Legacy
+Pyrene	DEET	-0.21	1.1726956316351164e-5	Food	Indoor dust
+Pyrene	Diethyl Phthalate	-0.2	4.119417676074352e-4	Food	Indoor dust
+Pyrene	Endrin	-0.43	5.566786417176319e-20	Food	Legacy
+Pyrene	Ethion	0.09	0.05405584009822967	Food	Legacy
+Pyrene	Etridiazole	0.08	1.1267781650200462e-4	Food	Farming/Green space
+Pyrene	Fluoranthene	0.78	5.839402368963026e-84	Food	Food
+Pyrene	Fonofos	-0.31	1.3536207011226945e-8	Food	Legacy
+Pyrene	Hexachlorbutadiene	-0.01	0.045587239756883606	Food	Industrial use
+Pyrene	Isosafrole	-0.23	1.5585790432106637e-13	Food	Legacy
+Pyrene	Lindane	-0.12	0.3198118607479673	Food	Legacy
+Pyrene	Malathion	-0.4	2.717515720301573e-10	Food	Indoor dust
+Pyrene	Mirex	-0.26	2.5420446391983495e-6	Food	Legacy
+Pyrene	p,p'-DDD	-0.24	0.006521170054687501	Food	Legacy
+Pyrene	p,p'-DDE	-0.2	9.474620608295536e-4	Food	Legacy
+Pyrene	Parathion	-0.29	2.7708787677403245e-9	Food	Legacy
+Pyrene	PCB 128	0.14	0.0601088588376758	Food	Legacy PCB
+Pyrene	PCB 18	0.43	1.2430116306348669e-20	Food	Legacy PCB
+Pyrene	PCB 203	-0.23	5.96209784728657e-6	Food	Legacy PCB
+Pyrene	PCB 33	-0.16	0.0035838335218718606	Food	Legacy PCB
+Pyrene	PCB 44	0.45	1.755057387247743e-26	Food	Legacy PCB
+Pyrene	PCB 49	-0.1	0.15878576718586213	Food	Legacy PCB
+Pyrene	PCB 52	0.03	1.719715427509213e-4	Food	Legacy PCB
+Pyrene	PCB 60	-0.27	2.667998654467685e-5	Food	Legacy PCB
+Pyrene	PCB 77	-0.29	0.004829258330205584	Food	Legacy PCB
+Pyrene	PCB 81	-0.11	0.4271289101979352	Food	Legacy PCB
+Pyrene	Phenacetin	-0.48	3.8201120024141196e-23	Food	other
+Pyrene	Phenanthrene	0.36	1.460987682010102e-11	Food	Food
+Pyrene	Pyrene	1	0	Food	Food
+Pyrene	Safrole	0.27	3.8698825918070296e-10	Food	Legacy
+Pyrene	Simazine	0.19	4.0091095978265795e-9	Food	Farming/Green space
+Pyrene	trans-Permethrin	-0.29	1.662861371192068e-5	Food	Indoor dust
+Pyrene	Tri(2-chloroethyl) phosphate	-0.2	8.0806135787991e-5	Food	Indoor dust
+Pyrene	Triadimefon	0.1	0.07284715385631041	Food	Farming/Green space
+Safrole	1,2-Dichlorbenzene	0.16	0.8075730954232417	Legacy	Industrial use
+Safrole	1,2,3,7,8-Pentachlorodibenzodioxin	-0.08	0.05917854397750828	Legacy	Food
+Safrole	1,2,4-Trichlorobenzene	0.25	2.945246471837708e-11	Legacy	Industrial use
+Safrole	1,2,4,5-Tetrachlorobenzene	0.09	7.801011693497659e-8	Legacy	Industrial use
+Safrole	2,3,7,8-Tetrachlorodibenzofuran	-0.05	0.02008389050210121	Legacy	Food
+Safrole	2,4,5-Trichlorophenol	0.05	0.002002777702442248	Legacy	Industrial use
+Safrole	Acenaphthene	0.18	3.302998508177908e-8	Legacy	Food
+Safrole	Anthracene	0.15	7.1343711815749204e-6	Legacy	Food
+Safrole	b-Hexachlorocyclohexane	0.03	0.3178584957994092	Legacy	Legacy
+Safrole	Benz[a]anthracene	0.1	0.0019932400261915523	Legacy	Food
+Safrole	Benzo[b]fluoranthene	-0.08	0.4750925246825406	Legacy	Food
+Safrole	Bromacil	0.05	0.003934348396809217	Legacy	Farming/Green space
+Safrole	Bromoform	0.06	0.025600777685120146	Legacy	other
+Safrole	Chrysene	0.05	8.281422081957588e-5	Legacy	Food
+Safrole	cis-Permethrin	-0.08	0.06059189543371383	Legacy	Indoor dust
+Safrole	d-Lindane	0.01	0.13186488496339474	Legacy	Legacy
+Safrole	DEET	0.08	0.8990382836648882	Legacy	Indoor dust
+Safrole	Diethyl Phthalate	-0.11	0.8607142963120941	Legacy	Indoor dust
+Safrole	Endrin	-0.26	7.292543353580436e-8	Legacy	Legacy
+Safrole	Ethion	0.19	8.379732476742441e-8	Legacy	Legacy
+Safrole	Etridiazole	0.29	2.262271050355245e-21	Legacy	Farming/Green space
+Safrole	Fluoranthene	0.25	8.454514957432579e-10	Legacy	Food
+Safrole	Fonofos	0.04	0.9786308852688013	Legacy	Legacy
+Safrole	Hexachlorbutadiene	0.14	3.700895494966027e-5	Legacy	Industrial use
+Safrole	Isosafrole	0.11	0.3664124445628387	Legacy	Legacy
+Safrole	Lindane	0.03	0.3488131229323199	Legacy	Legacy
+Safrole	Malathion	-0.09	0.3569150635942081	Legacy	Indoor dust
+Safrole	Mirex	-0.11	0.016586477271350413	Legacy	Legacy
+Safrole	p,p'-DDD	-0.09	0.3803540502057121	Legacy	Legacy
+Safrole	p,p'-DDE	0.09	0.536144595300585	Legacy	Legacy
+Safrole	Parathion	-0.06	0.587175601363245	Legacy	Legacy
+Safrole	PCB 128	0.35	3.114861543171458e-9	Legacy	Legacy PCB
+Safrole	PCB 18	0.42	1.4632594063776119e-36	Legacy	Legacy PCB
+Safrole	PCB 203	0.01	0.9659778546585912	Legacy	Legacy PCB
+Safrole	PCB 33	-0.05	0.6961978017987677	Legacy	Legacy PCB
+Safrole	PCB 44	0.42	1.940322610695742e-33	Legacy	Legacy PCB
+Safrole	PCB 49	-0.03	1.505437486764648e-6	Legacy	Legacy PCB
+Safrole	PCB 52	0.04	9.293225974808391e-8	Legacy	Legacy PCB
+Safrole	PCB 60	-0.14	0.7353208734762977	Legacy	Legacy PCB
+Safrole	PCB 77	-0.2	8.860274885468199e-4	Legacy	Legacy PCB
+Safrole	PCB 81	0.05	1.3634550196322448e-6	Legacy	Legacy PCB
+Safrole	Phenacetin	-0.04	0.0853125280663404	Legacy	other
+Safrole	Phenanthrene	0.18	5.607674667916189e-7	Legacy	Food
+Safrole	Pyrene	0.27	3.8698825918070296e-10	Legacy	Food
+Safrole	Safrole	1	0	Legacy	Legacy
+Safrole	Simazine	0.21	2.909252339008059e-5	Legacy	Farming/Green space
+Safrole	trans-Permethrin	-0.08	0.611262317253429	Legacy	Indoor dust
+Safrole	Tri(2-chloroethyl) phosphate	-0.12	0.026716110939797512	Legacy	Indoor dust
+Safrole	Triadimefon	0.01	0.2419528576397975	Legacy	Farming/Green space
+Simazine	1,2-Dichlorbenzene	0.5	1.0223694742466927e-29	Farming/Green space	Industrial use
+Simazine	1,2,3,7,8-Pentachlorodibenzodioxin	0.15	0.4084579887025762	Farming/Green space	Food
+Simazine	1,2,4-Trichlorobenzene	0.05	0.42902567687743365	Farming/Green space	Industrial use
+Simazine	1,2,4,5-Tetrachlorobenzene	-0.07	0.3979703384921448	Farming/Green space	Industrial use
+Simazine	2,3,7,8-Tetrachlorodibenzofuran	0.14	0.03772690782742964	Farming/Green space	Food
+Simazine	2,4,5-Trichlorophenol	0.09	1.652065701307859e-5	Farming/Green space	Industrial use
+Simazine	Acenaphthene	0.19	5.654646693771066e-5	Farming/Green space	Food
+Simazine	Anthracene	-0.04	0.2371230330671587	Farming/Green space	Food
+Simazine	b-Hexachlorocyclohexane	0.04	0.15872394316490263	Farming/Green space	Legacy
+Simazine	Benz[a]anthracene	0.16	7.877643043384032e-5	Farming/Green space	Food
+Simazine	Benzo[b]fluoranthene	0.06	0.00881769865706877	Farming/Green space	Food
+Simazine	Bromacil	0.12	0.0010588621429400162	Farming/Green space	Farming/Green space
+Simazine	Bromoform	-0.01	0.5695614368555058	Farming/Green space	other
+Simazine	Chrysene	0.06	0.10592892545641436	Farming/Green space	Food
+Simazine	cis-Permethrin	-0.07	0.041598149627562114	Farming/Green space	Indoor dust
+Simazine	d-Lindane	0.22	2.5040037608989196e-7	Farming/Green space	Legacy
+Simazine	DEET	-0.14	0.006665033102449458	Farming/Green space	Indoor dust
+Simazine	Diethyl Phthalate	0.08	0.002664836462326795	Farming/Green space	Indoor dust
+Simazine	Endrin	-0.25	3.816021367179714e-9	Farming/Green space	Legacy
+Simazine	Ethion	0.13	0.003355870776606937	Farming/Green space	Legacy
+Simazine	Etridiazole	0.21	1.3861858143652255e-6	Farming/Green space	Farming/Green space
+Simazine	Fluoranthene	0.18	1.479677586352577e-8	Farming/Green space	Food
+Simazine	Fonofos	-0.13	0.009811673109418592	Farming/Green space	Legacy
+Simazine	Hexachlorbutadiene	0.18	7.555405686235939e-9	Farming/Green space	Industrial use
+Simazine	Isosafrole	0.01	0.0016085056706673952	Farming/Green space	Legacy
+Simazine	Lindane	0.25	4.0588314602767194e-13	Farming/Green space	Legacy
+Simazine	Malathion	0.06	0.11156851611067425	Farming/Green space	Indoor dust
+Simazine	Mirex	-0.07	0.019467312908983448	Farming/Green space	Legacy
+Simazine	p,p'-DDD	0.02	0.7897157118462768	Farming/Green space	Legacy
+Simazine	p,p'-DDE	0.04	0.7927742595960094	Farming/Green space	Legacy
+Simazine	Parathion	-0.2	2.468653612483627e-6	Farming/Green space	Legacy
+Simazine	PCB 128	0.47	1.2572212310002267e-18	Farming/Green space	Legacy PCB
+Simazine	PCB 18	0.36	4.918245975233506e-16	Farming/Green space	Legacy PCB
+Simazine	PCB 203	-0.08	0.02876173407253694	Farming/Green space	Legacy PCB
+Simazine	PCB 33	0.02	0.7870352660456145	Farming/Green space	Legacy PCB
+Simazine	PCB 44	0.57	2.1116617635516586e-33	Farming/Green space	Legacy PCB
+Simazine	PCB 49	0.08	0.5356646278379067	Farming/Green space	Legacy PCB
+Simazine	PCB 52	-0.04	0.10680199685111351	Farming/Green space	Legacy PCB
+Simazine	PCB 60	-0.22	2.732578193768241e-4	Farming/Green space	Legacy PCB
+Simazine	PCB 77	-0.08	0.8664348451192486	Farming/Green space	Legacy PCB
+Simazine	PCB 81	-0.04	0.7249904996127734	Farming/Green space	Legacy PCB
+Simazine	Phenacetin	-0.17	2.4200023907365872e-5	Farming/Green space	other
+Simazine	Phenanthrene	-0.02	0.006049058128832565	Farming/Green space	Food
+Simazine	Pyrene	0.19	4.0091095978265795e-9	Farming/Green space	Food
+Simazine	Safrole	0.21	2.909252339008059e-5	Farming/Green space	Legacy
+Simazine	Simazine	1	0	Farming/Green space	Farming/Green space
+Simazine	trans-Permethrin	-0.18	7.624621175778699e-5	Farming/Green space	Indoor dust
+Simazine	Tri(2-chloroethyl) phosphate	0.03	0.6827839325916576	Farming/Green space	Indoor dust
+Simazine	Triadimefon	0.11	0.17738573392530285	Farming/Green space	Farming/Green space
+trans-Permethrin	1,2-Dichlorbenzene	-0.2	2.2726630815733848e-7	Indoor dust	Industrial use
+trans-Permethrin	1,2,3,7,8-Pentachlorodibenzodioxin	0.14	0.09847218806616435	Indoor dust	Food
+trans-Permethrin	1,2,4-Trichlorobenzene	0.07	0.2859641597702337	Indoor dust	Industrial use
+trans-Permethrin	1,2,4,5-Tetrachlorobenzene	0.29	1.606063139469331e-5	Indoor dust	Industrial use
+trans-Permethrin	2,3,7,8-Tetrachlorodibenzofuran	0.32	4.905269941308834e-5	Indoor dust	Food
+trans-Permethrin	2,4,5-Trichlorophenol	0.21	0.21451350800228053	Indoor dust	Industrial use
+trans-Permethrin	Acenaphthene	0.28	6.329088746608721e-13	Indoor dust	Food
+trans-Permethrin	Anthracene	0.29	4.937814314875945e-8	Indoor dust	Food
+trans-Permethrin	b-Hexachlorocyclohexane	0.07	0.5864463004934242	Indoor dust	Legacy
+trans-Permethrin	Benz[a]anthracene	0.05	0.20885499839032762	Indoor dust	Food
+trans-Permethrin	Benzo[b]fluoranthene	0.15	0.3263336982316013	Indoor dust	Food
+trans-Permethrin	Bromacil	0.23	0.09780851088849583	Indoor dust	Farming/Green space
+trans-Permethrin	Bromoform	0.21	0.0040805303520285	Indoor dust	other
+trans-Permethrin	Chrysene	0.16	0.27346821181723424	Indoor dust	Food
+trans-Permethrin	cis-Permethrin	0.54	1.1453948616719014e-18	Indoor dust	Indoor dust
+trans-Permethrin	d-Lindane	-0.23	2.1003335854898006e-9	Indoor dust	Legacy
+trans-Permethrin	DEET	0.17	0.002746708397149284	Indoor dust	Indoor dust
+trans-Permethrin	Diethyl Phthalate	0.36	5.364195986042789e-11	Indoor dust	Indoor dust
+trans-Permethrin	Endrin	0.42	3.250918633705667e-14	Indoor dust	Legacy
+trans-Permethrin	Ethion	0.18	0.0011420332385347113	Indoor dust	Legacy
+trans-Permethrin	Etridiazole	-0.07	0.3160822865552693	Indoor dust	Farming/Green space
+trans-Permethrin	Fluoranthene	-0.42	1.06110137807031e-10	Indoor dust	Food
+trans-Permethrin	Fonofos	0.32	0.001235092965893447	Indoor dust	Legacy
+trans-Permethrin	Hexachlorbutadiene	0.11	0.8662593626365512	Indoor dust	Industrial use
+trans-Permethrin	Isosafrole	0.19	0.026503152840212183	Indoor dust	Legacy
+trans-Permethrin	Lindane	-0.11	6.818634314056671e-6	Indoor dust	Legacy
+trans-Permethrin	Malathion	0.29	9.029522414094169e-5	Indoor dust	Indoor dust
+trans-Permethrin	Mirex	0.39	7.475201264548285e-10	Indoor dust	Legacy
+trans-Permethrin	p,p'-DDD	0.3	7.856255974992646e-5	Indoor dust	Legacy
+trans-Permethrin	p,p'-DDE	0.23	0.01604243500854449	Indoor dust	Legacy
+trans-Permethrin	Parathion	0.49	1.0828677660665545e-16	Indoor dust	Legacy
+trans-Permethrin	PCB 128	-0.05	0.8257095563472054	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 18	-0.18	0.17980492510616972	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 203	0.32	7.693556215434454e-7	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 33	0.47	1.3175537625726837e-15	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 44	-0.12	0.1179951525000587	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 49	-0.1	0.21996842091598703	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 52	0.08	0.3633201205030221	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 60	0.23	0.34778907026026074	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 77	0.32	0.001761873783613209	Indoor dust	Legacy PCB
+trans-Permethrin	PCB 81	0.26	0.0044685811516667635	Indoor dust	Legacy PCB
+trans-Permethrin	Phenacetin	0.53	1.6082789856513814e-18	Indoor dust	other
+trans-Permethrin	Phenanthrene	0.04	0.8014589216565089	Indoor dust	Food
+trans-Permethrin	Pyrene	-0.29	1.662861371192068e-5	Indoor dust	Food
+trans-Permethrin	Safrole	-0.08	0.611262317253429	Indoor dust	Legacy
+trans-Permethrin	Simazine	-0.18	7.624621175778699e-5	Indoor dust	Farming/Green space
+trans-Permethrin	trans-Permethrin	1	0	Indoor dust	Indoor dust
+trans-Permethrin	Tri(2-chloroethyl) phosphate	0.34	1.2397700662878459e-8	Indoor dust	Indoor dust
+trans-Permethrin	Triadimefon	-0.38	9.769933684071086e-13	Indoor dust	Farming/Green space
+Tri(2-chloroethyl) phosphate	1,2-Dichlorbenzene	-0.06	0.3061673856748961	Indoor dust	Industrial use
+Tri(2-chloroethyl) phosphate	1,2,3,7,8-Pentachlorodibenzodioxin	0.27	9.677985514742183e-6	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	1,2,4-Trichlorobenzene	0.19	1.0226912632787189e-4	Indoor dust	Industrial use
+Tri(2-chloroethyl) phosphate	1,2,4,5-Tetrachlorobenzene	0.26	9.64774040964062e-4	Indoor dust	Industrial use
+Tri(2-chloroethyl) phosphate	2,3,7,8-Tetrachlorodibenzofuran	0.37	6.31757378870704e-17	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	2,4,5-Trichlorophenol	0.18	0.41523103670905626	Indoor dust	Industrial use
+Tri(2-chloroethyl) phosphate	Acenaphthene	0.13	0.0016298794220295783	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Anthracene	0.13	0.06851595231053642	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	b-Hexachlorocyclohexane	0.12	0.009824584840654283	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Benz[a]anthracene	-0.01	0.0328085160462203	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Benzo[b]fluoranthene	0.11	0.0843889025613665	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Bromacil	0.32	1.3940997584508302e-6	Indoor dust	Farming/Green space
+Tri(2-chloroethyl) phosphate	Bromoform	0.08	0.8531325027840494	Indoor dust	other
+Tri(2-chloroethyl) phosphate	Chrysene	0.07	0.14371959054603184	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	cis-Permethrin	0.37	1.7338171780477335e-10	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	d-Lindane	-0.18	3.785230143486698e-5	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	DEET	0.02	0.5072471858355843	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	Diethyl Phthalate	0.43	2.072948642930845e-14	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	Endrin	0.44	8.563636563153027e-27	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Ethion	0.23	2.102463655656507e-7	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Etridiazole	-0.04	0.13043837440128422	Indoor dust	Farming/Green space
+Tri(2-chloroethyl) phosphate	Fluoranthene	-0.36	1.202891544502228e-12	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Fonofos	0.27	7.145891564664459e-6	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Hexachlorbutadiene	0.13	0.8120739943201717	Indoor dust	Industrial use
+Tri(2-chloroethyl) phosphate	Isosafrole	0.15	0.015346054657074773	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Lindane	-0.07	0.004063876383247513	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Malathion	0.28	9.770078473588776e-7	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	Mirex	0.38	9.093281205242469e-12	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	p,p'-DDD	0.32	3.295995325623503e-10	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	p,p'-DDE	0.22	7.225772120452046e-4	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Parathion	0.33	1.4294685706343415e-10	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	PCB 128	0	0.2609834337766929	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 18	-0.13	0.015226788633405337	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 203	0.36	4.957137596531843e-12	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 33	0.55	2.2559233038367298e-26	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 44	-0.05	0.025515561932872986	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 49	-0.1	0.23301805786017374	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 52	0.1	0.2135418784418827	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 60	0.14	0.45587816058381625	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 77	0.39	4.280616589936258e-9	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	PCB 81	0.33	2.711264366350979e-6	Indoor dust	Legacy PCB
+Tri(2-chloroethyl) phosphate	Phenacetin	0.46	1.799249319136485e-23	Indoor dust	other
+Tri(2-chloroethyl) phosphate	Phenanthrene	0.08	0.08852682094935538	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Pyrene	-0.2	8.0806135787991e-5	Indoor dust	Food
+Tri(2-chloroethyl) phosphate	Safrole	-0.12	0.026716110939797512	Indoor dust	Legacy
+Tri(2-chloroethyl) phosphate	Simazine	0.03	0.6827839325916576	Indoor dust	Farming/Green space
+Tri(2-chloroethyl) phosphate	trans-Permethrin	0.34	1.2397700662878459e-8	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	Tri(2-chloroethyl) phosphate	1	0	Indoor dust	Indoor dust
+Tri(2-chloroethyl) phosphate	Triadimefon	-0.28	9.232650785063946e-8	Indoor dust	Farming/Green space
+Triadimefon	1,2-Dichlorbenzene	0.3	9.037484915347025e-7	Farming/Green space	Industrial use
+Triadimefon	1,2,3,7,8-Pentachlorodibenzodioxin	0.06	0.12962208206341394	Farming/Green space	Food
+Triadimefon	1,2,4-Trichlorobenzene	-0.01	0.16668148352798604	Farming/Green space	Industrial use
+Triadimefon	1,2,4,5-Tetrachlorobenzene	-0.13	0.06704861060717142	Farming/Green space	Industrial use
+Triadimefon	2,3,7,8-Tetrachlorodibenzofuran	-0.13	0.021129720188707953	Farming/Green space	Food
+Triadimefon	2,4,5-Trichlorophenol	-0.11	0.5851584622741774	Farming/Green space	Industrial use
+Triadimefon	Acenaphthene	-0.34	1.2373750085324572e-13	Farming/Green space	Food
+Triadimefon	Anthracene	-0.25	0.00898235081804682	Farming/Green space	Food
+Triadimefon	b-Hexachlorocyclohexane	0.07	0.06085361976246441	Farming/Green space	Legacy
+Triadimefon	Benz[a]anthracene	-0.03	0.9501512631836286	Farming/Green space	Food
+Triadimefon	Benzo[b]fluoranthene	-0.09	0.619502080091642	Farming/Green space	Food
+Triadimefon	Bromacil	-0.12	0.18757753305539943	Farming/Green space	Farming/Green space
+Triadimefon	Bromoform	-0.14	0.0460396144309906	Farming/Green space	other
+Triadimefon	Chrysene	-0.03	0.8725202424988875	Farming/Green space	Food
+Triadimefon	cis-Permethrin	-0.28	1.7079632765789055e-7	Farming/Green space	Indoor dust
+Triadimefon	d-Lindane	0.32	1.377775814452719e-9	Farming/Green space	Legacy
+Triadimefon	DEET	-0.05	0.30813069833632356	Farming/Green space	Indoor dust
+Triadimefon	Diethyl Phthalate	-0.24	1.2281406795545705e-6	Farming/Green space	Indoor dust
+Triadimefon	Endrin	-0.22	2.282598869147447e-5	Farming/Green space	Legacy
+Triadimefon	Ethion	-0.21	1.2628843205888518e-4	Farming/Green space	Legacy
+Triadimefon	Etridiazole	0.01	0.1633841184725066	Farming/Green space	Farming/Green space
+Triadimefon	Fluoranthene	0.24	1.6684596030159003e-5	Farming/Green space	Food
+Triadimefon	Fonofos	-0.04	0.7892111721835158	Farming/Green space	Legacy
+Triadimefon	Hexachlorbutadiene	-0.04	0.8046713402563672	Farming/Green space	Industrial use
+Triadimefon	Isosafrole	0.07	0.09053609803824815	Farming/Green space	Legacy
+Triadimefon	Lindane	0.08	0.031248488783719233	Farming/Green space	Legacy
+Triadimefon	Malathion	-0.05	0.2879838811519704	Farming/Green space	Indoor dust
+Triadimefon	Mirex	-0.18	0.003762520950129794	Farming/Green space	Legacy
+Triadimefon	p,p'-DDD	-0.16	0.0037612122428894368	Farming/Green space	Legacy
+Triadimefon	p,p'-DDE	-0.03	0.928904196668225	Farming/Green space	Legacy
+Triadimefon	Parathion	-0.26	2.2095134009785014e-6	Farming/Green space	Legacy
+Triadimefon	PCB 128	0.23	0.0016568242297076642	Farming/Green space	Legacy PCB
+Triadimefon	PCB 18	0.01	0.14030118392052168	Farming/Green space	Legacy PCB
+Triadimefon	PCB 203	-0.16	0.006141590598273288	Farming/Green space	Legacy PCB
+Triadimefon	PCB 33	-0.33	3.172432288832998e-8	Farming/Green space	Legacy PCB
+Triadimefon	PCB 44	-0.16	0.007075648667839405	Farming/Green space	Legacy PCB
+Triadimefon	PCB 49	0.36	2.4376486781806654e-8	Farming/Green space	Legacy PCB
+Triadimefon	PCB 52	-0.13	0.04395500726022691	Farming/Green space	Legacy PCB
+Triadimefon	PCB 60	-0.02	0.11024753048250807	Farming/Green space	Legacy PCB
+Triadimefon	PCB 77	-0.18	0.01873805644861615	Farming/Green space	Legacy PCB
+Triadimefon	PCB 81	-0.19	0.0011721829889915268	Farming/Green space	Legacy PCB
+Triadimefon	Phenacetin	-0.22	1.6258713097013798e-4	Farming/Green space	other
+Triadimefon	Phenanthrene	-0.02	0.6887424831390159	Farming/Green space	Food
+Triadimefon	Pyrene	0.1	0.07284715385631041	Farming/Green space	Food
+Triadimefon	Safrole	0.01	0.2419528576397975	Farming/Green space	Legacy
+Triadimefon	Simazine	0.11	0.17738573392530285	Farming/Green space	Farming/Green space
+Triadimefon	trans-Permethrin	-0.38	9.769933684071086e-13	Farming/Green space	Indoor dust
+Triadimefon	Tri(2-chloroethyl) phosphate	-0.28	9.232650785063946e-8	Farming/Green space	Indoor dust
+Triadimefon	Triadimefon	1	0	Farming/Green space	Farming/Green space

@@ -26,13 +26,21 @@ chem_class_updated2 <- chem_class %>%
 chemicals <- read_tsv("data/chemicals_replaced_filtered_transformed.txt") %>% 
     select(-ysad)
 
-chem.cor <- cor(chemicals, method = "spear") %>% 
+chem_cor <- cor(chemicals, method = "spearman") %>% 
     round(., 2)
 
-p.mat <- cor_pmat(chemicals)
+p_mat <- cor_pmat(chemicals)
+
+chem_cor_p_long <- p_mat %>% 
+    as.data.frame(.) %>% 
+    rownames_to_column(var = "Var1") %>% 
+    gather(key = "Var2", value = "pvalue", -Var1) %>% 
+    merge(., chem_class_updated1, by.y = "chemical", by.x = "Var1") %>% 
+    merge(., chem_class_updated2, by.y = "chemical", by.x = "Var2") %>% 
+    mutate(source_2 = fct_rev(source_2))
 
 # Adding facet to show group membership
-chem.cor.long <- chem.cor %>% 
+chem_cor_long <- chem_cor %>% 
     as.data.frame(.) %>% 
     rownames_to_column(var = "Var1") %>% 
     gather(key = "Var2", value = "correlation", -Var1) %>% 
@@ -40,7 +48,7 @@ chem.cor.long <- chem.cor %>%
     merge(., chem_class_updated2, by.y = "chemical", by.x = "Var2") %>% 
     mutate(source_2 = fct_rev(source_2))
 
-cor_heatmap <- chem.cor.long %>% 
+cor_heatmap <- chem_cor_long %>% 
     ggplot(aes(x = Var1, y = Var2, fill = correlation)) +
     geom_tile(color = "white") +
     theme_bw() +
@@ -64,4 +72,29 @@ png("figures/chemical_correlations_by_source.png", res = 300, units = "in",
 cor_heatmap
 dev.off()
 
+# Save correlation estimates
+chem_cor_p_for_merge <- chem_cor_p_long %>% 
+    select(-source_2, -source_1) 
 
+chem_cor_long %>% 
+    merge(., chem_cor_p_for_merge, by = c("Var1", "Var2")) %>% 
+    mutate(source_var1 = gsub("\n", "", .$source_1)) %>% 
+    mutate(source_var2 = gsub("\n", "", .$source_2)) %>% 
+    select(-source_2, -source_1) %>% 
+    write_tsv("code/output/chemical_correlations.txt")
+
+# Histogram of chemical correlations
+correlations_histogram <- chem_cor_long %>% 
+    filter(correlation != 1) %>% 
+    mutate(source_2 = fct_rev(source_2)) %>% 
+    ggplot(aes(x = correlation)) +
+    theme_bw() +
+    geom_vline(xintercept = 0, linetype = "dashed", color = "red") +
+    geom_histogram(alpha = 0.8) +
+    facet_grid(source_2~source_1)  +
+    #xlim(-1,1) +
+    theme(panel.spacing = unit(0, "lines"),
+           panel.border = element_rect(colour = "black", size=0.7),
+           strip.placement = "outside", 
+           strip.background = element_rect(fill = "white")) +
+    labs(x = "Correlation coefficient", y = "Count")

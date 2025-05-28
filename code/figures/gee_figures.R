@@ -14,7 +14,17 @@ gee_results_with_chemical_data <- merge(gee_results, chemical_names_and_groups, 
                                    levels = c("agricultural", "food", "household dust", "industrial",
                                               "legacy", "legacy PCB", "other"),
                                    labels = c("Farming/\nGreen space", "Food", "Indoor dust", "Industrial \nuse",
-                                              "Legacy", "Legacy PCB", "other")))
+                                              "Legacy", "Legacy PCB", "other"))) %>% 
+    mutate(outcome_labels = case_when(outcome == "Memory" ~ "Episodic memory",
+                                      outcome == "Reasoning" ~ "Fluid reasoning",
+                                      outcome == "Speed" ~ "Perceptual speed",
+                                      outcome == "Vocabulary" ~ "Vocabulary",
+                                      outcome == "Global score" ~ "Global score"))
+gee_results_with_chemical_data$outcome_labels <- factor(gee_results_with_chemical_data$outcome_labels, levels = c("Global score",
+                                                                                                                  "Episodic memory",
+                                                                                                                  "Fluid reasoning",
+                                                                                                                  "Perceptual speed",
+                                                                                                                  "Vocabulary"))
 png("figures/supplemental_gee_forest_plot.png", res = 300, units = "in",
     h = 10, w = 10)
 gee_results_with_chemical_data %>%  
@@ -23,7 +33,7 @@ gee_results_with_chemical_data %>%
     geom_vline(xintercept = 0, linetype = "dashed", color = "red") +
     theme_bw() +
     labs(x = "Coefficient", y = "", color = "") +
-    facet_grid(source_updated~outcome, scales = "free", space = "free") +
+    facet_grid(source_updated~outcome_labels, scales = "free", space = "free") +
     theme(panel.border = element_rect(colour = "black", size=0.7),
           strip.placement = "outside", 
           strip.background = element_rect(fill = "white")) 

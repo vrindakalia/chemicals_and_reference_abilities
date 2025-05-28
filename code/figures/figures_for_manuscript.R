@@ -26,3 +26,9 @@ png("figures/Figure3_PIPs_all_reference_abilities.png", res = 300, units = "in",
     h = 8, w = 12)
 pips_graph
 dev.off()
+
+# Supplemental figure with correlation histogram
+png("figures/supplemental_correlation_histogram.png", res = 300, units = "in",
+    h = 8, w = 10)
+correlations_histogram
+dev.off()

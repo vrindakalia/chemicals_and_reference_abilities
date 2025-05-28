@@ -5,6 +5,18 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     load(paste0("code/output/bkmr_hierarchical_outcome_", outcome_name,".RData"))
     load(paste0("code/output/bkmr_hierarchical_outcome_", outcome_name,"_for_plots.RData"))
     
+    if(outcome_name == "memory"){
+        title = "Episodic memory"
+    } else if(outcome_name == "reasoning"){
+        title = "Fluid reasoning"
+    } else if(outcome_name == "speed"){
+        title = "Perceptual speed"
+    } else if(outcome_name == "vocabulary"){
+        title = "Vocabulary"
+    } else {
+        title = "Global score"
+    }
+    
     # Remove burn-in
     sel <- seq(5001, iter_num, by=1)
     
@@ -12,7 +24,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     png(paste0("figures/bkmr/", outcome_name, "_bkmr_traceplots_beta.png"), 
         res = 300, units = "in", width=6, height=3)
     
-    TracePlot(fit = fit, par = "beta", sel=sel)
+    TracePlot(fit = fit, par = "beta", sel=sel, main = paste0(title, ": beta1"))
     
     dev.off()
     
@@ -22,7 +34,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     png(paste0("figures/bkmr/", outcome_name, "_bkmr_traceplots_sigsq.png"), 
         res = 300, units = "in", width=6, height=3)
     
-    TracePlot(fit = fit, par = "sigsq.eps", sel=sel)
+    TracePlot(fit = fit, par = "sigsq.eps", sel=sel, , main = paste0(title, ": sigma sq"))
     
     dev.off()
     
@@ -55,11 +67,12 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     
     # Over all risk plot
     png(paste0("figures/bkmr/", outcome_name, "_bkmr_overall_risk.png"), 
-        res = 300, units = "in", width=5, height=4)
+        res = 300, units = "in", width=4, height=3)
     
     print(ggplot(risks.overall, aes(quantile, est, ymin = est - 1.96*sd, ymax = est + 1.96*sd)) +  
         geom_hline(yintercept=00, linetype="dashed", color="gray")+ 
-        geom_pointrange() + scale_y_continuous(name="estimate") + theme_bw())
+        geom_pointrange() + scale_y_continuous(name="estimate") + theme_bw() +
+            ggtitle(title))
     
     dev.off()
     
@@ -67,7 +80,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     
     # Predicted univariate responses
     png(paste0("figures/bkmr/", outcome_name, "_bkmr_univariate_response.png"), 
-        res = 300, units = "in", width=10, height=12)
+        res = 300, units = "in", width=12, height=10)
     
     print(pred.resp.univar %>% 
         merge(., chemical_groups, by = "variable") %>% 
@@ -82,7 +95,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
         geom_smooth(stat = "identity") + ylab("estimate") + facet_wrap(~ chemical_plot_labels, ncol = 6) +
         geom_hline(yintercept=00, linetype="dashed", color="black") +
         theme_bw()+
-        theme(legend.position = "bottom") +
+        theme(legend.position = "right") +
         labs(color = "") +
         scale_color_manual(values = c("#4363d8", "#f58231", "#808000",
                                       "#800000", "#469990", "#000075")))
@@ -91,31 +104,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     
     message("Univariate response plot saved")
     
-    # Single variable risk
-    png(paste0("figures/bkmr/", outcome_name, "_bkmr_singvar_risk.png"), 
-        res = 300, units = "in", width=8, height=12)
-    
-    print(ggplot(risks.singvar, aes(variable, est, ymin = est - 1.96*sd,  ymax = est + 1.96*sd, col = q.fixed)) +  
-        geom_hline(aes(yintercept=0), linetype="dashed", color="gray")+ 
-        geom_pointrange(position = position_dodge(width = 0.75)) +  coord_flip() +  theme(legend.position="none") +
-        scale_x_discrete(name="")+ scale_y_continuous(name="estimate"))
-    dev.off()
-    
-    message("Single variable risk plot saved")
-    
-    # Interaction plots
-    png(paste0("figures/bkmr/", outcome_name, "_bkmr_interaction.png"), 
-        res = 300, units = "in", width=5, height=8)
-    
-    print(ggplot(risks.int, aes(variable, est, ymin = est - 1.96*sd, ymax = est + 1.96*sd)) + 
-        geom_pointrange(position = position_dodge(width = 0.75)) + 
-        geom_hline(yintercept = 0, lty = 2, col = "brown") + coord_flip())
-    
-    dev.off()
-    
-    message("Interaction plot saved")
     message("Thats all the plots!")
-    
     
 }
 
