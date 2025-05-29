@@ -20,13 +20,17 @@ In the `code` folder, the scripts should be run in the following order:
 * `gee_models.R` runs multiple GEEs for each chemical and outcome of interest
 * `bkmr_models.R` runs multiple BKMRs. The analysis was run with 60,000 iterations that took almost an hour per outcome. May want to consider whether should run the script
 
-4. The `output` folder contains results from the models run as well as other files saved to disc in a previous step
+4. The `output` folder contains results from the models run as well as other files saved to disc in analyses/ exploration
 
-5. The `functions` folder
+5. In the `functions` folder:  
+* `functions_cleaning.R` runs functions used to clean the chemical exposure data
+* `function_fit_gee.R` runs multiple GEEs for each chemical and outcome
+* `function_bkmr.R` runs all the bkmr models. 
+* `function_bkmr_plots.R` runs code to generate figures to summarize BKMR results
 
-6. The `figures` folder
+6. The `figures` folder contains code to generate figures for the manuscript
 
-7. The `packages` folder
+7. The `packages` folder contains code to ensure all necessary packages are installed / loaded.
 
-The figures used in the manuscript can be found in the "figures"folder
+The figures used in the manuscript can be found in the "figures" folder
 
