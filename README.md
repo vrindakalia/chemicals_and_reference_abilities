@@ -32,5 +32,5 @@ In the `code` folder, the scripts should be run in the following order:
 
 7. The `packages` folder contains code to ensure all necessary packages are installed / loaded.
 
-The figures used in the manuscript can be found in the "figures" folder
+The figures used in the manuscript can be found in the `figures` folder
 
