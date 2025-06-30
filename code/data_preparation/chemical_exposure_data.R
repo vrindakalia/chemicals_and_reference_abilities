@@ -1,5 +1,5 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Clean and prepapre the chemical exposure data
+# Clean and prepare the chemical exposure data
 # Data are from targeted analysis of serum
 # Date edited: 04/24/2025
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
