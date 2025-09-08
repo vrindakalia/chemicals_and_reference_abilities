@@ -1,5 +1,4 @@
 source("code/packages/packages_to_load.R")
-source("code/functions/functions.R")
 
 # Call in the meta data and outcome data
 meta_data <- read_tsv("data/phenotype_data_complete.txt") 

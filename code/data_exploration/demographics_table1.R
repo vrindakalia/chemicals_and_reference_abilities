@@ -40,3 +40,6 @@ chemical_and_meta_data$bl0fu1 <- factor(chemical_and_meta_data$bl0fu1, levels = 
 table1(~age_eval + education + race + female + apoe_e4 + global_score +
                 memory + vocab + reasoning + speed | bl0fu1, data = chemical_and_meta_data)
 
+chemical_and_meta_data %>% 
+    select(ysad, sub_id) %>% 
+    write_tsv("/Users/vrindakalia/Documents/MillerLab/RANN/clean_data/RANN_ids_manuscript.txt")

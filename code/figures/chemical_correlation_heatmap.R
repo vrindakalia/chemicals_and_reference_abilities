@@ -98,3 +98,11 @@ correlations_histogram <- chem_cor_long %>%
            strip.placement = "outside", 
            strip.background = element_rect(fill = "white")) +
     labs(x = "Correlation coefficient", y = "Count")
+
+
+dust <- chem_cor_long %>% filter(source_1 == "Indoor dust" & source_2 == "Indoor dust") %>% 
+    filter(correlation != 1)
+
+range(dust$correlation)
+
+

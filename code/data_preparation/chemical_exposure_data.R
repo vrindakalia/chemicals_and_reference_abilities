@@ -69,7 +69,9 @@ chemicals_detection$YSAD = chemical_concentrations$YSAD
 chemicals_detection_meta_data <- merge(meta_data, chemicals_detection, by = "YSAD")
 
 # Tally detection across all samples ----
-detection_tally <- gather(chemicals_detection, key = "chemical", value = "detection") %>%
+detection_tally <- chemicals_detection %>% 
+    select(-YSAD) %>% 
+    gather(., key = "chemical", value = "detection") %>%
     group_by(chemical, detection) %>%
     tally %>% 
     spread(detection, n, fill = 0) %>% 
@@ -81,6 +83,57 @@ detection_tally %>% write_tsv("code/output/detection_all_samples.txt")
 # Chemicals detected in at least 50% of the samples ----
 detection_in_atl_50perc <- detection_tally %>% 
     filter(proportion_detected >= 0.5)
+
+# Tally detection across all samples, by visit ----
+detection_tally_by_visit <- chemicals_detection_meta_data %>% 
+    select(Visit, all_of(chemical_names)) %>% 
+    gather(., key = "chemical", value = "detection", -Visit) %>%
+    group_by(chemical, detection, Visit) %>%
+    tally 
+
+v1_n <- chemicals_detection_meta_data %>% 
+    filter(Visit == "Baseline") %>% 
+    dim(.) %>% 
+    .[1]
+
+v2_n <- chemicals_detection_meta_data %>% 
+    filter(Visit == "Follow Up 1") %>% 
+    dim(.) %>% 
+    .[1]
+
+detection_tally_by_visit1 <- detection_tally_by_visit %>% 
+    filter(Visit == "Baseline") %>% 
+    spread(detection, n, fill = 0) %>% 
+    mutate(proportion_detected_v1 = `3`/v1_n) %>% 
+    select(chemical, missing = `1`, belowLOD = `2`, detected = `3`, proportion_detected_v1) %>% 
+    select(chemical, proportion_detected_v1)
+
+detection_tally_by_visit2 <- detection_tally_by_visit %>% 
+    filter(Visit == "Follow Up 1") %>% 
+    spread(detection, n, fill = 0) %>% 
+    mutate(proportion_detected_v2 = `3`/v2_n) %>% 
+    select(chemical, missing = `1`, belowLOD = `2`, detected = `3`, proportion_detected_v2) %>% 
+    select(chemical, proportion_detected_v2)
+
+detection_tally_both_visits <- merge(detection_tally_by_visit1, detection_tally_by_visit2, by = "chemical") %>% 
+    mutate(included = case_when(chemical %in% detection_in_atl_50perc$chemical ~ 1,
+                                !chemical %in% detection_in_atl_50perc$chemical ~ 0))
+
+png("figures/detection_rate_by_visit_colored_by_inclusion.png",
+    res = 300, units = "in", h = 4, w = 6)
+detection_tally_both_visits %>% 
+    ggplot(aes(x = proportion_detected_v1, y = proportion_detected_v2, color = factor(included))) +
+    geom_point() +
+    geom_abline(intercept = 0.00, slope = 1, linetype = 2, colour = "black", alpha = 0.6) +
+    annotate("text", x = 0.9, y = 0.1, label = "r = 0.7") +
+    theme_bw() +
+    geom_vline(xintercept = 0.5, linetype = "dashed", alpha = 0.7, color = "blue") +
+    geom_hline(yintercept = 0.5, linetype = "dashed", alpha = 0.7, color = "blue") +
+    scale_color_manual(values = c("grey66", "orange")) +
+    theme(legend.position = "bottom") +
+    labs(x = "Detection, baseline", y = "Detection, followup", color = "Included") 
+dev.off()
+cor.test(detection_tally_both_visits$proportion_detected_v1, detection_tally_both_visits$proportion_detected_v2, method = "pear")
 
 # Replace N/F with NA, and LOD and NA with half minimum value  ----
 chemicals_replaced <- chemical_concentrations %>% 
