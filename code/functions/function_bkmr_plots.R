@@ -10,7 +10,7 @@ bkmr_plots <- function(outcome_name = "", iter_num){
     } else if(outcome_name == "reasoning"){
         title = "Fluid reasoning"
     } else if(outcome_name == "speed"){
-        title = "Perceptual speed"
+        title = "Processing speed"
     } else if(outcome_name == "vocabulary"){
         title = "Vocabulary"
     } else {

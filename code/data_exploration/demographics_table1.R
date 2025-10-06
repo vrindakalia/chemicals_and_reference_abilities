@@ -1,11 +1,15 @@
 # Table 1
+source("code/packages/packages_to_load.R")
 # Get outcome and exposure data
 meta_data <- read_tsv("data/outcome_and_meta_data.txt")
 chemical_data <- read_tsv("data/chemicals_replaced_filtered_transformed.txt")
 
 # Merge the outcome and exposure data; the complete dataset
 chemical_and_meta_data <- merge(meta_data, chemical_data, by = "ysad") %>% 
-    filter(!is.na(apoe_e4))
+    filter(!is.na(apoe_e4)) %>% 
+    group_by(sub_id) %>% 
+    mutate(visit = seq_along(ysad)) %>% 
+    ungroup()
 
 # Labels and units for age
 label(chemical_and_meta_data$age_eval) <- "Age"
@@ -30,16 +34,16 @@ label(chemical_and_meta_data$memory) <- "Episodic memory"
 # Labels for vocabulary
 label(chemical_and_meta_data$vocab) <- "Vocabulary"
 # Labels for processing speed
-label(chemical_and_meta_data$speed) <- "Perceptual speed"
+label(chemical_and_meta_data$speed) <- "Processing speed"
 # Labels for reasoning
 label(chemical_and_meta_data$reasoning) <- "Fluid reasoning"
 # Labels for visit number
 chemical_and_meta_data$bl0fu1 <- factor(chemical_and_meta_data$bl0fu1, levels = c(0,1), labels = c("Visit 0", "Visit 1"))
+#Labels for visit
+chemical_and_meta_data$visit <- factor(chemical_and_meta_data$visit , levels = c(1,2),
+                                      labels = c("Baseline visit", "Follow up visit"))
+label(chemical_and_meta_data$visit) <- "Visit"
 
 # Generate table 1
 table1(~age_eval + education + race + female + apoe_e4 + global_score +
-                memory + vocab + reasoning + speed | bl0fu1, data = chemical_and_meta_data)
-
-chemical_and_meta_data %>% 
-    select(ysad, sub_id) %>% 
-    write_tsv("/Users/vrindakalia/Documents/MillerLab/RANN/clean_data/RANN_ids_manuscript.txt")
+                memory + vocab + reasoning + speed | visit, data = chemical_and_meta_data)

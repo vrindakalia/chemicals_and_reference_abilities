@@ -18,3 +18,10 @@ codeLODNF <- function(x) {
     return(y)
 }
 
+codeDetect <- function(x) {
+    y = case_when(x == "<LOD" ~ 0,
+                  x == "N/F" ~ 0,
+                  x != "<LOD|N/F" ~ 1,
+                  is.na(x) ~ 0)
+    return(y)
+}

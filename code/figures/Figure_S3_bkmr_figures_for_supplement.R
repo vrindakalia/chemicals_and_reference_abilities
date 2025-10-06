@@ -10,7 +10,7 @@ speed_overall_risk <- ggdraw() +
 vocab_overall_risk <- ggdraw() +
     draw_image("figures/bkmr/vocabulary_bkmr_overall_risk.png", scale = 1) 
 
-png("figures/supplemental_overall_risk_all_RAs.png", res = 300, units = "in",
+png("figures/supplemental_figure3_overall_risk_all_RAs.png", res = 300, units = "in",
     h = 6, w = 8)
 plot_grid(memory_overall_risk,
           reasoning_overall_risk,

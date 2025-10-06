@@ -17,15 +17,16 @@ gee_results_with_chemical_data <- merge(gee_results, chemical_names_and_groups, 
                                               "Legacy", "Legacy PCB", "other"))) %>% 
     mutate(outcome_labels = case_when(outcome == "Memory" ~ "Episodic memory",
                                       outcome == "Reasoning" ~ "Fluid reasoning",
-                                      outcome == "Speed" ~ "Perceptual speed",
+                                      outcome == "Speed" ~ "Processing speed",
                                       outcome == "Vocabulary" ~ "Vocabulary",
                                       outcome == "Global score" ~ "Global score"))
-gee_results_with_chemical_data$outcome_labels <- factor(gee_results_with_chemical_data$outcome_labels, levels = c("Global score",
-                                                                                                                  "Episodic memory",
-                                                                                                                  "Fluid reasoning",
-                                                                                                                  "Perceptual speed",
-                                                                                                                  "Vocabulary"))
-png("figures/supplemental_gee_forest_plot.png", res = 300, units = "in",
+gee_results_with_chemical_data$outcome_labels <- factor(gee_results_with_chemical_data$outcome_labels, 
+                                                        levels = c("Global score",
+                                                                   "Episodic memory",
+                                                                    "Fluid reasoning",
+                                                                    "Processing speed",
+                                                                    "Vocabulary"))
+png("figures/supplemental_S2_gee_forest_plot.png", res = 300, units = "in",
     h = 10, w = 10)
 gee_results_with_chemical_data %>%  
     ggplot(aes(y = chemical_names_original, x = coefficient)) +

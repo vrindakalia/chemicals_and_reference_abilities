@@ -20,9 +20,9 @@ png("figures/Figure2_global_score.png", res = 300, units = "in",
 plot_grid(left, response, nrow = 1, rel_widths = c(0.45, 1), labels = c("", "C"))
 dev.off()
 
-# BKMR results: Figure 3: PIPs for all outcomes
+# BKMR results: Figure S4: PIPs for all outcomes
 source("code/figures/dotplot_pips_all_outcomes.R")
-png("figures/Figure3_PIPs_all_reference_abilities.png", res = 300, units = "in",
+png("figures/FigureS4_PIPs_all_reference_abilities.png", res = 300, units = "in",
     h = 8, w = 12)
 pips_graph
 dev.off()
