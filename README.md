@@ -18,7 +18,7 @@ In the `code` folder, the scripts should be run in the following order:
 
 3. In the `models` folder: 
 * `gee_models.R` runs multiple GEEs for each chemical and outcome of interest
-* `bkmr_models.R` runs multiple BKMRs. The analysis was run with 60,000 iterations that took almost an hour per outcome. May want to consider whether should run the script
+* `bkmr_models.R` runs multiple BKMRs. The analysis was run with 60,000 iterations (will take almost an hour to run per outcome). 
 
 4. The `output` folder contains results from the models run as well as other files saved to disc in analyses/ exploration
 
